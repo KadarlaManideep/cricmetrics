@@ -1,0 +1,1631 @@
+season,eliminator,id,inning,batting_team,bowling_team,runs,extras,deliveries,wickets,dots,singles,doubles,threes,fours,sixers,extra_deliveries,bowled,catches,run_outs
+2008,N,335982,1,Kolkata Knight Riders,Royal Challengers Bangalore,205,17,120,3,36,39,11,0,15,14,4,0,3,0
+2008,N,335982,2,Royal Challengers Bangalore,Kolkata Knight Riders,63,19,91,10,50,27,3,0,3,3,10,3,6,1
+2008,N,335983,1,Chennai Super Kings,Kings XI Punjab,234,6,120,5,34,40,9,0,19,16,4,3,2,0
+2008,N,335983,2,Kings XI Punjab,Chennai Super Kings,196,11,120,4,23,58,6,0,18,9,4,0,4,0
+2008,N,335984,1,Rajasthan Royals,Delhi Capitals,122,7,120,8,54,42,3,0,14,3,2,4,2,2
+2008,N,335984,2,Delhi Capitals,Rajasthan Royals,122,10,91,1,31,38,3,0,18,1,6,1,0,0
+2008,N,335985,1,Mumbai Indians,Royal Challengers Bangalore,154,11,120,7,45,42,5,0,18,5,3,1,3,1
+2008,N,335985,2,Royal Challengers Bangalore,Mumbai Indians,161,5,118,5,36,57,4,0,15,6,5,0,4,0
+2008,N,335986,1,Deccan Chargers,Kolkata Knight Riders,100,10,112,10,62,31,2,0,6,6,6,1,8,1
+2008,N,335986,2,Kolkata Knight Riders,Deccan Chargers,84,28,114,5,61,36,2,0,5,4,8,2,3,0
+2008,N,335987,1,Kings XI Punjab,Rajasthan Royals,162,4,119,8,54,32,6,1,18,7,3,4,1,1
+2008,N,335987,2,Rajasthan Royals,Kings XI Punjab,156,12,109,4,47,29,8,0,16,7,10,1,2,0
+2008,N,335988,1,Deccan Chargers,Delhi Capitals,137,5,120,8,56,35,9,0,12,5,2,3,4,1
+2008,N,335988,2,Delhi Capitals,Deccan Chargers,131,12,77,1,26,25,5,0,15,6,6,0,1,0
+2008,N,335989,1,Chennai Super Kings,Mumbai Indians,190,18,120,5,37,43,7,0,23,6,7,1,3,1
+2008,N,335989,2,Mumbai Indians,Chennai Super Kings,189,13,120,7,38,47,4,1,19,8,8,2,4,1
+2008,N,335990,1,Deccan Chargers,Rajasthan Royals,208,6,120,5,37,43,6,1,24,9,6,0,3,0
+2008,N,335990,2,Rajasthan Royals,Deccan Chargers,210,7,119,7,34,47,3,0,18,14,3,2,4,1
+2008,N,335991,1,Kings XI Punjab,Mumbai Indians,175,7,120,10,40,41,12,1,18,5,4,1,7,2
+2008,N,335991,2,Mumbai Indians,Kings XI Punjab,109,7,120,9,69,33,1,0,12,4,6,3,3,1
+2008,N,335992,1,Royal Challengers Bangalore,Rajasthan Royals,129,6,120,8,64,32,3,0,12,7,4,0,6,2
+2008,N,335992,2,Rajasthan Royals,Royal Challengers Bangalore,135,3,103,3,44,33,1,0,22,2,2,0,3,0
+2008,N,335993,1,Kolkata Knight Riders,Chennai Super Kings,139,8,120,9,49,43,8,0,14,4,6,1,6,1
+2008,N,335993,2,Chennai Super Kings,Kolkata Knight Riders,134,18,102,1,34,37,9,0,12,5,5,0,1,0
+2008,N,335994,1,Mumbai Indians,Deccan Chargers,143,11,120,7,49,38,6,2,14,5,5,1,6,0
+2008,N,335994,2,Deccan Chargers,Mumbai Indians,146,9,73,0,21,24,2,0,13,11,4,0,0,0
+2008,N,335995,1,Delhi Capitals,Kings XI Punjab,147,11,120,8,39,49,7,0,18,2,5,3,4,1
+2008,N,335995,2,Kings XI Punjab,Delhi Capitals,153,9,117,6,46,37,7,2,19,3,6,1,3,1
+2008,N,335996,1,Chennai Super Kings,Royal Challengers Bangalore,174,4,120,5,43,45,5,1,17,8,3,1,3,1
+2008,N,335996,2,Royal Challengers Bangalore,Chennai Super Kings,158,7,118,10,35,55,7,1,14,5,6,3,5,2
+2008,N,335997,1,Kolkata Knight Riders,Mumbai Indians,124,13,120,8,53,46,0,0,15,3,5,1,6,1
+2008,N,335997,2,Mumbai Indians,Kolkata Knight Riders,123,15,112,3,52,35,4,0,17,2,6,2,1,0
+2008,N,335998,1,Delhi Capitals,Royal Challengers Bangalore,187,4,120,5,31,51,10,0,21,5,2,2,2,1
+2008,N,335998,2,Royal Challengers Bangalore,Delhi Capitals,169,12,120,5,32,54,4,0,16,7,1,1,4,0
+2008,N,335999,1,Deccan Chargers,Kings XI Punjab,160,4,120,8,40,48,6,2,19,3,2,2,5,1
+2008,N,335999,2,Kings XI Punjab,Deccan Chargers,161,6,113,3,32,47,9,0,21,2,4,0,1,1
+2008,N,336000,1,Rajasthan Royals,Kolkata Knight Riders,182,14,120,7,37,43,9,0,22,5,7,4,1,1
+2008,N,336000,2,Kolkata Knight Riders,Rajasthan Royals,139,12,115,10,36,50,9,1,8,6,7,3,4,3
+2008,N,336001,1,Chennai Super Kings,Delhi Capitals,162,7,120,6,44,47,7,1,16,5,6,1,4,1
+2008,N,336001,2,Delhi Capitals,Chennai Super Kings,166,6,114,2,36,41,15,0,16,4,4,1,1,0
+2008,N,336002,1,Deccan Chargers,Royal Challengers Bangalore,152,13,120,10,51,41,4,0,14,7,6,2,5,2
+2008,N,336002,2,Royal Challengers Bangalore,Deccan Chargers,168,3,114,5,38,44,3,0,19,7,0,0,3,2
+2008,N,336003,1,Kings XI Punjab,Kolkata Knight Riders,164,14,120,6,42,41,5,0,22,4,5,1,2,1
+2008,N,336003,2,Kolkata Knight Riders,Kings XI Punjab,162,7,120,6,46,38,17,0,9,9,2,3,3,0
+2008,N,336004,1,Mumbai Indians,Delhi Capitals,152,10,120,8,50,43,2,0,14,8,4,3,5,0
+2008,N,336004,2,Delhi Capitals,Mumbai Indians,129,4,113,10,43,44,9,0,9,5,1,1,8,1
+2008,N,336005,1,Chennai Super Kings,Rajasthan Royals,102,7,114,10,61,29,8,1,12,1,2,5,4,0
+2008,N,336005,2,Rajasthan Royals,Chennai Super Kings,89,21,86,2,39,27,5,0,10,2,7,0,2,0
+2008,N,336006,1,Royal Challengers Bangalore,Kings XI Punjab,116,10,116,10,58,34,6,0,16,1,5,3,4,3
+2008,N,336006,2,Kings XI Punjab,Royal Challengers Bangalore,110,17,110,4,51,37,2,1,12,3,7,1,3,0
+2008,N,336007,1,Chennai Super Kings,Deccan Chargers,134,10,120,7,53,38,9,0,12,5,4,1,6,0
+2008,N,336007,2,Deccan Chargers,Chennai Super Kings,143,5,108,3,50,33,2,1,14,7,4,0,2,0
+2008,N,336008,1,Rajasthan Royals,Mumbai Indians,96,7,98,10,43,36,6,0,9,2,5,4,5,0
+2008,N,336008,2,Mumbai Indians,Rajasthan Royals,92,12,91,3,44,28,5,1,7,3,8,1,2,0
+2008,N,336009,1,Delhi Capitals,Chennai Super Kings,175,12,120,5,26,58,4,1,22,3,6,2,3,0
+2008,N,336009,2,Chennai Super Kings,Delhi Capitals,177,11,120,6,33,48,8,1,20,5,5,0,5,1
+2008,N,336010,1,Kolkata Knight Riders,Royal Challengers Bangalore,124,5,96,7,40,29,6,0,12,5,2,2,2,2
+2008,N,336010,2,Royal Challengers Bangalore,Kolkata Knight Riders,118,6,96,4,36,35,5,0,15,2,3,1,1,2
+2008,N,336011,1,Deccan Chargers,Rajasthan Royals,134,6,120,8,47,46,5,0,15,3,2,1,5,2
+2008,N,336011,2,Rajasthan Royals,Deccan Chargers,130,11,96,2,33,35,8,1,16,2,5,0,2,0
+2008,N,336012,1,Royal Challengers Bangalore,Mumbai Indians,111,11,108,9,49,40,6,1,10,2,7,2,6,1
+2008,N,336012,2,Mumbai Indians,Royal Challengers Bangalore,113,13,96,1,43,33,2,0,10,6,6,0,1,0
+2008,N,336013,1,Chennai Super Kings,Kings XI Punjab,166,15,120,4,40,44,10,1,14,7,11,0,4,0
+2008,N,336013,2,Kings XI Punjab,Chennai Super Kings,160,3,120,9,46,43,11,1,8,10,2,1,8,0
+2008,N,336014,1,Kolkata Knight Riders,Deccan Chargers,199,5,120,4,42,36,10,0,22,9,4,0,3,1
+2008,N,336014,2,Deccan Chargers,Kolkata Knight Riders,165,16,120,7,48,36,8,0,15,8,8,1,6,0
+2008,N,336015,1,Delhi Capitals,Rajasthan Royals,145,11,120,7,41,42,15,1,10,5,3,2,4,1
+2008,N,336015,2,Rajasthan Royals,Delhi Capitals,142,17,114,7,47,34,10,0,12,6,8,3,1,3
+2008,N,336016,1,Royal Challengers Bangalore,Kings XI Punjab,128,15,120,8,42,54,5,0,13,2,4,4,1,1
+2008,N,336016,2,Kings XI Punjab,Royal Challengers Bangalore,135,9,94,1,32,37,4,0,12,7,3,0,1,0
+2008,N,336017,1,Kolkata Knight Riders,Delhi Capitals,122,11,120,6,43,58,3,0,10,3,8,1,4,1
+2008,N,336017,2,Delhi Capitals,Kolkata Knight Riders,102,8,107,10,46,44,3,0,13,0,3,3,5,2
+2008,N,336018,1,Chennai Super Kings,Mumbai Indians,144,12,120,6,56,32,5,0,21,3,7,1,4,0
+2008,N,336018,2,Mumbai Indians,Chennai Super Kings,142,16,83,1,37,15,2,1,12,12,11,1,0,0
+2008,N,336019,1,Kings XI Punjab,Rajasthan Royals,216,5,120,3,41,39,4,1,20,14,4,0,2,1
+2008,N,336019,2,Rajasthan Royals,Kings XI Punjab,176,4,120,7,43,40,8,0,18,8,1,3,3,0
+2008,N,336020,1,Delhi Capitals,Deccan Chargers,186,8,120,4,31,48,12,2,18,6,5,0,2,1
+2008,N,336020,2,Deccan Chargers,Delhi Capitals,179,3,120,9,39,50,5,0,15,9,2,2,6,0
+2008,N,336021,1,Kolkata Knight Riders,Mumbai Indians,59,8,92,10,59,21,2,0,7,1,6,1,7,1
+2008,N,336021,2,Mumbai Indians,Kolkata Knight Riders,58,10,33,2,14,6,1,0,8,2,5,0,2,0
+2008,N,336022,1,Delhi Capitals,Kings XI Punjab,108,10,66,4,24,18,6,0,10,6,7,1,3,0
+2008,N,336022,2,Kings XI Punjab,Delhi Capitals,90,4,48,3,11,20,3,0,4,8,2,0,3,0
+2008,N,336023,1,Rajasthan Royals,Royal Challengers Bangalore,171,26,120,1,34,47,11,0,20,3,7,0,1,0
+2008,N,336023,2,Royal Challengers Bangalore,Rajasthan Royals,126,6,120,9,59,40,5,0,10,6,5,1,7,0
+2008,N,336024,1,Mumbai Indians,Deccan Chargers,158,20,120,7,43,43,4,0,17,6,8,3,4,0
+2008,N,336024,2,Deccan Chargers,Mumbai Indians,145,8,120,7,47,44,6,0,13,6,4,2,4,1
+2008,N,336025,1,Kolkata Knight Riders,Chennai Super Kings,136,13,120,5,45,39,9,0,15,3,4,4,1,0
+2008,N,336025,2,Chennai Super Kings,Kolkata Knight Riders,51,4,48,0,21,17,1,0,8,0,3,0,0,0
+2008,N,336026,1,Royal Challengers Bangalore,Delhi Capitals,145,9,120,7,53,41,6,0,14,6,5,2,3,2
+2008,N,336026,2,Delhi Capitals,Royal Challengers Bangalore,146,12,110,5,37,42,5,0,19,3,1,0,3,1
+2008,N,336027,1,Kolkata Knight Riders,Rajasthan Royals,142,5,120,8,51,42,6,0,13,6,2,3,4,1
+2008,N,336027,2,Rajasthan Royals,Kolkata Knight Riders,143,7,99,4,38,27,9,0,17,5,3,1,3,0
+2008,N,336028,1,Kings XI Punjab,Mumbai Indians,177,12,120,4,42,41,8,0,18,8,4,0,3,0
+2008,N,336028,2,Mumbai Indians,Kings XI Punjab,165,23,120,10,41,33,14,0,17,5,5,1,4,5
+2008,N,336029,1,Royal Challengers Bangalore,Chennai Super Kings,122,4,120,8,51,42,9,0,14,1,1,3,5,0
+2008,N,336029,2,Chennai Super Kings,Royal Challengers Bangalore,100,12,120,8,67,33,6,1,9,2,6,1,5,1
+2008,N,336031,1,Deccan Chargers,Kings XI Punjab,170,5,120,4,44,38,11,0,14,9,1,3,1,0
+2008,N,336031,2,Kings XI Punjab,Deccan Chargers,170,8,117,4,32,53,7,1,13,8,5,0,4,0
+2008,N,336032,1,Mumbai Indians,Delhi Capitals,167,9,120,8,45,46,3,0,18,7,7,2,5,1
+2008,N,336032,2,Delhi Capitals,Mumbai Indians,176,3,119,5,39,46,7,0,20,6,1,2,2,1
+2008,N,336033,1,Rajasthan Royals,Chennai Super Kings,204,7,120,5,30,48,11,0,20,9,2,0,3,2
+2008,N,336033,2,Chennai Super Kings,Rajasthan Royals,192,9,120,7,35,49,6,0,19,8,6,1,4,1
+2008,N,336034,1,Royal Challengers Bangalore,Deccan Chargers,151,5,120,8,34,61,3,0,15,4,2,4,3,1
+2008,N,336034,2,Deccan Chargers,Royal Challengers Bangalore,147,6,120,6,40,55,1,0,15,5,2,2,4,0
+2008,N,336035,1,Kings XI Punjab,Kolkata Knight Riders,163,11,120,6,42,47,6,2,17,5,6,4,1,1
+2008,N,336035,2,Kolkata Knight Riders,Kings XI Punjab,166,9,118,7,50,36,4,0,17,9,4,3,4,0
+2008,N,336036,1,Mumbai Indians,Rajasthan Royals,132,13,120,7,46,40,13,1,14,1,7,2,3,0
+2008,N,336036,2,Rajasthan Royals,Mumbai Indians,130,16,120,5,42,51,8,2,11,2,6,0,3,2
+2008,N,336037,1,Deccan Chargers,Chennai Super Kings,131,16,120,8,43,49,6,0,13,3,6,2,5,1
+2008,N,336037,2,Chennai Super Kings,Deccan Chargers,137,11,116,3,46,42,5,1,16,3,8,0,3,0
+2008,N,336038,1,Rajasthan Royals,Delhi Capitals,188,4,120,9,46,36,8,0,19,10,3,1,5,1
+2008,N,336038,2,Delhi Capitals,Rajasthan Royals,80,7,97,10,49,34,2,0,9,1,3,1,8,1
+2008,N,336039,1,Kings XI Punjab,Chennai Super Kings,108,4,120,8,62,35,7,1,11,2,2,2,5,1
+2008,N,336039,2,Chennai Super Kings,Kings XI Punjab,112,4,89,1,37,34,1,0,13,4,4,0,1,0
+2008,N,336040,1,Chennai Super Kings,Rajasthan Royals,156,7,120,5,37,50,14,0,9,7,4,0,5,0
+2008,N,336040,2,Rajasthan Royals,Chennai Super Kings,150,14,120,7,43,44,11,1,12,5,6,2,3,2
+2009,N,392181,1,Mumbai Indians,Chennai Super Kings,162,3,120,7,35,55,5,1,19,3,1,0,5,1
+2009,N,392181,2,Chennai Super Kings,Mumbai Indians,137,9,120,7,46,50,4,1,10,6,3,1,5,0
+2009,N,392182,1,Royal Challengers Bangalore,Rajasthan Royals,129,4,120,8,55,35,11,0,15,2,2,3,4,0
+2009,N,392182,2,Rajasthan Royals,Royal Challengers Bangalore,49,9,91,10,59,23,5,0,1,2,8,1,7,1
+2009,N,392183,1,Kings XI Punjab,Delhi Capitals,96,8,72,7,28,22,6,0,5,7,4,1,4,2
+2009,N,392183,2,Delhi Capitals,Kings XI Punjab,53,5,29,0,9,7,2,0,6,3,3,0,0,0
+2009,N,392184,1,Kolkata Knight Riders,Deccan Chargers,96,5,118,10,66,33,4,1,7,4,1,2,5,1
+2009,N,392184,2,Deccan Chargers,Kolkata Knight Riders,102,2,79,2,36,22,3,2,11,4,1,0,1,1
+2009,N,392185,1,Chennai Super Kings,Royal Challengers Bangalore,166,13,120,5,34,57,5,1,15,6,4,2,2,1
+2009,N,392185,2,Royal Challengers Bangalore,Chennai Super Kings,82,5,92,10,48,27,5,1,9,1,4,3,4,1
+2009,N,392186,1,Kings XI Punjab,Kolkata Knight Riders,146,12,120,6,46,46,8,0,15,4,7,0,5,1
+2009,N,392186,2,Kolkata Knight Riders,Kings XI Punjab,75,4,56,1,26,16,4,1,3,6,4,0,1,0
+2009,N,392188,1,Deccan Chargers,Royal Challengers Bangalore,175,9,120,6,39,44,10,1,9,12,1,1,4,1
+2009,N,392188,2,Royal Challengers Bangalore,Deccan Chargers,153,7,120,8,48,39,11,0,17,4,6,1,5,1
+2009,N,392189,1,Delhi Capitals,Chennai Super Kings,188,1,120,5,35,47,13,1,16,8,1,0,5,0
+2009,N,392189,2,Chennai Super Kings,Delhi Capitals,165,15,120,9,31,55,12,0,14,5,5,0,6,3
+2009,Y,392190,1,Rajasthan Royals,Kolkata Knight Riders,140,10,120,6,45,47,8,1,11,5,6,1,5,0
+2009,Y,392190,2,Kolkata Knight Riders,Rajasthan Royals,132,18,120,8,51,42,7,0,10,5,10,0,7,1
+2009,N,392191,1,Royal Challengers Bangalore,Kings XI Punjab,160,8,120,9,46,37,13,1,16,5,3,3,6,0
+2009,N,392191,2,Kings XI Punjab,Royal Challengers Bangalore,160,13,114,3,23,62,8,0,10,7,5,0,2,1
+2009,N,392192,1,Deccan Chargers,Mumbai Indians,154,14,120,9,39,48,8,0,12,7,5,4,4,1
+2009,N,392192,2,Mumbai Indians,Deccan Chargers,143,13,120,7,42,50,5,0,10,7,7,2,5,0
+2009,N,392194,1,Royal Challengers Bangalore,Delhi Capitals,138,11,120,7,45,48,11,0,8,5,6,3,3,1
+2009,N,392194,2,Delhi Capitals,Royal Challengers Bangalore,146,4,116,4,35,52,15,0,10,4,4,1,3,0
+2009,N,392195,1,Kings XI Punjab,Rajasthan Royals,126,13,120,6,50,43,7,1,12,3,8,1,3,2
+2009,N,392195,2,Rajasthan Royals,Kings XI Punjab,102,10,120,7,52,49,7,1,9,0,5,2,5,0
+2009,N,392196,1,Chennai Super Kings,Deccan Chargers,158,7,120,6,45,49,4,0,16,6,7,0,4,0
+2009,N,392196,2,Deccan Chargers,Chennai Super Kings,159,10,117,4,37,51,7,0,13,7,4,1,3,0
+2009,N,392197,1,Mumbai Indians,Kolkata Knight Riders,178,9,120,6,42,41,12,3,11,10,4,1,4,1
+2009,N,392197,2,Kolkata Knight Riders,Mumbai Indians,91,4,92,9,40,37,5,0,8,2,3,3,6,0
+2009,N,392198,1,Delhi Capitals,Rajasthan Royals,138,5,120,7,44,48,8,0,14,3,2,3,3,0
+2009,N,392198,2,Rajasthan Royals,Delhi Capitals,138,9,112,5,47,38,7,0,11,7,6,1,2,1
+2009,N,392199,1,Kolkata Knight Riders,Royal Challengers Bangalore,130,9,120,6,43,52,9,0,12,2,3,2,4,0
+2009,N,392199,2,Royal Challengers Bangalore,Kolkata Knight Riders,134,9,119,5,43,51,7,1,12,3,6,0,5,0
+2009,N,392200,1,Kings XI Punjab,Mumbai Indians,102,17,120,8,42,64,5,0,4,2,6,2,4,1
+2009,N,392200,2,Mumbai Indians,Kings XI Punjab,105,11,120,7,54,42,13,1,7,1,8,2,5,0
+2009,N,392201,1,Deccan Chargers,Delhi Capitals,137,11,120,9,45,42,11,1,13,3,3,2,5,2
+2009,N,392201,2,Delhi Capitals,Deccan Chargers,138,12,112,4,45,36,9,0,14,4,8,2,2,0
+2009,N,392202,1,Chennai Super Kings,Rajasthan Royals,159,5,120,5,45,43,8,1,15,6,3,1,3,0
+2009,N,392202,2,Rajasthan Royals,Chennai Super Kings,118,8,117,9,47,48,7,0,11,2,3,1,7,0
+2009,N,392203,1,Mumbai Indians,Kolkata Knight Riders,135,13,120,6,42,52,7,0,8,6,6,1,5,0
+2009,N,392203,2,Kolkata Knight Riders,Mumbai Indians,131,8,120,6,43,53,10,0,10,3,7,3,2,1
+2009,N,392204,1,Royal Challengers Bangalore,Kings XI Punjab,139,6,120,9,52,40,7,1,13,5,4,3,6,0
+2009,N,392204,2,Kings XI Punjab,Royal Challengers Bangalore,124,13,120,7,56,35,9,1,11,4,3,2,4,1
+2009,N,392205,1,Deccan Chargers,Rajasthan Royals,134,7,120,5,51,41,8,1,11,5,4,1,4,0
+2009,N,392205,2,Rajasthan Royals,Deccan Chargers,135,7,118,7,49,42,6,1,12,5,4,1,5,1
+2009,N,392206,1,Chennai Super Kings,Delhi Capitals,154,9,120,10,44,46,9,0,15,5,5,1,7,1
+2009,N,392206,2,Delhi Capitals,Chennai Super Kings,142,3,120,8,52,38,8,1,15,4,1,4,3,0
+2009,N,392207,1,Kolkata Knight Riders,Kings XI Punjab,146,7,120,3,46,41,10,1,16,3,3,0,3,0
+2009,N,392207,2,Kings XI Punjab,Kolkata Knight Riders,144,10,120,4,41,52,8,0,13,4,6,0,4,0
+2009,N,392208,1,Mumbai Indians,Royal Challengers Bangalore,143,6,120,4,47,41,12,2,13,3,2,0,4,0
+2009,N,392208,2,Royal Challengers Bangalore,Mumbai Indians,142,8,109,1,43,33,13,1,14,4,7,0,1,0
+2009,N,392209,1,Chennai Super Kings,Deccan Chargers,168,10,120,3,35,54,8,0,14,7,4,0,3,0
+2009,N,392209,2,Deccan Chargers,Chennai Super Kings,93,7,88,10,43,25,4,0,6,6,3,4,6,0
+2009,N,392210,1,Rajasthan Royals,Kings XI Punjab,207,4,120,4,40,40,8,0,24,8,4,0,4,0
+2009,N,392210,2,Kings XI Punjab,Rajasthan Royals,114,19,120,8,59,36,5,0,11,4,8,2,5,0
+2009,N,392211,1,Kolkata Knight Riders,Delhi Capitals,150,4,120,3,44,49,9,1,13,4,4,1,2,0
+2009,N,392211,2,Delhi Capitals,Kolkata Knight Riders,149,8,114,1,41,38,14,1,17,2,2,0,1,0
+2009,N,392212,1,Deccan Chargers,Mumbai Indians,136,9,120,6,44,47,9,1,8,6,4,2,3,1
+2009,N,392212,2,Mumbai Indians,Deccan Chargers,123,3,120,8,51,46,6,1,11,3,1,3,4,0
+2009,N,392213,1,Royal Challengers Bangalore,Rajasthan Royals,100,5,120,10,59,47,5,0,6,3,5,4,5,1
+2009,N,392213,2,Rajasthan Royals,Royal Challengers Bangalore,104,3,90,3,41,28,6,2,10,3,3,1,1,1
+2009,N,392214,1,Chennai Super Kings,Kings XI Punjab,179,6,108,3,37,33,8,0,19,9,1,0,3,0
+2009,N,392214,2,Kings XI Punjab,Chennai Super Kings,168,6,108,3,26,46,13,0,12,8,3,1,2,0
+2009,N,392215,1,Mumbai Indians,Delhi Capitals,103,13,120,10,56,46,5,0,7,3,10,2,5,3
+2009,N,392215,2,Delhi Capitals,Mumbai Indians,112,6,113,3,48,49,2,1,11,2,4,0,2,0
+2009,N,392216,1,Deccan Chargers,Kings XI Punjab,161,7,120,5,47,37,16,0,9,9,5,0,4,1
+2009,N,392216,2,Kings XI Punjab,Deccan Chargers,160,9,119,7,31,58,10,0,10,7,3,1,4,2
+2009,N,392217,1,Rajasthan Royals,Chennai Super Kings,133,7,120,7,49,42,8,0,11,5,2,2,2,1
+2009,N,392217,2,Chennai Super Kings,Rajasthan Royals,131,10,110,3,50,30,9,1,14,4,6,1,1,0
+2009,N,392218,1,Mumbai Indians,Royal Challengers Bangalore,150,7,120,2,40,49,16,0,10,4,7,1,1,0
+2009,N,392218,2,Royal Challengers Bangalore,Mumbai Indians,127,14,120,7,46,45,14,0,9,3,8,1,3,1
+2009,N,392219,1,Kolkata Knight Riders,Delhi Capitals,115,8,120,8,57,42,8,1,6,5,6,1,6,0
+2009,N,392219,2,Delhi Capitals,Kolkata Knight Riders,112,13,103,3,40,38,8,0,13,1,5,0,3,0
+2009,N,392220,1,Deccan Chargers,Rajasthan Royals,164,2,120,7,36,51,15,1,8,8,1,2,4,0
+2009,N,392220,2,Rajasthan Royals,Deccan Chargers,109,4,117,10,51,46,7,1,10,1,3,4,2,3
+2009,N,392221,1,Kolkata Knight Riders,Royal Challengers Bangalore,164,9,120,4,40,49,7,1,16,5,4,1,3,0
+2009,N,392221,2,Royal Challengers Bangalore,Kolkata Knight Riders,167,9,116,4,42,42,9,0,15,6,8,0,3,0
+2009,N,392222,1,Kings XI Punjab,Mumbai Indians,101,18,120,9,64,37,3,0,10,3,10,2,4,3
+2009,N,392222,2,Mumbai Indians,Kings XI Punjab,116,6,98,2,47,27,7,1,12,4,6,1,1,0
+2009,N,392223,1,Delhi Capitals,Deccan Chargers,161,12,120,7,45,45,7,0,16,6,6,0,6,1
+2009,N,392223,2,Deccan Chargers,Delhi Capitals,153,8,118,10,44,43,8,0,13,7,5,4,5,1
+2009,N,392224,1,Chennai Super Kings,Royal Challengers Bangalore,125,4,118,10,48,45,7,0,12,3,1,0,7,2
+2009,N,392224,2,Royal Challengers Bangalore,Chennai Super Kings,124,8,118,8,51,44,6,0,11,4,3,2,5,1
+2009,N,392225,1,Rajasthan Royals,Mumbai Indians,138,7,120,7,48,45,4,1,16,3,4,1,5,1
+2009,N,392225,2,Mumbai Indians,Rajasthan Royals,125,18,119,10,44,48,12,0,10,2,8,3,3,3
+2009,N,392226,1,Delhi Capitals,Kings XI Punjab,106,14,120,9,53,37,18,1,6,1,7,1,7,1
+2009,N,392226,2,Kings XI Punjab,Delhi Capitals,114,9,115,4,63,27,7,0,12,4,7,1,3,0
+2009,N,392227,1,Mumbai Indians,Chennai Super Kings,142,5,120,5,43,51,9,0,9,6,2,1,2,2
+2009,N,392227,2,Chennai Super Kings,Mumbai Indians,125,26,115,3,45,39,11,0,10,4,5,1,1,0
+2009,N,392228,1,Kolkata Knight Riders,Deccan Chargers,153,7,120,5,45,41,14,1,10,6,4,0,4,1
+2009,N,392228,2,Deccan Chargers,Kolkata Knight Riders,159,7,120,4,43,43,12,0,13,6,4,0,2,2
+2009,N,392229,1,Kings XI Punjab,Deccan Chargers,127,7,120,7,48,48,9,1,10,3,6,1,5,1
+2009,N,392229,2,Deccan Chargers,Kings XI Punjab,128,5,120,8,62,28,14,0,11,4,4,3,1,1
+2009,N,392230,1,Delhi Capitals,Rajasthan Royals,145,5,120,3,37,53,15,2,11,1,4,2,0,0
+2009,N,392230,2,Rajasthan Royals,Delhi Capitals,123,13,120,9,52,37,9,3,13,1,7,1,6,0
+2009,N,392231,1,Chennai Super Kings,Kolkata Knight Riders,168,20,120,3,35,50,9,0,16,6,9,0,1,2
+2009,N,392231,2,Kolkata Knight Riders,Chennai Super Kings,184,5,120,3,41,40,14,0,16,8,1,2,0,1
+2009,N,392232,1,Delhi Capitals,Royal Challengers Bangalore,131,3,120,7,36,59,14,2,8,1,3,2,5,0
+2009,N,392232,2,Royal Challengers Bangalore,Delhi Capitals,132,3,114,3,41,49,10,0,8,5,2,0,2,0
+2009,N,392233,1,Rajasthan Royals,Kolkata Knight Riders,96,5,120,9,65,36,7,0,7,3,3,3,3,3
+2009,N,392233,2,Kolkata Knight Riders,Rajasthan Royals,97,5,117,6,62,34,6,1,9,2,2,1,3,1
+2009,N,392234,1,Chennai Super Kings,Kings XI Punjab,109,7,120,9,53,47,3,0,11,2,2,3,3,2
+2009,N,392234,2,Kings XI Punjab,Chennai Super Kings,86,6,120,8,60,42,9,0,5,1,3,3,4,0
+2009,N,392235,1,Mumbai Indians,Delhi Capitals,141,24,120,8,45,39,9,0,18,2,11,3,3,1
+2009,N,392235,2,Delhi Capitals,Mumbai Indians,157,9,105,6,36,39,7,0,17,6,5,2,4,0
+2009,N,392236,1,Royal Challengers Bangalore,Deccan Chargers,168,2,120,4,45,35,18,1,13,7,1,0,3,0
+2009,N,392236,2,Deccan Chargers,Royal Challengers Bangalore,145,13,120,6,37,54,9,1,10,5,6,1,4,1
+2009,N,392237,1,Delhi Capitals,Deccan Chargers,143,10,120,8,46,45,10,0,13,4,5,2,4,2
+2009,N,392237,2,Deccan Chargers,Delhi Capitals,148,6,106,4,41,40,6,0,13,6,6,1,2,0
+2009,N,392238,1,Chennai Super Kings,Royal Challengers Bangalore,140,6,120,5,40,53,8,1,11,4,3,1,4,0
+2009,N,392238,2,Royal Challengers Bangalore,Chennai Super Kings,144,5,113,4,46,35,10,0,16,3,2,3,1,0
+2009,N,392239,1,Deccan Chargers,Royal Challengers Bangalore,135,8,120,6,47,41,17,0,9,4,6,3,3,0
+2009,N,392239,2,Royal Challengers Bangalore,Deccan Chargers,127,10,120,9,53,37,7,2,10,5,1,2,5,0
+2010,N,419106,1,Kolkata Knight Riders,Deccan Chargers,146,15,120,4,50,39,7,0,11,8,7,0,4,0
+2010,N,419106,2,Deccan Chargers,Kolkata Knight Riders,138,12,120,7,45,46,12,0,11,4,7,1,4,0
+2010,N,419107,1,Mumbai Indians,Rajasthan Royals,196,16,120,7,33,43,11,1,23,6,9,2,3,1
+2010,N,419107,2,Rajasthan Royals,Mumbai Indians,203,5,120,7,35,47,9,0,18,11,5,2,1,3
+2010,N,419108,1,Kings XI Punjab,Delhi Capitals,129,13,120,9,52,36,10,0,14,2,5,1,5,1
+2010,N,419108,2,Delhi Capitals,Kings XI Punjab,139,7,119,5,44,44,11,1,16,1,2,0,4,1
+2010,N,419109,1,Royal Challengers Bangalore,Kolkata Knight Riders,130,5,120,7,44,51,7,0,13,2,2,3,4,0
+2010,N,419109,2,Kolkata Knight Riders,Royal Challengers Bangalore,130,6,116,3,50,41,6,1,14,3,5,0,2,0
+2010,N,419110,1,Deccan Chargers,Chennai Super Kings,174,16,120,4,42,42,6,0,18,8,11,1,0,3
+2010,N,419110,2,Chennai Super Kings,Deccan Chargers,156,3,120,9,44,51,7,1,7,10,3,3,5,0
+2010,N,419111,1,Rajasthan Royals,Delhi Capitals,136,5,120,6,54,40,8,0,14,4,5,1,3,2
+2010,N,419111,2,Delhi Capitals,Rajasthan Royals,133,9,103,4,34,41,7,0,12,5,4,0,4,0
+2010,N,419112,1,Kings XI Punjab,Royal Challengers Bangalore,190,13,120,3,36,45,7,3,19,7,10,0,3,0
+2010,N,419112,2,Royal Challengers Bangalore,Kings XI Punjab,194,10,113,2,36,40,8,0,15,13,5,0,2,0
+2010,N,419113,1,Chennai Super Kings,Kolkata Knight Riders,161,3,120,3,40,43,15,0,16,4,1,3,0,0
+2010,N,419113,2,Kolkata Knight Riders,Chennai Super Kings,101,8,116,10,57,38,2,1,14,0,3,4,5,1
+2010,N,419114,1,Mumbai Indians,Delhi Capitals,201,17,120,7,30,49,6,3,19,9,7,1,4,1
+2010,N,419114,2,Delhi Capitals,Mumbai Indians,109,11,99,9,42,35,3,0,14,2,4,4,2,1
+2010,N,419115,1,Rajasthan Royals,Royal Challengers Bangalore,85,7,119,10,64,41,3,2,5,2,5,4,2,2
+2010,N,419115,2,Royal Challengers Bangalore,Rajasthan Royals,86,7,64,0,27,20,2,0,14,1,7,0,0,0
+2010,N,419116,1,Delhi Capitals,Chennai Super Kings,175,10,120,6,34,53,4,0,20,5,5,1,5,0
+2010,N,419116,2,Chennai Super Kings,Delhi Capitals,180,10,115,5,41,42,2,0,17,11,8,1,3,1
+2010,N,419117,1,Deccan Chargers,Kings XI Punjab,169,1,120,8,35,56,8,1,13,7,1,1,4,2
+2010,N,419117,2,Kings XI Punjab,Deccan Chargers,152,12,120,8,50,37,5,1,18,5,2,2,5,1
+2010,N,419118,1,Rajasthan Royals,Kolkata Knight Riders,160,8,120,7,34,50,9,0,20,2,3,1,5,1
+2010,N,419118,2,Kolkata Knight Riders,Rajasthan Royals,129,5,120,5,42,51,9,0,12,2,1,3,1,1
+2010,N,419119,1,Mumbai Indians,Royal Challengers Bangalore,137,14,120,9,48,34,12,1,16,2,4,4,5,0
+2010,N,419119,2,Royal Challengers Bangalore,Mumbai Indians,153,2,115,3,39,45,9,0,15,5,0,0,2,1
+2010,N,419120,1,Deccan Chargers,Delhi Capitals,169,2,120,6,46,44,5,0,15,9,1,1,4,1
+2010,N,419120,2,Delhi Capitals,Deccan Chargers,157,4,120,9,38,52,7,1,13,6,1,2,4,2
+2010,Y,419121,1,Kings XI Punjab,Chennai Super Kings,132,4,120,8,50,44,7,0,14,3,2,2,3,2
+2010,Y,419121,2,Chennai Super Kings,Kings XI Punjab,123,13,120,7,50,49,4,0,9,5,8,3,2,1
+2010,N,419122,1,Kolkata Knight Riders,Mumbai Indians,140,15,120,3,38,51,7,1,15,2,6,3,0,0
+2010,N,419122,2,Mumbai Indians,Kolkata Knight Riders,152,4,111,3,37,42,10,0,21,1,4,1,2,0
+2010,N,419123,1,Royal Challengers Bangalore,Chennai Super Kings,157,14,120,5,46,41,6,0,14,8,4,3,1,0
+2010,N,419123,2,Chennai Super Kings,Royal Challengers Bangalore,124,11,120,7,54,44,3,0,14,3,6,1,5,1
+2010,N,419124,1,Rajasthan Royals,Kings XI Punjab,173,10,120,5,35,46,11,1,21,3,7,0,2,2
+2010,N,419124,2,Kings XI Punjab,Rajasthan Royals,146,6,115,10,38,50,6,2,13,4,4,2,7,1
+2010,N,419125,1,Chennai Super Kings,Mumbai Indians,166,14,120,2,30,54,11,0,18,3,10,2,0,0
+2010,N,419125,2,Mumbai Indians,Chennai Super Kings,167,14,114,5,35,41,13,0,15,6,6,3,2,0
+2010,N,419126,1,Deccan Chargers,Rajasthan Royals,137,11,120,9,40,56,5,1,8,6,7,1,4,3
+2010,N,419126,2,Rajasthan Royals,Deccan Chargers,140,11,94,2,35,34,4,0,11,9,3,0,0,1
+2010,N,419127,1,Kolkata Knight Riders,Kings XI Punjab,165,18,120,5,40,46,9,0,20,3,10,1,4,0
+2010,N,419127,2,Kings XI Punjab,Kolkata Knight Riders,138,6,120,6,45,49,8,1,13,3,5,2,2,0
+2010,N,419128,1,Delhi Capitals,Royal Challengers Bangalore,175,8,120,4,31,53,13,2,15,5,7,0,2,2
+2010,N,419128,2,Royal Challengers Bangalore,Delhi Capitals,150,16,120,9,31,63,1,2,15,3,5,3,3,3
+2010,N,419129,1,Rajasthan Royals,Chennai Super Kings,174,3,120,8,36,50,11,0,15,7,2,0,6,2
+2010,N,419129,2,Chennai Super Kings,Rajasthan Royals,154,6,120,6,36,54,10,0,11,6,3,1,2,2
+2010,N,419130,1,Mumbai Indians,Deccan Chargers,162,10,120,7,50,40,3,0,23,3,9,1,5,0
+2010,N,419130,2,Deccan Chargers,Mumbai Indians,120,11,106,10,47,34,7,0,9,6,4,3,6,0
+2010,N,419131,1,Delhi Capitals,Kolkata Knight Riders,173,4,120,4,34,60,4,1,15,6,4,2,1,0
+2010,N,419131,2,Kolkata Knight Riders,Delhi Capitals,126,11,120,9,44,51,6,0,11,3,6,4,2,1
+2010,N,419132,1,Kings XI Punjab,Mumbai Indians,142,21,120,10,37,50,15,0,14,1,7,4,4,2
+2010,N,419132,2,Mumbai Indians,Kings XI Punjab,147,17,117,6,40,48,8,1,14,4,7,0,5,0
+2010,N,419133,1,Royal Challengers Bangalore,Chennai Super Kings,156,5,120,4,41,52,5,0,16,5,4,0,3,1
+2010,N,419133,2,Chennai Super Kings,Royal Challengers Bangalore,152,10,113,5,35,46,10,0,9,7,4,1,3,0
+2010,N,419134,1,Delhi Capitals,Rajasthan Royals,175,13,120,6,33,49,11,0,17,6,4,1,4,1
+2010,N,419134,2,Rajasthan Royals,Delhi Capitals,118,3,106,10,52,32,7,0,9,6,3,1,5,2
+2010,N,419135,1,Kolkata Knight Riders,Deccan Chargers,167,14,120,6,43,41,8,0,17,7,6,1,5,0
+2010,N,419135,2,Deccan Chargers,Kolkata Knight Riders,150,7,120,5,41,48,9,0,18,2,5,1,4,0
+2010,N,419136,1,Kings XI Punjab,Royal Challengers Bangalore,170,11,120,5,36,48,10,1,20,3,4,1,3,1
+2010,N,419136,2,Royal Challengers Bangalore,Kings XI Punjab,174,10,115,4,25,52,13,1,17,4,3,0,3,1
+2010,N,419137,1,Chennai Super Kings,Rajasthan Royals,240,6,120,5,33,39,9,0,19,17,2,0,4,1
+2010,N,419137,2,Rajasthan Royals,Chennai Super Kings,208,15,120,5,36,43,3,0,20,13,5,1,4,0
+2010,N,419138,1,Mumbai Indians,Deccan Chargers,171,7,120,5,35,47,15,0,16,5,4,2,2,0
+2010,N,419138,2,Deccan Chargers,Mumbai Indians,108,7,110,10,43,41,14,0,8,1,4,3,5,1
+2010,N,419139,1,Kolkata Knight Riders,Kings XI Punjab,187,13,120,3,36,51,6,0,16,10,7,0,2,0
+2010,N,419139,2,Kings XI Punjab,Kolkata Knight Riders,199,5,110,2,18,53,7,0,21,8,2,1,1,0
+2010,N,419140,1,Delhi Capitals,Royal Challengers Bangalore,176,8,120,5,45,40,7,0,14,11,3,1,2,2
+2010,N,419140,2,Royal Challengers Bangalore,Delhi Capitals,145,2,120,9,40,57,8,0,8,6,1,5,4,0
+2010,N,419141,1,Rajasthan Royals,Deccan Chargers,147,12,119,10,45,41,13,0,14,4,4,2,7,1
+2010,N,419141,2,Deccan Chargers,Rajasthan Royals,147,10,119,10,49,39,9,0,15,5,7,1,8,1
+2010,N,419142,1,Chennai Super Kings,Mumbai Indians,147,18,120,4,35,55,12,0,14,2,8,1,2,0
+2010,N,419142,2,Mumbai Indians,Chennai Super Kings,127,14,120,9,47,48,8,0,10,3,9,3,4,1
+2010,N,419143,1,Kings XI Punjab,Rajasthan Royals,144,9,120,6,39,56,6,0,13,4,6,1,4,1
+2010,N,419143,2,Rajasthan Royals,Kings XI Punjab,148,9,90,1,30,30,2,1,20,5,7,0,1,0
+2010,N,419144,1,Kolkata Knight Riders,Delhi Capitals,174,7,120,3,38,48,8,2,17,6,6,2,0,1
+2010,N,419144,2,Delhi Capitals,Kolkata Knight Riders,158,9,120,8,35,50,10,0,16,4,4,3,3,2
+2010,N,419145,1,Royal Challengers Bangalore,Deccan Chargers,169,15,120,6,46,42,7,0,15,8,10,2,4,0
+2010,N,419145,2,Deccan Chargers,Royal Challengers Bangalore,178,8,116,3,34,48,7,0,17,8,5,0,2,0
+2010,N,419146,1,Mumbai Indians,Kings XI Punjab,150,4,120,9,33,56,11,0,15,2,1,5,2,1
+2010,N,419146,2,Kings XI Punjab,Mumbai Indians,154,4,116,4,42,44,6,0,20,3,3,1,3,0
+2010,N,419147,1,Chennai Super Kings,Deccan Chargers,130,8,120,8,41,51,11,1,9,3,3,1,5,1
+2010,N,419147,2,Deccan Chargers,Chennai Super Kings,131,8,115,4,50,36,12,1,8,6,6,0,3,0
+2010,N,419148,1,Kolkata Knight Riders,Royal Challengers Bangalore,149,11,120,9,52,43,3,0,13,8,6,0,7,2
+2010,N,419148,2,Royal Challengers Bangalore,Kolkata Knight Riders,151,11,103,3,31,41,8,0,13,7,3,1,2,0
+2010,N,419149,1,Delhi Capitals,Kings XI Punjab,93,18,118,10,58,40,9,1,8,0,8,4,4,2
+2010,N,419149,2,Kings XI Punjab,Delhi Capitals,106,6,112,3,45,50,0,0,11,2,1,1,2,0
+2010,N,419150,1,Mumbai Indians,Rajasthan Royals,162,12,120,5,38,46,9,0,20,3,8,1,4,0
+2010,N,419150,2,Rajasthan Royals,Mumbai Indians,129,8,120,8,46,52,8,1,7,5,3,0,5,3
+2010,N,419151,1,Deccan Chargers,Royal Challengers Bangalore,142,9,120,6,46,45,11,0,11,5,4,1,3,1
+2010,N,419151,2,Royal Challengers Bangalore,Deccan Chargers,125,13,118,10,44,47,12,0,9,3,7,4,5,1
+2010,N,419152,1,Mumbai Indians,Delhi Capitals,173,10,120,4,35,50,12,0,14,7,5,1,3,0
+2010,N,419152,2,Delhi Capitals,Mumbai Indians,136,8,120,7,30,65,7,0,11,2,2,3,1,2
+2010,N,419153,1,Kolkata Knight Riders,Chennai Super Kings,119,20,120,8,56,42,4,1,9,5,6,1,4,0
+2010,N,419153,2,Chennai Super Kings,Kolkata Knight Riders,128,15,81,1,27,26,6,0,15,5,5,1,0,0
+2010,N,419154,1,Rajasthan Royals,Royal Challengers Bangalore,122,8,120,6,56,37,10,1,13,1,3,1,4,1
+2010,N,419154,2,Royal Challengers Bangalore,Rajasthan Royals,131,1,94,5,43,21,7,0,18,4,0,1,2,1
+2010,N,419155,1,Chennai Super Kings,Delhi Capitals,104,8,121,9,62,41,5,2,10,1,5,1,7,1
+2010,N,419155,2,Delhi Capitals,Chennai Super Kings,100,13,112,4,49,42,10,2,8,0,4,1,3,0
+2010,N,419156,1,Kings XI Punjab,Deccan Chargers,166,8,120,3,48,34,8,0,23,4,5,0,3,0
+2010,N,419156,2,Deccan Chargers,Kings XI Punjab,165,13,115,5,39,45,5,0,17,7,7,2,3,0
+2010,N,419157,1,Mumbai Indians,Royal Challengers Bangalore,176,15,120,4,40,47,5,1,14,10,6,2,1,0
+2010,N,419157,2,Royal Challengers Bangalore,Mumbai Indians,129,5,120,9,39,59,6,0,10,3,2,2,7,0
+2010,N,419158,1,Rajasthan Royals,Kolkata Knight Riders,129,3,120,9,48,50,4,1,14,2,1,3,5,1
+2010,N,419158,2,Kolkata Knight Riders,Rajasthan Royals,126,7,97,2,40,34,3,0,17,3,7,1,1,0
+2010,N,419159,1,Kings XI Punjab,Chennai Super Kings,187,5,120,3,36,47,8,0,19,8,3,2,1,0
+2010,N,419159,2,Chennai Super Kings,Kings XI Punjab,185,10,118,4,36,44,5,0,22,7,5,0,2,0
+2010,N,419160,1,Deccan Chargers,Delhi Capitals,142,3,120,7,47,48,5,0,12,6,1,1,5,1
+2010,N,419160,2,Delhi Capitals,Deccan Chargers,129,5,120,7,46,52,6,0,10,4,3,3,3,1
+2010,N,419161,1,Mumbai Indians,Kolkata Knight Riders,127,6,120,8,44,49,9,0,12,2,2,1,5,1
+2010,N,419161,2,Kolkata Knight Riders,Mumbai Indians,119,16,105,1,42,41,4,0,13,3,6,0,1,0
+2010,N,419162,1,Mumbai Indians,Royal Challengers Bangalore,171,13,120,5,40,43,14,0,14,7,7,0,4,1
+2010,N,419162,2,Royal Challengers Bangalore,Mumbai Indians,139,10,120,9,43,49,10,1,12,3,8,3,4,1
+2010,N,419163,1,Chennai Super Kings,Deccan Chargers,126,16,120,7,44,47,4,1,11,4,3,1,5,1
+2010,N,419163,2,Deccan Chargers,Chennai Super Kings,96,8,116,10,64,31,7,1,9,2,2,3,6,0
+2010,N,419164,1,Deccan Chargers,Royal Challengers Bangalore,78,4,111,10,68,30,2,0,8,2,3,5,5,0
+2010,N,419164,2,Royal Challengers Bangalore,Deccan Chargers,83,3,83,1,37,31,2,0,9,2,1,0,0,0
+2010,N,419165,1,Chennai Super Kings,Mumbai Indians,157,11,120,5,44,44,9,1,11,8,4,0,4,1
+2010,N,419165,2,Mumbai Indians,Chennai Super Kings,134,12,120,9,48,46,5,0,12,5,5,1,5,3
+2011,N,501198,1,Chennai Super Kings,Kolkata Knight Riders,150,3,120,4,35,62,4,0,14,4,1,1,3,0
+2011,N,501198,2,Kolkata Knight Riders,Chennai Super Kings,143,8,120,7,40,55,7,0,14,3,3,0,2,2
+2011,N,501199,1,Deccan Chargers,Rajasthan Royals,133,4,120,8,50,50,4,0,10,5,1,1,7,0
+2011,N,501199,2,Rajasthan Royals,Deccan Chargers,136,5,113,2,45,38,10,0,15,3,3,1,1,0
+2011,N,501200,1,Kochi Tuskers Kerala,Royal Challengers Bangalore,150,11,120,5,39,54,7,0,13,4,4,1,3,0
+2011,N,501200,2,Royal Challengers Bangalore,Kochi Tuskers Kerala,149,13,112,4,41,45,6,0,12,7,9,1,3,0
+2011,N,501201,1,Delhi Capitals,Mumbai Indians,91,4,106,10,55,37,3,0,9,2,4,4,3,2
+2011,N,501201,2,Mumbai Indians,Delhi Capitals,88,11,101,2,43,40,5,0,8,1,7,1,0,1
+2011,N,501202,1,Kings XI Punjab,Pune Warriors,102,10,119,8,64,35,6,0,12,1,6,0,7,1
+2011,N,501202,2,Pune Warriors,Kings XI Punjab,109,4,79,3,36,19,5,0,14,4,3,0,3,0
+2011,N,501203,1,Kolkata Knight Riders,Deccan Chargers,153,10,120,4,45,41,7,0,20,3,3,2,2,0
+2011,N,501203,2,Deccan Chargers,Kolkata Knight Riders,145,9,120,8,40,52,4,1,13,5,4,2,5,1
+2011,N,501204,1,Delhi Capitals,Rajasthan Royals,142,9,120,6,56,31,8,1,14,6,4,0,6,0
+2011,N,501204,2,Rajasthan Royals,Delhi Capitals,140,12,111,4,44,39,6,0,13,6,3,2,2,0
+2011,N,501205,1,Royal Challengers Bangalore,Mumbai Indians,125,15,120,4,40,55,2,0,12,3,4,2,1,0
+2011,N,501205,2,Mumbai Indians,Royal Challengers Bangalore,140,3,111,1,40,45,5,0,18,2,2,1,0,0
+2011,N,501206,1,Chennai Super Kings,Kings XI Punjab,183,5,120,4,38,40,14,2,18,6,2,2,1,0
+2011,N,501206,2,Kings XI Punjab,Chennai Super Kings,192,1,115,4,26,52,8,0,25,4,1,1,2,1
+2011,N,501207,1,Kochi Tuskers Kerala,Pune Warriors,137,11,120,8,53,37,9,1,12,5,3,1,5,2
+2011,N,501207,2,Pune Warriors,Kochi Tuskers Kerala,140,11,113,6,45,38,12,0,12,5,10,1,3,1
+2011,N,501208,1,Deccan Chargers,Royal Challengers Bangalore,168,7,120,5,39,48,8,0,17,6,5,1,4,0
+2011,N,501208,2,Royal Challengers Bangalore,Deccan Chargers,134,8,120,9,49,40,13,0,12,3,5,2,7,0
+2011,N,501209,1,Rajasthan Royals,Kolkata Knight Riders,140,19,120,4,39,50,10,0,10,5,8,2,1,0
+2011,N,501209,2,Kolkata Knight Riders,Rajasthan Royals,156,4,111,1,33,50,8,0,17,3,3,0,0,1
+2011,N,501210,1,Mumbai Indians,Kochi Tuskers Kerala,165,17,120,2,38,43,8,0,16,7,6,1,0,1
+2011,N,501210,2,Kochi Tuskers Kerala,Mumbai Indians,173,11,114,2,38,35,11,0,23,4,7,2,0,0
+2011,N,501211,1,Chennai Super Kings,Royal Challengers Bangalore,179,4,120,5,32,52,7,1,20,5,1,0,5,0
+2011,N,501211,2,Royal Challengers Bangalore,Chennai Super Kings,153,9,120,7,40,48,10,1,13,5,5,1,6,0
+2011,N,501212,1,Deccan Chargers,Kings XI Punjab,160,5,120,8,34,54,10,0,17,2,2,3,5,0
+2011,N,501212,2,Kings XI Punjab,Deccan Chargers,152,14,106,2,40,32,5,0,15,8,7,0,2,0
+2011,N,501213,1,Pune Warriors,Delhi Capitals,179,8,120,5,46,37,12,0,12,11,6,0,5,0
+2011,N,501213,2,Delhi Capitals,Pune Warriors,180,10,116,7,39,40,11,0,16,9,5,2,2,1
+2011,N,501214,1,Rajasthan Royals,Kolkata Knight Riders,76,5,92,10,41,40,3,0,6,1,4,5,1,2
+2011,N,501214,2,Kolkata Knight Riders,Rajasthan Royals,74,11,83,2,38,28,6,0,6,1,6,0,2,0
+2011,N,501215,1,Chennai Super Kings,Kochi Tuskers Kerala,128,3,102,4,39,38,6,0,15,3,2,2,1,1
+2011,N,501215,2,Kochi Tuskers Kerala,Chennai Super Kings,132,3,90,3,35,30,3,2,12,7,2,0,3,0
+2011,N,501216,1,Deccan Chargers,Delhi Capitals,163,5,120,4,37,50,6,1,20,3,2,2,2,0
+2011,N,501216,2,Delhi Capitals,Deccan Chargers,139,13,120,7,47,45,8,0,12,5,2,2,5,0
+2011,N,501218,1,Pune Warriors,Mumbai Indians,106,12,104,10,51,30,5,0,13,2,5,2,8,0
+2011,N,501218,2,Mumbai Indians,Pune Warriors,114,10,120,3,44,52,8,0,10,1,1,0,3,0
+2011,N,501219,1,Kochi Tuskers Kerala,Kolkata Knight Riders,124,8,120,7,52,44,3,0,11,5,3,5,2,0
+2011,N,501219,2,Kolkata Knight Riders,Kochi Tuskers Kerala,115,11,120,9,48,51,9,0,7,3,2,3,3,2
+2011,N,501220,1,Kings XI Punjab,Rajasthan Royals,178,17,120,7,42,39,9,1,18,7,8,1,4,1
+2011,N,501220,2,Rajasthan Royals,Kings XI Punjab,145,2,120,7,44,47,8,2,16,2,1,3,4,0
+2011,N,501221,1,Mumbai Indians,Chennai Super Kings,150,14,120,4,49,44,4,0,14,7,8,0,3,0
+2011,N,501221,2,Chennai Super Kings,Mumbai Indians,146,10,120,9,46,47,7,0,15,4,9,1,6,0
+2011,N,501222,1,Kolkata Knight Riders,Royal Challengers Bangalore,158,13,120,5,39,52,9,1,15,4,9,0,4,1
+2011,N,501222,2,Royal Challengers Bangalore,Kolkata Knight Riders,170,5,109,1,38,42,2,0,19,8,4,1,0,0
+2011,N,501223,1,Delhi Capitals,Kings XI Punjab,215,16,120,4,32,46,7,1,20,12,6,0,4,0
+2011,N,501223,2,Kings XI Punjab,Delhi Capitals,197,5,120,6,46,36,4,1,20,11,3,1,5,0
+2011,N,501224,1,Mumbai Indians,Deccan Chargers,167,5,120,4,38,47,9,0,18,5,2,0,4,0
+2011,N,501224,2,Deccan Chargers,Mumbai Indians,123,12,120,8,47,52,3,1,14,1,3,2,1,3
+2011,N,501225,1,Kochi Tuskers Kerala,Rajasthan Royals,100,9,120,10,50,50,9,0,8,0,3,2,4,2
+2011,N,501225,2,Rajasthan Royals,Kochi Tuskers Kerala,109,2,85,2,33,29,7,0,12,3,1,1,0,1
+2011,N,501226,1,Chennai Super Kings,Pune Warriors,138,4,120,6,44,49,11,1,10,4,3,1,4,0
+2011,N,501226,2,Pune Warriors,Chennai Super Kings,110,7,120,9,50,45,13,1,6,2,3,4,3,2
+2011,N,501227,1,Delhi Capitals,Royal Challengers Bangalore,147,13,120,6,43,45,10,0,13,5,9,3,2,1
+2011,N,501227,2,Royal Challengers Bangalore,Delhi Capitals,143,18,117,7,44,45,0,0,17,5,5,1,5,1
+2011,N,501228,1,Pune Warriors,Chennai Super Kings,136,5,120,6,56,36,10,0,11,6,4,1,5,0
+2011,N,501228,2,Chennai Super Kings,Pune Warriors,137,8,117,2,39,53,9,0,9,5,6,0,2,0
+2011,N,501229,1,Deccan Chargers,Kochi Tuskers Kerala,122,7,120,7,52,41,10,1,13,1,5,2,4,1
+2011,N,501229,2,Kochi Tuskers Kerala,Deccan Chargers,67,7,99,10,58,29,1,0,9,0,4,5,5,0
+2011,N,501230,1,Kolkata Knight Riders,Delhi Capitals,140,8,120,7,44,50,6,2,12,4,6,1,5,1
+2011,N,501230,2,Delhi Capitals,Kolkata Knight Riders,124,7,120,9,53,45,5,1,9,5,4,1,6,2
+2011,N,501231,1,Mumbai Indians,Rajasthan Royals,87,7,120,8,57,49,5,0,4,2,4,4,1,0
+2011,N,501231,2,Rajasthan Royals,Mumbai Indians,93,2,109,3,60,26,12,1,7,2,1,1,2,0
+2011,N,501232,1,Royal Challengers Bangalore,Pune Warriors,179,2,120,5,40,45,11,0,13,10,1,2,3,0
+2011,N,501232,2,Pune Warriors,Royal Challengers Bangalore,146,9,120,5,41,50,8,0,11,6,5,0,5,0
+2011,N,501233,1,Delhi Capitals,Kochi Tuskers Kerala,141,16,120,7,53,35,8,0,12,7,5,3,2,2
+2011,N,501233,2,Kochi Tuskers Kerala,Delhi Capitals,111,8,113,10,46,47,5,0,9,3,1,4,6,0
+2011,N,501234,1,Kings XI Punjab,Kolkata Knight Riders,113,6,120,6,55,44,7,0,11,1,4,2,1,3
+2011,N,501234,2,Kolkata Knight Riders,Kings XI Punjab,108,12,104,2,43,43,2,1,13,1,5,0,2,0
+2011,N,501235,1,Pune Warriors,Rajasthan Royals,138,5,120,7,44,48,9,0,15,2,2,0,4,2
+2011,N,501235,2,Rajasthan Royals,Pune Warriors,133,11,117,4,45,44,8,0,9,6,2,1,2,0
+2011,N,501236,1,Chennai Super Kings,Deccan Chargers,156,9,120,5,40,50,9,0,13,6,4,1,2,1
+2011,N,501236,2,Deccan Chargers,Chennai Super Kings,141,5,120,8,45,47,9,2,10,5,3,3,3,1
+2011,N,501237,1,Mumbai Indians,Kings XI Punjab,154,5,120,5,40,52,5,0,17,4,1,1,4,0
+2011,N,501237,2,Kings XI Punjab,Mumbai Indians,124,12,120,8,38,56,4,0,12,2,1,3,5,0
+2011,N,501238,1,Delhi Capitals,Kochi Tuskers Kerala,133,7,120,6,47,49,4,0,16,2,5,0,6,0
+2011,N,501238,2,Kochi Tuskers Kerala,Delhi Capitals,123,18,90,3,35,29,4,0,17,2,11,1,1,1
+2011,N,501239,1,Kolkata Knight Riders,Deccan Chargers,159,10,120,4,40,45,11,1,13,6,6,1,3,0
+2011,N,501239,2,Deccan Chargers,Kolkata Knight Riders,145,4,120,6,35,58,10,1,13,1,3,4,2,0
+2011,N,501240,1,Rajasthan Royals,Chennai Super Kings,140,7,120,6,44,46,9,1,18,0,2,0,4,0
+2011,N,501240,2,Chennai Super Kings,Rajasthan Royals,145,4,112,2,31,52,14,0,12,2,4,1,1,0
+2011,N,501241,1,Mumbai Indians,Pune Warriors,145,15,120,7,46,44,6,0,13,6,4,0,7,0
+2011,N,501241,2,Pune Warriors,Mumbai Indians,129,10,120,7,55,43,6,0,8,7,4,0,5,1
+2011,N,501242,1,Kochi Tuskers Kerala,Kolkata Knight Riders,150,6,120,5,39,54,8,1,13,4,5,0,4,1
+2011,N,501242,2,Kolkata Knight Riders,Kochi Tuskers Kerala,136,3,120,7,48,44,10,0,15,2,2,2,3,2
+2011,N,501243,1,Deccan Chargers,Delhi Capitals,165,10,120,5,37,47,10,0,18,4,5,0,4,1
+2011,N,501243,2,Delhi Capitals,Deccan Chargers,169,10,114,6,40,39,10,0,17,7,8,1,4,0
+2011,N,501244,1,Royal Challengers Bangalore,Kings XI Punjab,199,6,120,6,45,35,3,0,23,11,1,3,2,0
+2011,N,501244,2,Kings XI Punjab,Royal Challengers Bangalore,115,5,120,9,47,58,3,0,11,1,5,3,4,1
+2011,N,501245,1,Chennai Super Kings,Kolkata Knight Riders,108,6,120,4,46,54,9,0,6,2,3,0,2,1
+2011,N,501245,2,Kolkata Knight Riders,Chennai Super Kings,57,4,60,2,26,23,3,0,7,0,3,1,1,0
+2011,N,501246,1,Mumbai Indians,Delhi Capitals,172,6,120,4,41,45,5,1,21,5,4,1,3,0
+2011,N,501246,2,Delhi Capitals,Mumbai Indians,137,9,119,10,52,43,2,1,19,1,7,4,5,1
+2011,N,501247,1,Kochi Tuskers Kerala,Royal Challengers Bangalore,115,10,120,9,51,48,8,1,12,0,9,1,6,2
+2011,N,501247,2,Royal Challengers Bangalore,Kochi Tuskers Kerala,123,5,79,1,33,19,6,0,14,5,3,1,0,0
+2011,N,501248,1,Kings XI Punjab,Pune Warriors,115,4,120,8,50,45,8,0,12,1,0,1,7,0
+2011,N,501248,2,Pune Warriors,Kings XI Punjab,108,12,103,5,49,32,4,0,14,2,6,1,3,0
+2011,N,501249,1,Chennai Super Kings,Rajasthan Royals,188,8,120,3,32,46,15,0,19,6,5,2,0,1
+2011,N,501249,2,Rajasthan Royals,Chennai Super Kings,128,5,117,10,44,48,11,1,11,1,4,1,6,1
+2011,N,501250,1,Deccan Chargers,Pune Warriors,135,1,120,8,34,67,6,0,11,2,1,3,5,0
+2011,N,501250,2,Pune Warriors,Deccan Chargers,134,3,110,4,56,28,4,0,17,5,3,3,1,0
+2011,N,501251,1,Kings XI Punjab,Mumbai Indians,141,22,120,8,44,42,9,1,15,3,3,1,6,1
+2011,N,501251,2,Mumbai Indians,Kings XI Punjab,82,5,77,10,38,23,2,1,10,2,4,2,5,1
+2011,N,501252,1,Rajasthan Royals,Royal Challengers Bangalore,135,11,120,6,46,46,11,0,12,3,5,0,4,1
+2011,N,501252,2,Royal Challengers Bangalore,Rajasthan Royals,147,4,102,1,35,39,3,0,18,5,2,0,1,0
+2011,N,501253,1,Chennai Super Kings,Delhi Capitals,172,4,120,4,39,50,6,0,15,8,2,1,2,1
+2011,N,501253,2,Delhi Capitals,Chennai Super Kings,144,14,120,6,46,41,10,1,11,6,4,1,5,0
+2011,N,501254,1,Kochi Tuskers Kerala,Kings XI Punjab,155,23,120,7,41,52,5,1,12,7,9,3,2,2
+2011,N,501254,2,Kings XI Punjab,Kochi Tuskers Kerala,173,8,113,4,43,38,2,1,17,10,5,1,2,0
+2011,N,501255,1,Kolkata Knight Riders,Royal Challengers Bangalore,82,7,78,4,35,26,5,0,7,3,2,0,4,0
+2011,N,501255,2,Royal Challengers Bangalore,Kolkata Knight Riders,99,6,74,6,31,21,7,0,13,2,5,0,5,1
+2011,N,501256,1,Deccan Chargers,Mumbai Indians,128,7,120,6,41,56,6,0,9,4,1,2,3,0
+2011,N,501256,2,Mumbai Indians,Deccan Chargers,107,18,120,8,60,37,7,0,8,4,8,3,4,1
+2011,N,501257,1,Kings XI Punjab,Delhi Capitals,161,9,120,6,52,35,5,0,20,6,7,2,4,0
+2011,N,501257,2,Delhi Capitals,Kings XI Punjab,129,12,120,8,62,29,6,0,13,6,4,1,7,0
+2011,N,501258,1,Rajasthan Royals,Kochi Tuskers Kerala,94,3,111,10,68,24,5,0,9,4,2,5,4,1
+2011,N,501258,2,Kochi Tuskers Kerala,Rajasthan Royals,89,9,44,2,18,5,3,0,9,7,4,1,1,0
+2011,N,501259,1,Pune Warriors,Deccan Chargers,133,3,120,9,60,34,7,1,10,7,2,3,3,1
+2011,N,501259,2,Deccan Chargers,Pune Warriors,129,9,116,4,46,48,7,1,10,4,5,2,1,0
+2011,N,501260,1,Kings XI Punjab,Royal Challengers Bangalore,205,27,120,2,39,31,6,1,16,15,6,0,2,0
+2011,N,501260,2,Royal Challengers Bangalore,Kings XI Punjab,112,9,102,10,51,26,7,0,12,4,4,3,6,0
+2011,N,501261,1,Chennai Super Kings,Kochi Tuskers Kerala,148,4,120,5,38,56,8,0,10,6,2,1,4,0
+2011,N,501261,2,Kochi Tuskers Kerala,Chennai Super Kings,132,9,120,5,40,56,9,0,10,3,7,1,2,1
+2011,N,501262,1,Pune Warriors,Kolkata Knight Riders,106,12,120,7,54,46,6,0,10,1,4,2,4,0
+2011,N,501262,2,Kolkata Knight Riders,Pune Warriors,114,5,100,3,44,34,5,0,12,2,3,1,2,0
+2011,N,501263,1,Mumbai Indians,Rajasthan Royals,128,5,120,5,44,50,10,0,13,1,2,1,3,0
+2011,N,501263,2,Rajasthan Royals,Mumbai Indians,132,2,79,0,26,28,4,0,15,6,2,0,0,0
+2011,N,501264,1,Deccan Chargers,Kings XI Punjab,182,16,120,2,26,56,10,2,19,4,3,0,2,0
+2011,N,501264,2,Kings XI Punjab,Deccan Chargers,112,4,114,10,62,28,6,0,12,4,2,1,7,1
+2011,N,501265,1,Delhi Capitals,NA,51,5,61,3,29,21,3,0,3,2,2,2,1,0
+2011,N,501266,1,Chennai Super Kings,Royal Challengers Bangalore,118,10,120,8,61,40,4,0,7,7,6,2,6,0
+2011,N,501266,2,Royal Challengers Bangalore,Chennai Super Kings,119,10,108,2,48,41,1,0,10,6,8,0,1,0
+2011,N,501267,1,Kolkata Knight Riders,Mumbai Indians,169,6,120,7,35,57,3,0,16,7,2,2,2,3
+2011,N,501267,2,Mumbai Indians,Kolkata Knight Riders,162,16,120,5,37,46,9,0,20,3,6,1,4,0
+2011,N,501268,1,Royal Challengers Bangalore,Chennai Super Kings,161,14,120,4,40,43,12,0,13,7,5,2,2,0
+2011,N,501268,2,Chennai Super Kings,Royal Challengers Bangalore,169,8,118,4,45,42,5,0,14,10,6,2,2,0
+2011,N,501269,1,Kolkata Knight Riders,Mumbai Indians,141,6,120,7,45,47,8,0,15,3,4,3,3,1
+2011,N,501269,2,Mumbai Indians,Kolkata Knight Riders,144,4,116,6,47,37,7,1,18,3,1,1,4,1
+2011,N,501270,1,Royal Challengers Bangalore,Mumbai Indians,171,14,120,4,36,57,7,0,13,7,9,1,3,0
+2011,N,501270,2,Mumbai Indians,Royal Challengers Bangalore,138,4,120,8,47,47,6,1,13,4,2,2,5,0
+2011,N,501271,1,Chennai Super Kings,Royal Challengers Bangalore,196,9,120,5,30,46,19,2,7,13,2,1,4,0
+2011,N,501271,2,Royal Challengers Bangalore,Chennai Super Kings,141,6,120,8,42,48,11,1,11,4,2,3,3,0
+2012,N,548306,1,Chennai Super Kings,Mumbai Indians,100,12,119,10,46,60,2,2,6,1,7,1,6,3
+2012,N,548306,2,Mumbai Indians,Chennai Super Kings,109,6,101,3,43,41,1,0,9,5,3,0,2,0
+2012,N,548307,1,Kolkata Knight Riders,Delhi Capitals,90,7,72,9,27,28,4,0,6,5,2,4,2,2
+2012,N,548307,2,Delhi Capitals,Kolkata Knight Riders,95,5,67,2,17,29,5,0,8,4,1,1,1,0
+2012,N,548308,1,Pune Warriors,Mumbai Indians,121,8,120,9,45,51,10,0,11,1,3,4,1,2
+2012,N,548308,2,Mumbai Indians,Pune Warriors,96,5,120,9,61,44,4,0,8,2,4,3,4,0
+2012,N,548309,1,Rajasthan Royals,Kings XI Punjab,172,19,120,4,35,46,8,0,23,3,7,3,1,0
+2012,N,548309,2,Kings XI Punjab,Rajasthan Royals,154,6,120,9,36,52,11,0,13,4,2,2,6,1
+2012,N,548310,1,Royal Challengers Bangalore,Delhi Capitals,151,6,120,8,42,45,10,0,14,5,2,2,5,1
+2012,N,548310,2,Delhi Capitals,Royal Challengers Bangalore,133,4,120,7,45,47,11,0,13,2,2,1,5,1
+2012,N,548311,1,Chennai Super Kings,Deccan Chargers,182,11,120,6,38,44,13,0,10,12,7,1,3,0
+2012,N,548311,2,Deccan Chargers,Chennai Super Kings,115,4,103,10,43,41,3,0,11,4,3,3,6,0
+2012,N,548312,1,Rajasthan Royals,Kolkata Knight Riders,161,3,120,5,42,47,11,1,13,6,3,2,1,2
+2012,N,548312,2,Kolkata Knight Riders,Rajasthan Royals,135,7,120,10,47,47,9,0,10,5,5,5,4,0
+2012,N,548313,1,Pune Warriors,Kings XI Punjab,154,12,120,6,42,46,8,1,9,8,4,3,1,1
+2012,N,548313,2,Kings XI Punjab,Pune Warriors,133,11,120,8,45,50,7,0,11,4,4,1,5,2
+2012,N,548314,1,Deccan Chargers,Mumbai Indians,133,5,120,9,48,53,4,0,6,8,3,3,6,0
+2012,N,548314,2,Mumbai Indians,Deccan Chargers,138,4,120,5,46,50,4,0,8,8,0,2,2,0
+2012,N,548315,1,Kolkata Knight Riders,Royal Challengers Bangalore,159,6,120,8,43,45,9,0,15,6,2,0,7,0
+2012,N,548315,2,Royal Challengers Bangalore,Kolkata Knight Riders,113,10,120,9,49,53,5,0,8,3,7,3,6,0
+2012,N,548316,1,Chennai Super Kings,Delhi Capitals,104,6,120,8,58,42,8,0,7,3,4,1,3,4
+2012,N,548316,2,Delhi Capitals,Chennai Super Kings,110,1,80,2,25,34,4,2,11,3,0,0,1,1
+2012,N,548317,1,Mumbai Indians,Rajasthan Royals,191,6,120,6,33,47,8,0,14,12,0,2,4,0
+2012,N,548317,2,Rajasthan Royals,Mumbai Indians,166,4,118,10,48,37,9,1,12,10,3,3,7,0
+2012,N,548318,1,Royal Challengers Bangalore,Chennai Super Kings,189,16,120,8,38,49,6,0,14,12,10,1,6,1
+2012,N,548318,2,Chennai Super Kings,Royal Challengers Bangalore,203,5,120,5,33,46,15,0,14,11,4,0,4,0
+2012,N,548319,1,Pune Warriors,Kings XI Punjab,103,12,114,10,54,37,7,0,10,2,5,4,4,2
+2012,N,548319,2,Kings XI Punjab,Pune Warriors,116,0,106,3,48,35,7,0,14,1,0,1,2,0
+2012,N,548320,1,Rajasthan Royals,Kolkata Knight Riders,121,10,120,5,52,47,5,0,13,2,5,0,3,1
+2012,N,548320,2,Kolkata Knight Riders,Rajasthan Royals,125,12,116,5,46,47,5,2,11,3,5,1,2,1
+2012,N,548321,1,Deccan Chargers,Delhi Capitals,151,6,120,8,39,55,7,1,15,3,6,1,6,1
+2012,N,548321,2,Delhi Capitals,Deccan Chargers,158,4,115,5,45,43,5,1,12,9,4,0,4,1
+2012,N,548322,1,Chennai Super Kings,Pune Warriors,149,6,120,5,36,61,5,0,13,4,4,0,4,0
+2012,N,548322,2,Pune Warriors,Chennai Super Kings,151,5,116,3,34,55,9,0,12,5,3,1,0,2
+2012,N,548323,1,Kings XI Punjab,Kolkata Knight Riders,127,7,120,9,45,47,11,0,7,5,1,2,6,1
+2012,N,548323,2,Kolkata Knight Riders,Kings XI Punjab,123,9,120,7,40,57,7,0,10,2,2,4,1,0
+2012,N,548324,1,Rajasthan Royals,Royal Challengers Bangalore,189,6,120,2,39,47,3,0,19,10,1,0,1,0
+2012,N,548324,2,Royal Challengers Bangalore,Rajasthan Royals,133,3,119,10,50,44,8,1,10,5,1,6,4,0
+2012,N,548325,1,Mumbai Indians,Delhi Capitals,83,9,116,10,65,35,1,0,10,1,4,4,5,1
+2012,N,548325,2,Delhi Capitals,Mumbai Indians,82,11,89,3,40,31,7,1,7,1,6,0,3,0
+2012,N,548326,1,Deccan Chargers,Rajasthan Royals,183,13,120,2,35,48,9,1,18,7,5,0,2,0
+2012,N,548326,2,Rajasthan Royals,Deccan Chargers,191,6,118,5,29,56,4,1,22,6,6,1,4,0
+2012,N,548327,1,Pune Warriors,Royal Challengers Bangalore,175,7,120,6,30,55,9,0,15,7,3,0,4,2
+2012,N,548327,2,Royal Challengers Bangalore,Pune Warriors,179,7,120,4,38,54,4,0,8,14,4,1,3,0
+2012,N,548328,1,Kings XI Punjab,Kolkata Knight Riders,121,3,120,7,39,61,9,0,9,1,2,1,5,1
+2012,N,548328,2,Kolkata Knight Riders,Kings XI Punjab,122,5,99,2,36,33,10,1,12,3,1,1,1,0
+2012,N,548329,1,Deccan Chargers,Delhi Capitals,185,2,120,4,42,43,4,0,23,7,1,0,3,1
+2012,N,548329,2,Delhi Capitals,Deccan Chargers,177,16,100,1,33,29,12,0,11,12,4,0,1,0
+2012,N,548330,1,Chennai Super Kings,Pune Warriors,162,2,120,5,41,46,11,1,15,5,1,0,5,0
+2012,N,548330,2,Pune Warriors,Chennai Super Kings,136,15,120,7,41,45,13,1,11,2,4,1,6,0
+2012,N,548331,1,Kings XI Punjab,Royal Challengers Bangalore,155,8,120,6,33,48,17,1,13,3,3,3,3,0
+2012,N,548331,2,Royal Challengers Bangalore,Kings XI Punjab,158,8,117,5,40,46,9,2,16,4,8,2,3,0
+2012,N,548332,1,Rajasthan Royals,Chennai Super Kings,132,14,120,4,55,36,9,0,12,5,3,0,4,0
+2012,N,548332,2,Chennai Super Kings,Rajasthan Royals,145,2,120,3,32,61,12,0,12,2,1,0,2,0
+2012,N,548333,1,Pune Warriors,Delhi Capitals,177,15,120,3,38,47,6,0,18,7,10,1,2,0
+2012,N,548333,2,Delhi Capitals,Pune Warriors,167,5,120,7,37,55,5,0,12,9,2,1,4,1
+2012,N,548334,1,Mumbai Indians,Kings XI Punjab,157,6,120,6,38,53,8,0,16,4,5,0,4,2
+2012,N,548334,2,Kings XI Punjab,Mumbai Indians,158,6,117,4,35,52,11,0,15,4,4,1,3,0
+2012,N,548335,1,Deccan Chargers,Kolkata Knight Riders,123,3,120,7,41,58,8,0,9,2,1,1,5,1
+2012,N,548335,2,Kolkata Knight Riders,Deccan Chargers,118,9,114,5,45,44,10,0,12,1,7,3,2,0
+2012,N,548336,1,Royal Challengers Bangalore,Rajasthan Royals,170,19,120,3,40,40,8,3,16,6,5,1,2,0
+2012,N,548336,2,Rajasthan Royals,Royal Challengers Bangalore,133,10,120,7,46,42,10,0,15,1,4,0,6,0
+2012,N,548337,1,Pune Warriors,Delhi Capitals,141,5,120,2,40,53,9,0,13,3,0,1,1,0
+2012,N,548337,2,Delhi Capitals,Pune Warriors,141,7,96,2,25,45,5,0,14,5,2,0,1,1
+2012,N,548339,1,Kings XI Punjab,Mumbai Indians,158,10,120,3,43,48,10,0,12,7,6,0,3,0
+2012,N,548339,2,Mumbai Indians,Kings XI Punjab,162,9,119,6,34,51,11,0,13,6,4,0,6,0
+2012,N,548341,1,Deccan Chargers,Pune Warriors,166,11,120,4,30,61,5,1,11,8,2,1,2,1
+2012,N,548341,2,Pune Warriors,Deccan Chargers,150,9,120,7,44,52,4,0,9,8,6,2,4,1
+2012,N,548342,1,Delhi Capitals,Mumbai Indians,198,9,120,5,39,41,6,1,22,9,5,2,3,0
+2012,N,548342,2,Mumbai Indians,Delhi Capitals,166,4,120,9,40,52,5,0,17,6,4,3,5,1
+2012,N,548343,1,Kings XI Punjab,Chennai Super Kings,151,5,120,8,43,47,12,0,14,4,5,1,4,2
+2012,N,548343,2,Chennai Super Kings,Kings XI Punjab,143,6,120,8,45,45,12,0,11,5,3,1,4,1
+2012,N,548344,1,Kolkata Knight Riders,Royal Challengers Bangalore,185,5,120,4,40,45,7,0,18,9,4,1,3,0
+2012,N,548344,2,Royal Challengers Bangalore,Kolkata Knight Riders,138,5,120,6,54,44,2,0,12,7,3,2,4,0
+2012,N,548345,1,Delhi Capitals,Rajasthan Royals,144,8,120,6,43,46,8,0,13,5,3,1,5,0
+2012,N,548345,2,Rajasthan Royals,Delhi Capitals,147,4,120,3,37,57,8,0,17,1,4,1,1,1
+2012,N,548346,1,Deccan Chargers,Mumbai Indians,95,5,112,10,58,33,9,0,8,2,3,0,8,0
+2012,N,548346,2,Mumbai Indians,Deccan Chargers,91,10,109,5,54,37,7,2,7,1,8,1,4,0
+2012,N,548347,1,Chennai Super Kings,Kolkata Knight Riders,133,6,120,5,38,51,16,2,8,2,3,0,4,1
+2012,N,548347,2,Kolkata Knight Riders,Chennai Super Kings,127,13,118,5,35,59,8,0,10,2,9,1,4,0
+2012,N,548348,1,Deccan Chargers,Pune Warriors,175,11,120,4,30,49,13,0,16,5,1,3,1,0
+2012,N,548348,2,Pune Warriors,Deccan Chargers,167,6,120,5,40,46,13,0,15,5,5,0,4,1
+2012,N,548349,1,Rajasthan Royals,Delhi Capitals,136,5,120,6,41,54,6,0,16,1,3,2,4,0
+2012,N,548349,2,Delhi Capitals,Rajasthan Royals,135,9,92,4,30,29,8,0,18,3,1,1,3,0
+2012,N,548350,1,Royal Challengers Bangalore,Kings XI Punjab,152,6,120,5,44,52,4,0,11,8,4,2,3,0
+2012,N,548350,2,Kings XI Punjab,Royal Challengers Bangalore,159,4,119,6,41,45,11,0,14,6,1,2,1,3
+2012,N,548351,1,Mumbai Indians,Pune Warriors,109,11,120,9,50,51,3,0,10,2,3,1,4,4
+2012,N,548351,2,Pune Warriors,Mumbai Indians,113,6,120,6,55,45,7,0,12,1,6,4,2,0
+2012,N,548352,1,Chennai Super Kings,Deccan Chargers,152,8,120,6,36,46,18,3,9,4,3,2,4,0
+2012,N,548352,2,Deccan Chargers,Chennai Super Kings,146,4,120,5,37,58,4,2,14,3,2,1,1,2
+2012,N,548353,1,Kolkata Knight Riders,Pune Warriors,131,19,120,5,43,51,10,0,9,4,9,2,3,0
+2012,N,548353,2,Pune Warriors,Kolkata Knight Riders,133,10,120,8,43,57,4,0,11,4,6,2,5,1
+2012,N,548354,1,Rajasthan Royals,Kings XI Punjab,171,6,120,6,42,42,9,1,18,6,4,0,6,0
+2012,N,548354,2,Kings XI Punjab,Rajasthan Royals,122,12,120,8,53,40,6,0,13,3,7,3,3,0
+2012,N,548355,1,Chennai Super Kings,Mumbai Indians,164,9,120,8,42,43,9,1,13,8,5,3,4,1
+2012,N,548355,2,Mumbai Indians,Chennai Super Kings,171,3,120,8,42,47,5,0,21,5,3,4,3,1
+2012,N,548356,1,Deccan Chargers,Royal Challengers Bangalore,175,6,120,2,39,47,7,0,15,9,3,0,0,1
+2012,N,548356,2,Royal Challengers Bangalore,Deccan Chargers,179,6,113,5,37,40,7,1,17,9,4,3,2,0
+2012,N,548357,1,Delhi Capitals,Kolkata Knight Riders,139,14,120,9,45,49,7,0,13,4,3,2,3,3
+2012,N,548357,2,Kolkata Knight Riders,Delhi Capitals,138,16,112,4,35,41,12,2,14,1,7,1,3,0
+2012,N,548358,1,Pune Warriors,Rajasthan Royals,115,10,120,6,38,56,11,0,5,2,3,3,2,1
+2012,N,548358,2,Rajasthan Royals,Pune Warriors,126,0,98,3,35,42,4,0,13,4,0,0,3,0
+2012,N,548359,1,Kings XI Punjab,Deccan Chargers,163,7,120,5,41,45,10,0,17,5,3,3,1,1
+2012,N,548359,2,Deccan Chargers,Kings XI Punjab,133,12,120,8,44,53,5,2,10,4,3,1,5,1
+2012,N,548360,1,Mumbai Indians,Royal Challengers Bangalore,134,7,120,6,48,42,13,0,12,3,2,1,4,0
+2012,N,548360,2,Royal Challengers Bangalore,Mumbai Indians,137,5,108,1,41,45,4,0,9,7,3,1,0,0
+2012,N,548361,1,Rajasthan Royals,Chennai Super Kings,114,12,120,6,54,44,5,0,12,2,6,2,4,0
+2012,N,548361,2,Chennai Super Kings,Rajasthan Royals,114,13,109,6,56,34,3,0,11,5,8,1,4,1
+2012,N,548362,1,Royal Challengers Bangalore,Pune Warriors,164,9,120,3,44,45,6,0,13,9,5,0,2,1
+2012,N,548362,2,Pune Warriors,Royal Challengers Bangalore,134,4,120,9,45,47,8,1,14,2,1,5,2,0
+2012,N,548363,1,Mumbai Indians,Kolkata Knight Riders,177,5,120,1,39,47,6,0,19,7,3,0,0,0
+2012,N,548363,2,Kolkata Knight Riders,Mumbai Indians,151,4,120,4,35,60,5,0,14,4,2,2,2,0
+2012,N,548364,1,Delhi Capitals,Chennai Super Kings,107,7,120,5,48,54,8,1,4,3,5,1,4,0
+2012,N,548364,2,Chennai Super Kings,Delhi Capitals,114,1,92,1,42,26,7,2,11,4,1,0,1,0
+2012,N,548365,1,Rajasthan Royals,Pune Warriors,167,3,120,4,42,43,11,2,18,4,2,2,2,0
+2012,N,548365,2,Pune Warriors,Rajasthan Royals,121,4,120,9,43,55,7,1,12,0,2,2,4,0
+2012,N,548366,1,Deccan Chargers,Kings XI Punjab,181,9,120,4,29,55,11,1,14,6,3,0,4,0
+2012,N,548366,2,Kings XI Punjab,Deccan Chargers,186,8,120,6,38,41,10,1,20,7,2,0,5,0
+2012,N,548367,1,Royal Challengers Bangalore,Mumbai Indians,157,14,120,6,48,43,7,1,11,8,11,2,1,2
+2012,N,548367,2,Mumbai Indians,Royal Challengers Bangalore,162,11,118,5,42,42,7,0,16,7,7,0,3,1
+2012,N,548368,1,Kolkata Knight Riders,Chennai Super Kings,155,3,120,6,39,57,2,0,13,7,1,1,4,1
+2012,N,548368,2,Chennai Super Kings,Kolkata Knight Riders,155,5,120,5,44,49,6,0,13,7,1,2,2,1
+2012,N,548369,1,Kings XI Punjab,Delhi Capitals,132,4,120,8,53,39,4,1,19,1,1,0,5,2
+2012,N,548369,2,Delhi Capitals,Kings XI Punjab,138,2,114,5,47,42,3,0,18,3,1,1,4,0
+2012,N,548370,1,Kolkata Knight Riders,Mumbai Indians,126,14,120,7,47,49,5,0,12,3,8,4,2,1
+2012,N,548370,2,Mumbai Indians,Kolkata Knight Riders,104,4,115,10,59,37,4,0,9,3,2,3,6,0
+2012,N,548371,1,Chennai Super Kings,Kings XI Punjab,116,4,120,7,63,34,5,0,9,6,1,0,7,0
+2012,N,548371,2,Kings XI Punjab,Chennai Super Kings,118,5,99,4,46,26,4,0,18,2,2,1,3,0
+2012,N,548372,1,Royal Challengers Bangalore,Delhi Capitals,211,4,120,1,39,45,5,0,18,13,4,0,1,0
+2012,N,548372,2,Delhi Capitals,Royal Challengers Bangalore,187,7,120,9,34,52,5,0,18,8,4,0,9,0
+2012,N,548373,1,Rajasthan Royals,Deccan Chargers,119,7,120,8,47,50,8,0,10,2,4,3,3,1
+2012,N,548373,2,Deccan Chargers,Rajasthan Royals,119,9,112,5,48,40,9,1,10,3,7,0,4,0
+2012,N,548374,1,Kings XI Punjab,Delhi Capitals,133,8,120,8,58,37,4,0,16,4,3,2,6,0
+2012,N,548374,2,Delhi Capitals,Kings XI Punjab,136,9,110,4,60,21,5,1,15,7,3,0,4,0
+2012,N,548375,1,Kolkata Knight Riders,Pune Warriors,129,7,120,4,45,51,8,0,12,2,2,2,2,0
+2012,N,548375,2,Pune Warriors,Kolkata Knight Riders,92,10,120,8,47,58,9,0,1,2,4,2,3,0
+2012,N,548376,1,Deccan Chargers,Royal Challengers Bangalore,122,10,120,7,49,48,8,0,7,5,4,2,5,0
+2012,N,548376,2,Royal Challengers Bangalore,Deccan Chargers,120,3,120,9,58,42,7,0,7,6,3,4,5,0
+2012,N,548377,1,Rajasthan Royals,Mumbai Indians,148,14,120,6,50,42,9,0,13,5,12,0,3,1
+2012,N,548377,2,Mumbai Indians,Rajasthan Royals,145,18,108,0,35,43,8,1,16,3,10,0,0,0
+2012,N,548378,1,Kolkata Knight Riders,Delhi Capitals,158,4,120,4,40,51,6,1,14,6,2,0,3,1
+2012,N,548378,2,Delhi Capitals,Kolkata Knight Riders,130,14,120,8,46,46,5,0,14,3,4,0,6,0
+2012,N,548379,1,Chennai Super Kings,Mumbai Indians,182,5,120,5,43,38,8,0,23,6,3,1,4,0
+2012,N,548379,2,Mumbai Indians,Chennai Super Kings,138,11,120,9,48,44,4,0,14,5,6,1,7,1
+2012,N,548380,1,Chennai Super Kings,Delhi Capitals,216,6,120,5,29,49,7,1,24,9,3,0,3,1
+2012,N,548380,2,Delhi Capitals,Chennai Super Kings,125,11,101,10,36,39,8,0,7,7,5,2,5,2
+2012,N,548381,1,Chennai Super Kings,Kolkata Knight Riders,183,7,120,3,31,49,17,0,13,8,4,1,2,0
+2012,N,548381,2,Kolkata Knight Riders,Chennai Super Kings,184,8,118,5,29,54,10,0,18,6,6,1,4,0
+2013,N,597998,1,Delhi Capitals,Kolkata Knight Riders,123,5,120,10,53,43,7,0,15,1,4,2,6,1
+2013,N,597998,2,Kolkata Knight Riders,Delhi Capitals,123,6,112,4,45,43,6,0,14,2,3,1,3,0
+2013,N,597999,1,Royal Challengers Bangalore,Mumbai Indians,140,16,120,5,60,30,1,0,18,6,5,3,2,0
+2013,N,597999,2,Mumbai Indians,Royal Challengers Bangalore,146,8,120,5,39,50,11,0,10,5,2,2,1,1
+2013,N,598000,1,Sunrisers Hyderabad,Pune Warriors,123,3,120,6,46,51,9,0,12,1,2,3,3,0
+2013,N,598000,2,Pune Warriors,Sunrisers Hyderabad,102,2,113,10,54,38,11,2,6,2,2,3,5,1
+2013,N,598001,1,Rajasthan Royals,Delhi Capitals,156,9,120,7,37,52,9,0,14,5,2,2,4,0
+2013,N,598001,2,Delhi Capitals,Rajasthan Royals,149,11,120,6,36,50,12,0,13,3,6,3,2,1
+2013,N,598002,1,Mumbai Indians,Chennai Super Kings,139,9,120,6,49,46,4,1,10,7,6,2,4,0
+2013,N,598002,2,Chennai Super Kings,Mumbai Indians,132,7,120,9,54,38,10,2,11,4,6,5,4,0
+2013,N,598003,1,Pune Warriors,Kings XI Punjab,96,3,120,9,61,42,4,0,10,1,1,4,3,2
+2013,N,598003,2,Kings XI Punjab,Pune Warriors,97,3,74,2,29,25,5,0,14,1,3,1,1,0
+2013,Y,598004,1,Royal Challengers Bangalore,Sunrisers Hyderabad,122,8,120,8,50,45,11,0,11,1,3,2,5,0
+2013,Y,598004,2,Sunrisers Hyderabad,Royal Challengers Bangalore,114,16,120,7,37,60,10,0,7,1,5,1,5,1
+2013,N,598005,1,Rajasthan Royals,Kolkata Knight Riders,135,9,120,6,47,40,7,0,17,2,2,2,2,1
+2013,N,598005,2,Kolkata Knight Riders,Rajasthan Royals,114,11,114,10,55,34,9,2,8,4,6,3,7,0
+2013,N,598006,1,Mumbai Indians,Delhi Capitals,199,10,120,5,35,46,4,0,21,10,4,0,3,1
+2013,N,598006,2,Delhi Capitals,Mumbai Indians,155,10,120,9,40,51,7,0,15,5,4,0,6,1
+2013,N,598007,1,Kings XI Punjab,Chennai Super Kings,130,8,119,10,45,42,11,0,15,1,2,0,9,1
+2013,N,598007,2,Chennai Super Kings,Kings XI Punjab,136,3,104,0,34,42,10,0,14,3,2,0,0,0
+2013,N,598008,1,Kolkata Knight Riders,Royal Challengers Bangalore,148,6,120,8,43,45,9,0,17,2,3,1,5,1
+2013,N,598008,2,Royal Challengers Bangalore,Kolkata Knight Riders,148,10,105,2,53,29,1,0,11,11,9,0,2,0
+2013,N,598009,1,Rajasthan Royals,Pune Warriors,138,7,120,5,41,52,6,0,17,1,3,1,4,0
+2013,N,598009,2,Pune Warriors,Rajasthan Royals,142,6,112,3,47,40,5,0,10,8,4,1,2,0
+2013,N,598010,1,Delhi Capitals,Sunrisers Hyderabad,107,7,120,8,54,49,6,0,6,3,5,1,7,0
+2013,N,598010,2,Sunrisers Hyderabad,Delhi Capitals,112,3,116,7,56,37,7,1,13,1,2,1,3,1
+2013,N,598011,1,Mumbai Indians,Pune Warriors,180,3,120,3,41,46,9,0,17,7,3,1,2,0
+2013,N,598011,2,Pune Warriors,Mumbai Indians,137,5,120,8,49,45,9,0,11,5,4,2,5,1
+2013,N,598012,1,Royal Challengers Bangalore,Chennai Super Kings,157,8,120,6,42,42,16,2,13,4,7,0,5,0
+2013,N,598012,2,Chennai Super Kings,Royal Challengers Bangalore,158,8,119,6,39,44,18,0,13,4,7,1,5,0
+2013,N,598013,1,Kolkata Knight Riders,Sunrisers Hyderabad,172,8,120,4,39,43,7,1,22,4,4,1,1,2
+2013,N,598013,2,Sunrisers Hyderabad,Kolkata Knight Riders,120,12,120,7,35,63,4,1,7,3,3,3,4,0
+2013,N,598014,1,Kings XI Punjab,Rajasthan Royals,114,10,113,10,52,39,7,0,12,2,3,1,7,2
+2013,N,598014,2,Rajasthan Royals,Kings XI Punjab,117,9,116,4,53,37,6,0,17,0,3,1,3,0
+2013,N,598015,1,Pune Warriors,Chennai Super Kings,151,8,120,5,41,47,5,0,16,5,2,1,3,0
+2013,N,598015,2,Chennai Super Kings,Pune Warriors,133,2,120,8,44,52,10,1,10,3,2,1,7,0
+2013,N,598016,1,Kings XI Punjab,Kolkata Knight Riders,151,6,120,9,39,49,10,0,16,3,3,4,3,0
+2013,N,598016,2,Kolkata Knight Riders,Kings XI Punjab,141,12,120,9,46,43,9,0,17,2,5,3,5,1
+2013,Y,598017,1,Delhi Capitals,Royal Challengers Bangalore,147,5,120,5,46,43,10,1,17,2,4,0,3,1
+2013,Y,598017,2,Royal Challengers Bangalore,Delhi Capitals,148,4,120,7,46,41,13,1,12,5,2,0,4,2
+2013,N,598018,1,Sunrisers Hyderabad,Pune Warriors,114,5,120,8,50,52,7,0,9,2,5,3,4,1
+2013,N,598018,2,Pune Warriors,Sunrisers Hyderabad,108,0,114,10,54,39,8,1,11,1,0,4,6,0
+2013,N,598019,1,Rajasthan Royals,Mumbai Indians,164,15,120,3,38,47,9,0,17,5,8,0,2,1
+2013,N,598019,2,Mumbai Indians,Rajasthan Royals,85,7,110,10,53,39,7,0,8,0,3,4,4,1
+2013,N,598020,1,Chennai Super Kings,Delhi Capitals,160,9,120,4,38,46,10,0,19,3,5,1,2,1
+2013,N,598020,2,Delhi Capitals,Chennai Super Kings,79,4,105,10,53,39,7,0,5,1,4,4,5,1
+2013,N,598021,1,Kings XI Punjab,Sunrisers Hyderabad,116,7,120,9,55,44,6,0,9,4,2,1,6,2
+2013,N,598021,2,Sunrisers Hyderabad,Kings XI Punjab,121,6,113,5,44,47,5,2,10,3,1,3,2,0
+2013,N,598022,1,Kolkata Knight Riders,Chennai Super Kings,115,4,120,9,57,41,5,0,10,4,1,2,4,2
+2013,N,598022,2,Chennai Super Kings,Kolkata Knight Riders,118,6,115,6,44,49,3,1,9,4,1,2,3,1
+2013,N,598023,1,Rajasthan Royals,Royal Challengers Bangalore,117,0,118,10,59,37,6,0,14,2,0,2,8,0
+2013,N,598023,2,Royal Challengers Bangalore,Rajasthan Royals,107,16,107,3,48,39,4,0,12,2,7,1,2,0
+2013,N,598024,1,Mumbai Indians,Delhi Capitals,158,3,120,4,41,52,7,0,11,8,2,0,3,1
+2013,N,598024,2,Delhi Capitals,Mumbai Indians,161,4,102,1,26,47,4,0,22,3,4,1,0,0
+2013,N,598025,1,Pune Warriors,Kings XI Punjab,177,8,120,4,41,37,12,0,20,6,4,0,4,0
+2013,N,598025,2,Kings XI Punjab,Pune Warriors,183,3,119,3,28,49,17,2,16,5,1,2,1,0
+2013,N,598026,1,Rajasthan Royals,Chennai Super Kings,175,10,120,4,30,52,15,1,12,7,7,1,2,0
+2013,N,598026,2,Chennai Super Kings,Rajasthan Royals,179,7,119,5,21,61,11,0,18,4,2,2,1,1
+2013,N,598027,1,Royal Challengers Bangalore,Pune Warriors,252,11,120,5,37,37,2,0,20,21,8,0,4,1
+2013,N,598027,2,Pune Warriors,Royal Challengers Bangalore,129,4,120,9,55,41,5,0,15,3,3,2,6,0
+2013,N,598028,1,Kings XI Punjab,Delhi Capitals,162,9,120,4,46,40,4,0,18,7,3,0,3,0
+2013,N,598028,2,Delhi Capitals,Kings XI Punjab,151,13,120,7,51,37,6,0,15,7,1,2,5,0
+2013,N,598029,1,Kolkata Knight Riders,Mumbai Indians,153,6,120,6,45,41,7,3,16,4,2,2,4,0
+2013,N,598029,2,Mumbai Indians,Kolkata Knight Riders,158,4,119,5,38,55,7,1,8,9,0,2,2,0
+2013,N,598030,1,Sunrisers Hyderabad,Chennai Super Kings,151,8,120,6,48,40,8,1,17,4,3,0,4,1
+2013,N,598030,2,Chennai Super Kings,Sunrisers Hyderabad,154,6,118,5,49,37,9,1,15,6,5,0,4,0
+2013,N,598031,1,Kings XI Punjab,Kolkata Knight Riders,144,5,120,6,43,46,7,0,15,4,0,1,4,1
+2013,N,598031,2,Kolkata Knight Riders,Kings XI Punjab,138,12,110,4,48,36,2,0,14,7,3,1,3,0
+2013,N,598032,1,Sunrisers Hyderabad,Rajasthan Royals,133,11,120,9,56,33,12,0,16,2,9,1,8,0
+2013,N,598032,2,Rajasthan Royals,Sunrisers Hyderabad,144,2,107,2,43,38,2,0,18,5,1,0,2,0
+2013,N,598033,1,Mumbai Indians,Royal Challengers Bangalore,185,9,120,7,37,43,11,0,18,8,3,2,2,3
+2013,N,598033,2,Royal Challengers Bangalore,Mumbai Indians,125,11,120,7,55,39,8,1,12,3,4,0,6,0
+2013,N,598034,1,Chennai Super Kings,Kolkata Knight Riders,197,3,120,3,27,52,13,1,20,6,2,0,2,1
+2013,N,598034,2,Kolkata Knight Riders,Chennai Super Kings,166,20,120,4,38,48,4,0,20,5,7,2,1,1
+2013,N,598035,1,Delhi Capitals,Pune Warriors,150,14,120,5,51,40,7,0,12,8,8,0,5,0
+2013,N,598035,2,Pune Warriors,Delhi Capitals,143,6,120,4,48,37,11,2,18,1,3,0,4,0
+2013,N,598036,1,Royal Challengers Bangalore,Rajasthan Royals,161,10,120,6,40,41,13,1,15,5,5,1,4,1
+2013,N,598036,2,Rajasthan Royals,Royal Challengers Bangalore,168,5,119,6,36,47,9,3,16,5,2,2,3,1
+2013,N,598037,1,Mumbai Indians,Kings XI Punjab,166,8,120,3,44,47,2,0,14,9,5,2,1,0
+2013,N,598037,2,Kings XI Punjab,Mumbai Indians,157,13,120,10,47,41,8,0,11,9,6,1,9,0
+2013,N,598038,1,Chennai Super Kings,Pune Warriors,160,4,120,3,33,56,11,0,13,5,1,2,1,0
+2013,N,598038,2,Pune Warriors,Chennai Super Kings,121,6,120,9,55,42,9,0,9,4,4,1,4,3
+2013,N,598039,1,Mumbai Indians,Sunrisers Hyderabad,122,7,120,4,52,45,8,0,12,2,5,2,2,0
+2013,N,598039,2,Sunrisers Hyderabad,Mumbai Indians,127,3,108,3,42,41,9,0,15,1,3,0,2,0
+2013,N,598040,1,Kolkata Knight Riders,Delhi Capitals,129,7,120,7,60,32,7,1,14,4,5,1,5,1
+2013,N,598040,2,Delhi Capitals,Kolkata Knight Riders,135,2,107,3,42,36,10,1,13,4,1,0,3,0
+2013,N,598041,1,Chennai Super Kings,Kings XI Punjab,183,3,120,4,32,51,14,0,14,8,2,0,2,1
+2013,N,598041,2,Kings XI Punjab,Chennai Super Kings,168,3,120,6,34,54,6,0,18,5,0,3,3,0
+2013,N,598042,1,Royal Challengers Bangalore,Pune Warriors,175,12,120,3,36,49,11,0,17,6,3,1,2,0
+2013,N,598042,2,Pune Warriors,Royal Challengers Bangalore,164,6,120,9,43,50,3,2,9,11,4,2,6,1
+2013,N,598043,1,Rajasthan Royals,Kolkata Knight Riders,125,7,120,6,43,58,5,0,11,2,6,3,2,0
+2013,N,598043,2,Kolkata Knight Riders,Rajasthan Royals,123,10,104,2,40,42,4,1,10,5,4,0,1,0
+2013,N,598044,1,Delhi Capitals,Sunrisers Hyderabad,74,6,115,10,66,32,10,0,4,1,2,5,2,1
+2013,N,598044,2,Sunrisers Hyderabad,Delhi Capitals,78,3,83,4,39,30,5,0,8,1,3,1,2,0
+2013,N,598045,1,Royal Challengers Bangalore,Kings XI Punjab,167,7,120,5,49,42,5,0,15,8,6,3,2,0
+2013,N,598045,2,Kings XI Punjab,Royal Challengers Bangalore,168,8,109,3,32,40,7,0,21,5,4,2,1,0
+2013,N,598046,1,Mumbai Indians,Chennai Super Kings,135,4,120,5,57,38,7,1,11,6,4,2,2,0
+2013,N,598046,2,Chennai Super Kings,Mumbai Indians,70,9,92,10,51,26,7,0,6,1,4,4,6,0
+2013,N,598047,1,Pune Warriors,Rajasthan Royals,167,11,120,4,50,34,10,1,20,5,7,1,2,1
+2013,N,598047,2,Rajasthan Royals,Pune Warriors,179,3,119,5,36,49,7,2,20,5,3,1,4,0
+2013,N,598048,1,Sunrisers Hyderabad,Royal Challengers Bangalore,156,5,120,6,39,55,9,0,10,7,5,3,3,0
+2013,N,598048,2,Royal Challengers Bangalore,Sunrisers Hyderabad,157,5,106,3,42,31,8,0,17,7,4,0,3,0
+2013,N,598049,1,Delhi Capitals,Rajasthan Royals,147,7,120,4,49,37,11,0,19,2,5,1,3,0
+2013,N,598049,2,Rajasthan Royals,Delhi Capitals,144,11,107,1,29,47,11,1,15,2,5,0,1,0
+2013,N,598050,1,Mumbai Indians,Kolkata Knight Riders,159,11,120,6,47,41,7,0,20,4,6,1,3,2
+2013,N,598050,2,Kolkata Knight Riders,Mumbai Indians,96,9,110,10,55,36,2,0,8,4,0,3,4,1
+2013,N,598051,1,Chennai Super Kings,Sunrisers Hyderabad,213,10,120,3,33,47,7,1,21,10,8,1,2,0
+2013,N,598051,2,Sunrisers Hyderabad,Chennai Super Kings,142,4,120,8,48,48,7,0,11,6,4,0,6,2
+2013,N,598052,1,Kings XI Punjab,Rajasthan Royals,136,9,120,6,40,51,11,1,12,2,3,2,2,0
+2013,N,598052,2,Rajasthan Royals,Kings XI Punjab,141,6,114,2,39,51,6,0,12,5,3,2,0,0
+2013,N,598053,1,Kolkata Knight Riders,Pune Warriors,141,11,120,6,43,44,11,1,15,2,4,0,5,0
+2013,N,598053,2,Pune Warriors,Kolkata Knight Riders,102,4,117,10,50,57,1,1,4,4,3,3,6,0
+2013,N,598054,1,Royal Challengers Bangalore,Delhi Capitals,178,5,120,4,38,48,9,0,19,6,4,2,0,1
+2013,N,598054,2,Delhi Capitals,Royal Challengers Bangalore,168,11,120,7,42,41,7,1,23,3,5,4,3,0
+2013,N,598055,1,Pune Warriors,Mumbai Indians,108,4,120,8,48,52,9,0,5,3,1,2,5,1
+2013,N,598055,2,Mumbai Indians,Pune Warriors,112,4,113,5,52,44,3,0,11,3,3,1,4,0
+2013,N,598056,1,Sunrisers Hyderabad,Kings XI Punjab,146,4,120,7,48,41,8,1,14,5,1,3,2,1
+2013,N,598056,2,Kings XI Punjab,Sunrisers Hyderabad,112,8,120,9,60,35,8,1,10,3,2,2,5,2
+2013,N,598057,1,Royal Challengers Bangalore,Kolkata Knight Riders,112,3,120,9,44,54,13,0,5,2,1,4,4,0
+2013,N,598057,2,Kolkata Knight Riders,Royal Challengers Bangalore,111,5,116,5,58,35,6,2,13,1,4,1,4,0
+2013,N,598058,1,Chennai Super Kings,Rajasthan Royals,133,8,120,4,49,34,16,1,16,0,3,1,2,1
+2013,N,598058,2,Rajasthan Royals,Chennai Super Kings,143,1,103,5,47,29,5,2,11,9,1,2,3,0
+2013,N,598059,1,Delhi Capitals,Kings XI Punjab,113,7,120,7,49,51,5,0,10,2,3,1,6,0
+2013,N,598059,2,Kings XI Punjab,Delhi Capitals,115,6,102,5,42,37,6,0,15,1,1,1,2,1
+2013,N,598060,1,Sunrisers Hyderabad,Mumbai Indians,171,7,120,3,35,53,8,0,18,5,6,0,3,0
+2013,N,598060,2,Mumbai Indians,Sunrisers Hyderabad,177,7,117,4,39,49,5,0,13,10,5,1,1,0
+2013,N,598061,1,Pune Warriors,Kolkata Knight Riders,169,1,120,4,40,50,9,1,11,9,1,2,1,1
+2013,N,598061,2,Kolkata Knight Riders,Pune Warriors,148,15,120,7,43,49,6,1,15,4,3,2,2,2
+2013,N,598062,1,Chennai Super Kings,Delhi Capitals,158,10,120,4,37,48,15,2,11,5,4,1,2,1
+2013,N,598062,2,Delhi Capitals,Chennai Super Kings,126,9,120,9,49,46,12,0,8,4,4,1,8,0
+2013,N,598063,1,Mumbai Indians,Rajasthan Royals,159,7,120,8,43,43,10,0,15,6,4,1,5,2
+2013,N,598063,2,Rajasthan Royals,Mumbai Indians,136,16,120,7,54,34,6,2,15,4,4,2,5,0
+2013,N,598064,1,Royal Challengers Bangalore,Kings XI Punjab,180,10,120,3,41,36,11,0,21,6,5,2,1,0
+2013,N,598064,2,Kings XI Punjab,Royal Challengers Bangalore,183,11,108,4,31,36,10,2,18,8,5,1,3,0
+2013,N,598065,1,Sunrisers Hyderabad,Rajasthan Royals,121,15,120,9,39,47,17,0,7,2,4,2,5,2
+2013,N,598065,2,Rajasthan Royals,Sunrisers Hyderabad,107,6,120,9,58,39,8,0,7,4,1,3,5,1
+2013,N,598066,1,Kings XI Punjab,Mumbai Indians,176,7,120,8,43,40,5,0,24,5,4,5,2,1
+2013,N,598066,2,Mumbai Indians,Kings XI Punjab,124,9,115,9,50,42,6,0,10,5,3,4,4,0
+2013,N,598067,1,Pune Warriors,Delhi Capitals,167,5,120,5,41,50,5,1,13,8,3,1,4,0
+2013,N,598067,2,Delhi Capitals,Pune Warriors,118,16,120,9,52,47,4,1,12,2,7,2,7,0
+2013,N,598068,1,Royal Challengers Bangalore,Chennai Super Kings,101,5,48,2,15,11,1,0,10,8,2,0,2,0
+2013,N,598068,2,Chennai Super Kings,Royal Challengers Bangalore,80,2,48,6,15,18,4,0,6,5,2,0,5,0
+2013,N,598069,1,Kolkata Knight Riders,Sunrisers Hyderabad,116,14,120,7,52,43,8,1,9,3,3,2,4,1
+2013,N,598069,2,Sunrisers Hyderabad,Kolkata Knight Riders,123,9,113,5,46,47,4,0,11,4,4,3,1,1
+2013,N,598070,1,Chennai Super Kings,Mumbai Indians,191,1,120,1,24,62,8,1,17,7,0,0,1,0
+2013,N,598070,2,Mumbai Indians,Chennai Super Kings,139,5,112,10,43,41,8,0,10,7,2,1,9,0
+2013,N,598071,1,Sunrisers Hyderabad,Rajasthan Royals,126,6,120,7,53,45,5,1,11,4,4,0,5,2
+2013,N,598071,2,Rajasthan Royals,Sunrisers Hyderabad,131,4,116,6,57,35,6,0,12,6,2,3,2,0
+2013,N,598072,1,Rajasthan Royals,Mumbai Indians,151,14,120,6,45,45,6,0,22,1,5,1,5,0
+2013,N,598072,2,Mumbai Indians,Rajasthan Royals,159,10,119,6,42,42,8,0,15,6,4,2,4,0
+2013,N,598073,1,Mumbai Indians,Chennai Super Kings,143,5,120,9,49,45,4,0,18,3,3,4,3,1
+2013,N,598073,2,Chennai Super Kings,Mumbai Indians,116,9,120,9,62,36,6,0,8,6,7,2,7,0
+2014,N,729279,1,Kolkata Knight Riders,Mumbai Indians,155,8,120,5,42,47,11,0,14,5,4,2,3,0
+2014,N,729279,2,Mumbai Indians,Kolkata Knight Riders,117,5,120,7,52,39,19,0,7,2,1,3,1,0
+2014,N,729281,1,Delhi Capitals,Royal Challengers Bangalore,135,10,120,4,43,53,11,0,9,4,6,1,3,0
+2014,N,729281,2,Royal Challengers Bangalore,Delhi Capitals,142,4,100,2,41,36,4,0,10,9,4,1,1,0
+2014,N,729283,1,Chennai Super Kings,Kings XI Punjab,191,14,120,4,34,48,11,0,15,10,8,0,4,0
+2014,N,729283,2,Kings XI Punjab,Chennai Super Kings,200,6,113,4,30,36,15,0,26,5,5,4,0,0
+2014,N,729285,1,Sunrisers Hyderabad,Rajasthan Royals,118,15,120,6,38,56,13,0,6,2,5,0,6,0
+2014,N,729285,2,Rajasthan Royals,Sunrisers Hyderabad,130,5,117,6,45,42,13,0,14,1,2,1,5,0
+2014,N,729287,1,Mumbai Indians,Royal Challengers Bangalore,103,12,120,9,48,50,9,1,8,0,4,1,7,1
+2014,N,729287,2,Royal Challengers Bangalore,Mumbai Indians,114,2,105,3,42,40,7,2,12,1,1,2,1,0
+2014,N,729289,1,Kolkata Knight Riders,Delhi Capitals,152,14,120,5,35,58,9,0,15,2,9,2,3,0
+2014,N,729289,2,Delhi Capitals,Kolkata Knight Riders,156,11,117,6,40,43,10,0,13,6,3,2,3,1
+2014,N,729291,1,Rajasthan Royals,Kings XI Punjab,185,6,120,5,46,35,8,2,16,10,3,3,1,1
+2014,N,729291,2,Kings XI Punjab,Rajasthan Royals,184,9,112,3,29,43,11,1,11,12,4,0,3,0
+2014,N,729293,1,Chennai Super Kings,Delhi Capitals,171,6,120,7,33,46,18,1,14,5,3,1,5,1
+2014,N,729293,2,Delhi Capitals,Chennai Super Kings,82,2,94,9,46,30,9,2,7,0,2,2,7,0
+2014,N,729295,1,Kings XI Punjab,Sunrisers Hyderabad,184,9,120,6,46,34,8,0,14,13,4,1,5,0
+2014,N,729295,2,Sunrisers Hyderabad,Kings XI Punjab,113,8,116,10,47,50,6,1,6,4,5,4,6,0
+2014,N,729297,1,Chennai Super Kings,Rajasthan Royals,127,13,120,6,48,47,11,0,10,3,7,0,5,1
+2014,N,729297,2,Rajasthan Royals,Chennai Super Kings,131,2,119,10,53,40,12,1,7,6,2,1,6,2
+2014,N,729299,1,Kolkata Knight Riders,Royal Challengers Bangalore,143,7,120,7,38,53,13,0,7,6,4,1,6,0
+2014,N,729299,2,Royal Challengers Bangalore,Kolkata Knight Riders,140,8,120,5,49,41,8,1,18,1,3,2,3,0
+2014,N,729301,1,Sunrisers Hyderabad,Delhi Capitals,179,5,120,1,37,46,9,1,16,8,2,0,1,0
+2014,N,729301,2,Delhi Capitals,Sunrisers Hyderabad,174,6,120,4,35,51,7,0,18,6,3,0,4,0
+2014,N,729303,1,Mumbai Indians,Chennai Super Kings,140,1,120,7,42,54,7,0,12,4,0,2,4,1
+2014,N,729303,2,Chennai Super Kings,Mumbai Indians,135,7,114,3,46,41,8,0,9,7,3,0,1,0
+2014,N,729305,1,Royal Challengers Bangalore,Rajasthan Royals,66,4,90,10,50,24,6,0,6,1,1,3,6,1
+2014,N,729305,2,Rajasthan Royals,Royal Challengers Bangalore,68,3,78,4,47,15,4,3,6,2,2,0,3,1
+2014,N,729307,1,Kings XI Punjab,Kolkata Knight Riders,127,5,120,9,48,44,10,1,12,2,2,5,2,1
+2014,N,729307,2,Kolkata Knight Riders,Kings XI Punjab,99,10,110,10,52,32,9,1,10,1,5,5,3,1
+2014,N,729309,1,Mumbai Indians,Delhi Capitals,114,11,120,7,53,48,2,1,10,3,4,1,3,2
+2014,N,729309,2,Delhi Capitals,Mumbai Indians,117,9,113,4,45,44,9,1,10,2,1,1,3,0
+2014,N,729311,1,Sunrisers Hyderabad,Chennai Super Kings,129,16,120,5,37,59,5,0,9,4,3,2,3,0
+2014,N,729311,2,Chennai Super Kings,Sunrisers Hyderabad,142,4,117,5,44,46,6,0,9,8,0,2,3,0
+2014,N,729313,1,Royal Challengers Bangalore,Kings XI Punjab,114,10,120,8,55,43,7,0,8,4,1,4,4,0
+2014,N,729313,2,Kings XI Punjab,Royal Challengers Bangalore,115,12,113,5,47,42,10,0,13,0,6,0,5,0
+2014,Y,729315,1,Rajasthan Royals,Kolkata Knight Riders,147,5,120,5,45,42,14,1,17,1,3,2,2,1
+2014,Y,729315,2,Kolkata Knight Riders,Rajasthan Royals,141,11,120,8,40,46,16,1,12,2,7,3,4,1
+2014,N,729317,1,Sunrisers Hyderabad,Mumbai Indians,154,18,120,5,33,52,14,0,11,5,5,0,5,0
+2014,N,729317,2,Mumbai Indians,Sunrisers Hyderabad,148,9,120,7,50,39,7,1,14,6,6,3,4,0
+2014,N,733971,1,Chennai Super Kings,Kolkata Knight Riders,142,6,102,3,33,36,9,0,13,6,1,1,2,0
+2014,N,733971,2,Kolkata Knight Riders,Chennai Super Kings,110,4,102,9,47,34,5,1,8,5,1,3,5,1
+2014,N,733973,1,Kings XI Punjab,Mumbai Indians,155,13,120,5,45,43,6,0,16,6,5,0,4,1
+2014,N,733973,2,Mumbai Indians,Kings XI Punjab,164,6,115,5,47,32,9,0,15,9,3,2,3,0
+2014,N,733975,1,Delhi Capitals,Rajasthan Royals,148,4,120,5,37,59,3,1,14,4,1,0,4,0
+2014,N,733975,2,Rajasthan Royals,Delhi Capitals,152,4,111,3,40,40,11,0,12,7,3,1,1,0
+2014,N,733977,1,Sunrisers Hyderabad,Royal Challengers Bangalore,145,10,120,6,46,46,6,1,12,6,7,1,5,0
+2014,N,733977,2,Royal Challengers Bangalore,Sunrisers Hyderabad,153,5,119,6,58,33,5,0,11,11,4,2,3,1
+2014,N,733979,1,Rajasthan Royals,Kolkata Knight Riders,163,7,120,6,37,48,12,2,12,6,4,0,4,1
+2014,N,733979,2,Kolkata Knight Riders,Rajasthan Royals,150,10,120,6,35,56,6,1,12,5,5,2,2,0
+2014,N,733981,1,Delhi Capitals,Chennai Super Kings,167,11,120,5,45,42,5,1,16,8,4,1,3,1
+2014,N,733981,2,Chennai Super Kings,Delhi Capitals,170,11,118,2,47,36,5,0,16,10,2,0,2,0
+2014,N,733983,1,Mumbai Indians,Royal Challengers Bangalore,162,25,120,5,41,40,9,0,14,8,8,1,3,1
+2014,N,733983,2,Royal Challengers Bangalore,Mumbai Indians,158,10,120,8,48,42,4,0,15,8,4,4,3,1
+2014,N,733985,1,Delhi Capitals,Kolkata Knight Riders,152,8,120,5,40,52,6,0,13,6,2,1,3,1
+2014,N,733985,2,Kolkata Knight Riders,Delhi Capitals,149,12,110,2,25,52,10,1,14,3,1,1,1,0
+2014,N,733987,1,Kings XI Punjab,Chennai Super Kings,221,10,120,4,36,37,5,0,24,13,5,2,2,0
+2014,N,733987,2,Chennai Super Kings,Kings XI Punjab,183,4,120,6,30,49,17,0,19,4,3,1,4,1
+2014,N,733989,1,Sunrisers Hyderabad,Rajasthan Royals,122,12,120,9,43,48,7,0,15,0,2,3,3,2
+2014,N,733989,2,Rajasthan Royals,Sunrisers Hyderabad,92,10,119,10,56,47,6,1,6,1,5,1,7,1
+2014,N,733991,1,Kings XI Punjab,Royal Challengers Bangalore,183,15,120,8,40,42,9,0,19,7,11,2,6,0
+2014,N,733991,2,Royal Challengers Bangalore,Kings XI Punjab,160,6,120,9,52,38,8,0,13,8,4,1,8,0
+2014,N,733993,1,Delhi Capitals,Sunrisers Hyderabad,138,5,120,7,43,51,7,1,10,5,1,1,6,0
+2014,N,733993,2,Sunrisers Hyderabad,Delhi Capitals,33,11,26,2,8,11,1,0,2,2,4,1,1,0
+2014,N,733995,1,Mumbai Indians,Chennai Super Kings,152,5,120,6,48,44,10,0,10,8,4,0,6,0
+2014,N,733995,2,Chennai Super Kings,Mumbai Indians,149,11,117,6,42,41,10,0,13,6,5,3,1,1
+2014,N,733997,1,Kings XI Punjab,Kolkata Knight Riders,145,4,120,8,42,49,8,0,17,2,2,4,2,1
+2014,N,733997,2,Kolkata Knight Riders,Kings XI Punjab,145,5,108,1,34,41,13,0,18,1,3,0,1,0
+2014,N,733999,1,Royal Challengers Bangalore,Rajasthan Royals,183,7,120,5,46,39,6,0,15,12,5,1,4,0
+2014,N,733999,2,Rajasthan Royals,Royal Challengers Bangalore,184,7,113,5,35,42,9,0,19,7,5,2,2,0
+2014,N,734001,1,Sunrisers Hyderabad,Mumbai Indians,151,6,120,3,49,41,8,0,16,5,4,1,1,1
+2014,N,734001,2,Mumbai Indians,Sunrisers Hyderabad,157,3,112,3,41,40,9,1,15,6,3,1,1,0
+2014,N,734003,1,Rajasthan Royals,Chennai Super Kings,136,12,120,8,53,39,6,1,10,7,3,4,3,1
+2014,N,734003,2,Chennai Super Kings,Rajasthan Royals,141,8,118,5,37,54,9,1,9,5,5,2,3,0
+2014,N,734005,1,Royal Challengers Bangalore,Delhi Capitals,177,9,120,4,45,35,13,0,11,12,5,2,1,1
+2014,N,734005,2,Delhi Capitals,Royal Challengers Bangalore,160,10,120,7,37,57,4,0,11,8,4,3,2,1
+2014,N,734007,1,Sunrisers Hyderabad,Kings XI Punjab,190,15,120,5,41,48,5,1,13,11,9,1,3,1
+2014,N,734007,2,Kings XI Punjab,Sunrisers Hyderabad,207,4,112,4,31,36,10,1,19,12,1,0,1,1
+2014,N,734009,1,Mumbai Indians,Kolkata Knight Riders,134,7,120,5,51,43,8,2,11,4,5,2,3,0
+2014,N,734009,2,Kolkata Knight Riders,Mumbai Indians,137,5,112,4,40,45,9,0,14,3,4,3,1,0
+2014,N,734011,1,Rajasthan Royals,Delhi Capitals,186,15,120,6,34,51,5,0,13,12,5,2,2,1
+2014,N,734011,2,Delhi Capitals,Rajasthan Royals,130,9,120,9,43,54,5,0,12,3,6,3,4,1
+2014,N,734013,1,Chennai Super Kings,Royal Challengers Bangalore,132,6,120,4,43,52,8,0,10,4,3,0,4,0
+2014,N,734013,2,Royal Challengers Bangalore,Chennai Super Kings,129,13,119,5,55,37,6,0,8,8,3,1,3,0
+2014,N,734015,1,Sunrisers Hyderabad,Kolkata Knight Riders,132,10,120,8,52,42,7,0,13,4,6,2,5,1
+2014,N,734015,2,Kolkata Knight Riders,Sunrisers Hyderabad,145,1,118,3,41,53,5,0,13,5,0,0,2,1
+2014,N,734017,1,Mumbai Indians,Rajasthan Royals,172,6,120,3,38,47,10,1,12,9,3,0,2,1
+2014,N,734017,2,Rajasthan Royals,Mumbai Indians,145,8,120,8,50,39,15,0,7,8,7,0,7,0
+2014,N,734019,1,Delhi Capitals,Kings XI Punjab,159,5,120,7,43,45,10,0,16,5,4,2,5,0
+2014,N,734019,2,Kings XI Punjab,Delhi Capitals,150,15,118,6,47,38,8,1,13,6,11,2,4,0
+2014,N,734021,1,Royal Challengers Bangalore,Sunrisers Hyderabad,153,7,120,6,43,45,10,0,13,6,3,2,3,1
+2014,N,734021,2,Sunrisers Hyderabad,Royal Challengers Bangalore,154,7,118,3,43,42,10,0,11,8,3,0,2,1
+2014,N,734023,1,Chennai Super Kings,Kolkata Knight Riders,151,3,120,4,44,53,6,0,8,9,3,1,2,1
+2014,N,734023,2,Kolkata Knight Riders,Chennai Super Kings,152,4,108,2,32,44,7,0,19,3,1,1,1,0
+2014,N,734025,1,Kings XI Punjab,Mumbai Indians,148,8,120,8,54,32,13,0,12,7,3,2,3,2
+2014,N,734025,2,Mumbai Indians,Kings XI Punjab,149,10,114,3,38,47,10,0,16,3,6,1,2,0
+2014,N,734027,1,Kolkata Knight Riders,Royal Challengers Bangalore,188,7,120,4,39,42,9,0,20,7,5,1,2,1
+2014,N,734027,2,Royal Challengers Bangalore,Kolkata Knight Riders,155,10,120,5,37,47,13,0,14,4,2,3,2,0
+2014,N,734029,1,Chennai Super Kings,Sunrisers Hyderabad,177,8,120,3,41,46,4,1,15,10,1,1,1,1
+2014,N,734029,2,Sunrisers Hyderabad,Chennai Super Kings,184,5,118,4,33,47,12,1,17,7,3,1,2,1
+2014,N,734031,1,Mumbai Indians,Delhi Capitals,164,9,117,10,31,54,6,0,20,3,3,1,6,3
+2014,N,734031,2,Delhi Capitals,Mumbai Indians,152,6,120,4,41,51,6,0,13,6,3,2,1,0
+2014,N,734033,1,Kings XI Punjab,Rajasthan Royals,165,14,120,4,38,45,9,0,16,6,4,0,3,1
+2014,N,734033,2,Rajasthan Royals,Kings XI Punjab,156,7,120,8,43,42,12,2,9,8,3,2,4,0
+2014,N,734035,1,Royal Challengers Bangalore,Chennai Super Kings,148,6,120,6,43,48,9,2,10,6,4,5,1,0
+2014,N,734035,2,Chennai Super Kings,Royal Challengers Bangalore,155,5,106,2,30,49,6,0,13,7,1,0,1,0
+2014,N,734037,1,Sunrisers Hyderabad,Kolkata Knight Riders,139,21,120,7,59,27,3,0,19,5,4,1,1,3
+2014,N,734037,2,Kolkata Knight Riders,Sunrisers Hyderabad,156,5,86,6,33,24,5,0,13,10,4,1,4,1
+2014,N,734039,1,Delhi Capitals,Kings XI Punjab,108,7,109,10,51,37,4,1,15,0,2,2,7,1
+2014,N,734039,2,Kings XI Punjab,Delhi Capitals,104,15,83,3,35,25,6,1,10,4,6,1,2,0
+2014,N,734041,1,Rajasthan Royals,Mumbai Indians,184,5,120,4,40,43,8,1,17,9,3,0,4,0
+2014,N,734041,2,Mumbai Indians,Rajasthan Royals,188,7,88,5,22,25,6,1,19,12,4,1,3,1
+2014,N,734043,1,Kolkata Knight Riders,Kings XI Punjab,156,7,120,8,45,44,4,0,17,6,3,2,5,1
+2014,N,734043,2,Kings XI Punjab,Kolkata Knight Riders,130,5,120,8,52,44,8,0,4,9,2,2,4,1
+2014,N,734045,1,Mumbai Indians,Chennai Super Kings,171,2,120,8,41,49,3,2,14,9,0,2,6,0
+2014,N,734045,2,Chennai Super Kings,Mumbai Indians,167,9,112,3,35,44,6,1,15,8,6,0,2,0
+2014,N,734047,1,Kings XI Punjab,Chennai Super Kings,215,11,120,6,33,46,6,1,19,13,9,1,4,1
+2014,N,734047,2,Chennai Super Kings,Kings XI Punjab,186,16,120,7,37,46,6,0,16,10,8,1,3,2
+2014,N,734049,1,Kings XI Punjab,Kolkata Knight Riders,191,8,120,4,40,35,14,0,17,10,2,1,2,0
+2014,N,734049,2,Kolkata Knight Riders,Kings XI Punjab,194,6,117,7,36,45,9,0,15,11,6,0,6,1
+2015,N,829705,1,Mumbai Indians,Kolkata Knight Riders,165,3,120,3,47,43,4,0,18,7,2,0,3,0
+2015,N,829705,2,Kolkata Knight Riders,Mumbai Indians,166,4,111,3,38,42,7,0,11,11,2,0,3,0
+2015,N,829707,1,Chennai Super Kings,Delhi Capitals,136,14,120,7,48,37,13,1,13,3,3,2,4,0
+2015,N,829707,2,Delhi Capitals,Chennai Super Kings,144,5,120,9,43,48,12,0,15,2,5,2,6,1
+2015,N,829709,1,Rajasthan Royals,Kings XI Punjab,141,21,120,7,49,40,8,1,10,7,8,3,4,0
+2015,N,829709,2,Kings XI Punjab,Rajasthan Royals,127,9,120,8,59,33,7,2,14,3,7,1,5,2
+2015,N,829711,1,Chennai Super Kings,Sunrisers Hyderabad,194,15,120,4,46,38,4,0,15,14,8,0,1,3
+2015,N,829711,2,Sunrisers Hyderabad,Chennai Super Kings,153,11,120,6,34,55,12,0,8,7,4,2,4,0
+2015,N,829713,1,Kolkata Knight Riders,Royal Challengers Bangalore,171,6,120,6,37,47,7,0,23,3,3,0,4,2
+2015,N,829713,2,Royal Challengers Bangalore,Kolkata Knight Riders,171,8,114,7,40,44,2,1,12,12,1,2,1,2
+2015,N,829715,1,Delhi Capitals,Rajasthan Royals,175,9,120,3,37,51,8,0,12,10,7,0,2,0
+2015,N,829715,2,Rajasthan Royals,Delhi Capitals,180,6,120,7,38,44,14,0,15,8,5,3,3,0
+2015,N,829717,1,Kings XI Punjab,Mumbai Indians,171,6,120,5,37,47,8,0,21,4,3,0,5,0
+2015,N,829717,2,Mumbai Indians,Kings XI Punjab,151,8,120,7,58,32,4,0,14,9,5,2,4,0
+2015,N,829719,1,Royal Challengers Bangalore,Sunrisers Hyderabad,150,16,119,10,51,36,6,0,15,7,7,4,6,0
+2015,N,829719,2,Sunrisers Hyderabad,Royal Challengers Bangalore,156,16,104,2,29,49,4,0,14,6,7,1,0,0
+2015,N,829721,1,Mumbai Indians,Rajasthan Royals,159,5,120,6,58,26,7,1,17,8,1,2,3,0
+2015,N,829721,2,Rajasthan Royals,Mumbai Indians,161,4,115,3,35,44,17,1,15,3,4,1,2,0
+2015,N,829723,1,Chennai Super Kings,Kolkata Knight Riders,145,20,120,9,52,33,3,0,19,5,2,4,4,0
+2015,N,829723,2,Kolkata Knight Riders,Chennai Super Kings,159,10,119,3,37,51,11,0,11,7,5,0,3,0
+2015,N,829725,1,Kings XI Punjab,Delhi Capitals,157,8,120,7,42,51,9,0,7,10,6,2,5,0
+2015,N,829725,2,Delhi Capitals,Kings XI Punjab,158,11,119,5,42,45,7,0,17,5,8,1,3,1
+2015,N,829727,1,Sunrisers Hyderabad,Rajasthan Royals,121,6,120,5,60,35,9,0,11,4,5,3,1,1
+2015,N,829727,2,Rajasthan Royals,Sunrisers Hyderabad,124,7,120,4,48,44,10,0,15,0,4,1,2,0
+2015,N,829729,1,Mumbai Indians,Chennai Super Kings,176,7,120,7,46,36,12,0,14,10,4,1,6,0
+2015,N,829729,2,Chennai Super Kings,Mumbai Indians,178,11,100,4,35,31,4,0,21,9,11,1,2,0
+2015,N,829731,1,Delhi Capitals,Sunrisers Hyderabad,158,9,120,4,39,52,8,0,9,9,6,1,3,0
+2015,N,829731,2,Sunrisers Hyderabad,Delhi Capitals,159,4,120,8,40,50,9,1,10,8,1,3,3,1
+2015,N,829733,1,Kings XI Punjab,Kolkata Knight Riders,142,13,120,9,46,46,7,0,10,7,3,0,8,1
+2015,N,829733,2,Kolkata Knight Riders,Kings XI Punjab,157,2,107,6,42,30,8,1,21,4,1,3,3,0
+2015,N,829735,1,Chennai Super Kings,Rajasthan Royals,150,6,120,4,49,37,10,1,18,3,3,1,3,0
+2015,N,829735,2,Rajasthan Royals,Chennai Super Kings,156,1,110,2,30,52,10,0,12,6,1,1,0,0
+2015,N,829737,1,Mumbai Indians,Royal Challengers Bangalore,192,17,120,7,48,32,4,0,23,10,8,1,4,1
+2015,N,829737,2,Royal Challengers Bangalore,Mumbai Indians,175,16,120,7,50,35,6,0,20,8,14,3,3,1
+2015,N,829739,1,Delhi Capitals,Kolkata Knight Riders,133,13,120,8,51,45,3,0,13,5,6,2,4,1
+2015,N,829739,2,Kolkata Knight Riders,Delhi Capitals,140,7,109,4,36,48,4,0,18,2,3,1,3,0
+2015,Y,829741,1,Rajasthan Royals,Kings XI Punjab,181,10,120,6,36,46,10,1,16,8,6,1,4,0
+2015,Y,829741,2,Kings XI Punjab,Rajasthan Royals,186,5,120,6,36,39,18,1,12,10,1,1,3,2
+2015,N,829743,1,Sunrisers Hyderabad,Kolkata Knight Riders,172,4,120,4,38,47,10,1,15,7,2,1,3,0
+2015,N,829743,2,Kolkata Knight Riders,Sunrisers Hyderabad,98,3,72,4,22,34,5,0,6,5,2,1,3,0
+2015,N,829745,1,Chennai Super Kings,Royal Challengers Bangalore,171,10,120,8,51,34,3,1,17,10,3,1,7,0
+2015,N,829745,2,Royal Challengers Bangalore,Chennai Super Kings,148,6,120,8,49,43,6,1,12,7,1,1,6,1
+2015,N,829747,1,Delhi Capitals,Mumbai Indians,182,8,120,4,39,49,7,0,13,11,7,1,3,0
+2015,N,829747,2,Mumbai Indians,Delhi Capitals,142,11,120,9,54,37,7,1,13,6,8,0,8,0
+2015,N,829749,1,Rajasthan Royals,Royal Challengers Bangalore,126,4,120,9,43,58,5,0,10,3,3,4,4,1
+2015,N,829749,2,Royal Challengers Bangalore,Rajasthan Royals,129,5,97,1,26,45,10,0,10,4,0,0,1,0
+2015,N,829751,1,Mumbai Indians,Sunrisers Hyderabad,147,10,120,8,42,51,7,0,16,3,9,2,6,0
+2015,N,829751,2,Sunrisers Hyderabad,Mumbai Indians,132,5,120,8,52,38,11,1,14,2,3,1,7,0
+2015,N,829753,1,Chennai Super Kings,Kings XI Punjab,180,12,120,3,44,35,12,1,19,7,6,1,1,1
+2015,N,829753,2,Kings XI Punjab,Chennai Super Kings,87,8,120,9,60,45,5,0,5,2,2,1,7,0
+2015,N,829757,1,Delhi Capitals,Royal Challengers Bangalore,87,8,110,10,54,41,4,0,8,1,6,4,4,1
+2015,N,829757,2,Royal Challengers Bangalore,Delhi Capitals,97,2,63,0,23,23,1,0,12,4,2,0,0,0
+2015,N,829759,1,Sunrisers Hyderabad,Kings XI Punjab,149,1,120,6,42,51,6,0,17,3,0,1,5,0
+2015,N,829759,2,Kings XI Punjab,Sunrisers Hyderabad,123,7,120,9,41,54,13,1,7,2,5,4,4,1
+2015,N,829761,1,Kolkata Knight Riders,Delhi Capitals,159,12,120,7,45,41,9,0,16,6,5,2,4,1
+2015,N,829761,2,Delhi Capitals,Kolkata Knight Riders,151,7,120,6,46,49,2,0,14,7,5,2,4,0
+2015,N,829763,1,Royal Challengers Bangalore,NA,184,16,120,7,42,34,9,0,25,5,8,1,3,3
+2015,N,829765,1,Chennai Super Kings,Kolkata Knight Riders,122,12,120,6,52,44,6,0,12,3,7,2,3,1
+2015,N,829765,2,Kolkata Knight Riders,Chennai Super Kings,127,5,120,9,50,46,6,1,12,3,3,2,6,1
+2015,N,829767,1,Kings XI Punjab,Delhi Capitals,110,8,120,8,52,54,1,0,9,3,3,2,6,0
+2015,N,829767,2,Delhi Capitals,Kings XI Punjab,111,8,83,1,26,37,3,0,11,4,6,0,1,0
+2015,N,829769,1,Mumbai Indians,Rajasthan Royals,178,9,120,5,34,50,10,0,17,6,5,1,3,0
+2015,N,829769,2,Rajasthan Royals,Mumbai Indians,167,12,120,7,32,57,8,1,15,5,8,1,5,1
+2015,N,829771,1,Kolkata Knight Riders,Royal Challengers Bangalore,103,8,60,4,17,21,3,0,11,5,5,0,3,1
+2015,N,829771,2,Royal Challengers Bangalore,Kolkata Knight Riders,111,4,58,3,14,25,4,0,6,9,4,1,2,0
+2015,N,829773,1,Sunrisers Hyderabad,Chennai Super Kings,187,5,120,7,38,48,4,1,23,5,4,1,4,1
+2015,N,829773,2,Chennai Super Kings,Sunrisers Hyderabad,163,7,120,6,34,55,7,0,16,5,4,3,2,1
+2015,N,829775,1,Mumbai Indians,Kings XI Punjab,167,5,120,3,39,40,16,1,17,4,2,0,3,0
+2015,N,829775,2,Kings XI Punjab,Mumbai Indians,137,12,120,7,36,53,10,2,10,3,3,0,4,3
+2015,N,829777,1,Rajasthan Royals,Delhi Capitals,181,8,120,2,39,35,18,0,20,5,4,0,2,0
+2015,N,829777,2,Delhi Capitals,Rajasthan Royals,160,15,120,7,51,32,11,2,13,8,11,2,5,0
+2015,N,829779,1,Chennai Super Kings,Royal Challengers Bangalore,143,5,120,9,47,47,9,0,12,5,5,4,4,1
+2015,N,829779,2,Royal Challengers Bangalore,Chennai Super Kings,122,2,118,10,56,35,9,1,15,1,1,1,7,2
+2015,N,829781,1,Kolkata Knight Riders,Sunrisers Hyderabad,160,7,120,7,37,48,11,1,16,3,1,2,4,1
+2015,N,829781,2,Sunrisers Hyderabad,Kolkata Knight Riders,128,4,120,9,49,54,3,0,8,6,4,2,4,2
+2015,N,829783,1,Delhi Capitals,Mumbai Indians,148,4,120,6,51,39,5,1,15,6,1,0,4,0
+2015,N,829783,2,Mumbai Indians,Delhi Capitals,144,9,117,5,41,53,5,1,9,7,6,3,2,0
+2015,N,829785,1,Royal Challengers Bangalore,Kings XI Punjab,215,11,120,3,38,44,3,0,14,18,8,2,0,0
+2015,N,829785,2,Kings XI Punjab,Royal Challengers Bangalore,79,9,82,10,44,23,3,0,8,3,2,7,2,0
+2015,N,829787,1,Sunrisers Hyderabad,Rajasthan Royals,186,15,120,4,41,39,9,1,21,7,6,2,2,0
+2015,N,829787,2,Rajasthan Royals,Sunrisers Hyderabad,187,7,120,7,41,37,9,0,18,10,1,2,5,0
+2015,N,829789,1,Chennai Super Kings,Mumbai Indians,152,6,120,5,46,45,9,1,14,5,2,0,4,1
+2015,N,829789,2,Mumbai Indians,Chennai Super Kings,157,2,116,4,39,48,9,1,10,8,1,0,3,1
+2015,N,829791,1,Kings XI Punjab,Kolkata Knight Riders,174,9,120,5,40,45,8,1,11,11,3,2,1,0
+2015,N,829791,2,Kolkata Knight Riders,Kings XI Punjab,177,7,119,9,40,47,1,0,20,8,4,1,6,2
+2015,N,829793,1,Sunrisers Hyderabad,Delhi Capitals,159,4,120,4,39,45,18,2,9,6,3,0,4,0
+2015,N,829793,2,Delhi Capitals,Sunrisers Hyderabad,153,4,120,4,48,39,7,0,19,4,1,1,1,0
+2015,N,829795,1,Royal Challengers Bangalore,Mumbai Indians,228,7,120,1,27,47,11,0,26,9,5,0,1,0
+2015,N,829795,2,Mumbai Indians,Royal Challengers Bangalore,192,4,120,7,36,48,9,0,15,11,3,0,5,1
+2015,N,829797,1,Chennai Super Kings,Rajasthan Royals,149,8,120,5,46,46,7,1,14,5,3,0,4,1
+2015,N,829797,2,Rajasthan Royals,Chennai Super Kings,139,6,120,9,40,55,9,1,11,2,4,1,8,0
+2015,N,829799,1,Sunrisers Hyderabad,Kings XI Punjab,180,5,120,5,41,46,6,1,16,9,4,0,3,1
+2015,N,829799,2,Kings XI Punjab,Sunrisers Hyderabad,173,7,120,7,43,45,6,0,11,12,4,0,7,0
+2015,N,829801,1,Chennai Super Kings,Delhi Capitals,112,7,120,6,56,40,7,0,10,3,0,2,4,0
+2015,N,829801,2,Delhi Capitals,Chennai Super Kings,120,0,100,4,43,36,3,0,15,3,0,1,3,0
+2015,N,829803,1,Kings XI Punjab,Royal Challengers Bangalore,102,4,60,6,13,27,5,1,8,5,3,1,4,0
+2015,N,829803,2,Royal Challengers Bangalore,Kings XI Punjab,76,8,60,6,15,27,6,0,6,2,3,1,5,0
+2015,N,829805,1,Mumbai Indians,Kolkata Knight Riders,161,10,120,4,41,49,7,0,18,4,9,1,3,0
+2015,N,829805,2,Kolkata Knight Riders,Mumbai Indians,158,8,120,7,42,46,9,0,19,3,7,1,5,1
+2015,N,829807,1,Sunrisers Hyderabad,Royal Challengers Bangalore,128,7,66,3,11,27,10,0,10,6,4,0,3,0
+2015,N,829807,2,Royal Challengers Bangalore,Sunrisers Hyderabad,82,1,35,4,9,8,5,0,7,6,1,0,3,1
+2015,N,829809,1,Kings XI Punjab,Chennai Super Kings,121,9,120,7,54,43,5,0,11,4,3,1,5,0
+2015,N,829809,2,Chennai Super Kings,Kings XI Punjab,128,6,101,3,36,40,8,2,12,3,5,2,1,0
+2015,N,829811,1,Rajasthan Royals,Kolkata Knight Riders,189,10,120,6,33,52,8,1,18,7,5,0,4,2
+2015,N,829811,2,Kolkata Knight Riders,Rajasthan Royals,164,26,120,9,43,44,4,0,22,4,14,0,9,0
+2015,N,829813,1,Delhi Capitals,Royal Challengers Bangalore,181,6,120,5,31,55,8,0,14,9,3,0,4,1
+2015,N,829813,2,Royal Challengers Bangalore,Delhi Capitals,2,0,7,0,5,2,0,0,0,0,0,0,0,0
+2015,N,829815,1,Sunrisers Hyderabad,Mumbai Indians,107,6,120,10,49,51,9,0,8,1,4,2,6,1
+2015,N,829815,2,Mumbai Indians,Sunrisers Hyderabad,106,8,83,1,32,30,3,0,13,3,5,0,1,0
+2015,N,829817,1,Mumbai Indians,Chennai Super Kings,178,9,120,6,42,48,7,0,11,12,9,0,6,0
+2015,N,829817,2,Chennai Super Kings,Mumbai Indians,154,8,114,10,33,56,6,0,11,7,5,2,6,1
+2015,N,829819,1,Royal Challengers Bangalore,Rajasthan Royals,168,12,120,4,43,40,10,0,15,8,5,1,1,1
+2015,N,829819,2,Rajasthan Royals,Royal Challengers Bangalore,106,3,114,10,51,42,10,0,11,0,3,1,7,1
+2015,N,829821,1,Royal Challengers Bangalore,Chennai Super Kings,132,7,120,8,54,38,10,0,11,5,5,1,5,1
+2015,N,829821,2,Chennai Super Kings,Royal Challengers Bangalore,133,7,119,7,39,55,9,2,9,3,3,2,4,1
+2015,N,829823,1,Mumbai Indians,Chennai Super Kings,196,6,120,5,40,40,10,0,16,12,1,1,3,1
+2015,N,829823,2,Chennai Super Kings,Mumbai Indians,154,7,120,8,50,39,7,0,16,6,5,2,5,0
+2016,N,980901,1,Mumbai Indians,Rising Pune Supergiant,108,13,120,8,66,34,4,0,12,3,6,3,5,0
+2016,N,980901,2,Rising Pune Supergiant,Mumbai Indians,121,5,88,1,38,26,7,0,8,8,4,1,0,0
+2016,N,980903,1,Delhi Capitals,Kolkata Knight Riders,86,12,106,10,66,25,3,0,8,3,4,3,6,0
+2016,N,980903,2,Kolkata Knight Riders,Delhi Capitals,88,11,85,1,42,26,1,0,15,0,5,0,1,0
+2016,N,980905,1,Kings XI Punjab,Gujarat Lions,154,7,120,6,39,46,14,0,14,4,4,3,3,0
+2016,N,980905,2,Gujarat Lions,Kings XI Punjab,156,6,106,5,31,43,5,1,22,2,3,0,2,1
+2016,N,980907,1,Royal Challengers Bangalore,Sunrisers Hyderabad,220,7,120,4,35,45,4,1,19,14,5,2,2,0
+2016,N,980907,2,Sunrisers Hyderabad,Royal Challengers Bangalore,171,11,120,6,47,37,10,0,15,9,5,2,4,0
+2016,N,980909,1,Kolkata Knight Riders,Mumbai Indians,177,10,120,5,29,53,16,0,11,8,7,1,2,1
+2016,N,980909,2,Mumbai Indians,Kolkata Knight Riders,178,10,115,4,38,42,7,0,17,9,4,0,3,1
+2016,N,980911,1,Rising Pune Supergiant,Gujarat Lions,161,2,120,5,39,47,13,0,13,6,0,3,1,0
+2016,N,980911,2,Gujarat Lions,Rising Pune Supergiant,149,15,108,3,35,39,7,1,14,6,5,0,2,0
+2016,N,980913,1,Kings XI Punjab,Delhi Capitals,107,4,120,9,67,29,8,2,11,2,3,3,3,2
+2016,N,980913,2,Delhi Capitals,Kings XI Punjab,103,10,81,2,31,27,5,0,12,3,3,1,1,0
+2016,N,980915,1,Sunrisers Hyderabad,Kolkata Knight Riders,134,8,120,7,48,43,11,1,9,5,5,1,5,1
+2016,N,980915,2,Kolkata Knight Riders,Sunrisers Hyderabad,141,5,110,2,36,48,7,1,16,2,5,2,0,0
+2016,N,980917,1,Mumbai Indians,Gujarat Lions,133,10,120,8,55,35,12,0,11,5,7,1,5,1
+2016,N,980917,2,Gujarat Lions,Mumbai Indians,136,11,120,7,47,42,10,0,14,3,4,0,7,0
+2016,N,980919,1,Rising Pune Supergiant,Kings XI Punjab,141,11,120,7,38,49,10,0,18,0,3,1,4,1
+2016,N,980919,2,Kings XI Punjab,Rising Pune Supergiant,151,2,112,4,36,47,10,0,15,4,2,2,2,0
+2016,N,980921,1,Royal Challengers Bangalore,Delhi Capitals,182,9,120,5,30,54,5,0,19,7,1,0,4,1
+2016,N,980921,2,Delhi Capitals,Royal Challengers Bangalore,178,14,115,3,32,45,10,0,22,4,7,0,3,0
+2016,N,980923,1,Mumbai Indians,Sunrisers Hyderabad,134,8,120,6,47,46,11,0,9,5,6,2,3,1
+2016,N,980923,2,Sunrisers Hyderabad,Mumbai Indians,140,5,105,3,35,39,12,1,11,5,3,1,2,0
+2016,N,980925,1,Kings XI Punjab,Kolkata Knight Riders,131,7,120,8,43,49,12,2,10,2,5,1,6,1
+2016,N,980925,2,Kolkata Knight Riders,Kings XI Punjab,133,8,103,4,30,45,8,0,18,0,3,2,2,0
+2016,N,980927,1,Royal Challengers Bangalore,Mumbai Indians,157,13,120,7,41,47,10,0,12,7,6,0,5,1
+2016,N,980927,2,Mumbai Indians,Royal Challengers Bangalore,167,4,108,4,36,44,1,1,16,8,3,0,4,0
+2016,N,980929,1,Gujarat Lions,Sunrisers Hyderabad,130,5,120,8,36,60,10,0,11,1,3,2,6,0
+2016,N,980929,2,Sunrisers Hyderabad,Gujarat Lions,127,10,89,0,21,37,14,2,14,0,5,0,0,0
+2016,N,980931,1,Royal Challengers Bangalore,Rising Pune Supergiant,173,12,120,3,27,65,8,0,14,6,8,0,3,0
+2016,N,980931,2,Rising Pune Supergiant,Royal Challengers Bangalore,165,7,120,9,34,53,12,0,16,4,6,0,6,1
+2016,N,980933,1,Delhi Capitals,Mumbai Indians,152,12,120,4,33,60,7,0,12,5,9,0,4,0
+2016,N,980933,2,Mumbai Indians,Delhi Capitals,151,3,120,7,40,53,7,0,15,4,2,3,1,3
+2016,N,980935,1,Kings XI Punjab,Sunrisers Hyderabad,138,5,120,6,47,48,9,0,9,6,3,1,4,1
+2016,N,980935,2,Sunrisers Hyderabad,Kings XI Punjab,141,5,107,5,39,42,7,0,14,4,5,0,3,2
+2016,N,980937,1,Royal Challengers Bangalore,Gujarat Lions,177,3,120,2,27,60,9,1,18,4,2,0,2,0
+2016,N,980937,2,Gujarat Lions,Royal Challengers Bangalore,168,14,117,4,31,51,13,0,14,5,7,0,3,0
+2016,N,980939,1,Rising Pune Supergiant,Kolkata Knight Riders,154,6,120,5,34,57,10,1,8,7,0,3,0,1
+2016,N,980939,2,Kolkata Knight Riders,Rising Pune Supergiant,152,10,117,8,40,56,2,0,11,8,7,5,2,1
+2016,N,980941,1,Mumbai Indians,Kings XI Punjab,184,5,120,6,33,52,9,0,18,7,4,1,5,0
+2016,N,980941,2,Kings XI Punjab,Mumbai Indians,159,5,120,7,33,55,15,0,10,5,3,4,3,0
+2016,N,980943,1,Sunrisers Hyderabad,Rising Pune Supergiant,110,8,120,8,54,43,11,1,6,3,3,1,6,1
+2016,N,980943,2,Rising Pune Supergiant,Sunrisers Hyderabad,81,13,66,3,31,15,5,0,11,2,7,0,3,0
+2016,N,980945,1,Gujarat Lions,Delhi Capitals,169,3,120,6,35,53,9,0,14,7,1,2,4,0
+2016,N,980945,2,Delhi Capitals,Gujarat Lions,168,3,120,5,39,48,11,0,11,9,1,0,4,0
+2016,N,980947,1,Kolkata Knight Riders,Mumbai Indians,173,1,120,5,30,53,14,2,17,3,0,1,3,0
+2016,N,980947,2,Mumbai Indians,Kolkata Knight Riders,173,5,108,4,37,41,3,0,18,9,5,1,3,0
+2016,N,980949,1,Rising Pune Supergiant,Gujarat Lions,188,7,120,3,27,54,16,0,15,7,5,1,0,2
+2016,N,980949,2,Gujarat Lions,Rising Pune Supergiant,189,7,120,7,30,48,16,1,22,3,7,2,3,2
+2016,N,980951,1,Delhi Capitals,Kolkata Knight Riders,176,10,120,8,35,44,14,0,17,6,3,5,2,1
+2016,N,980951,2,Kolkata Knight Riders,Delhi Capitals,146,13,111,10,31,52,8,0,13,4,6,1,6,2
+2016,N,980953,1,Sunrisers Hyderabad,Royal Challengers Bangalore,189,5,120,5,36,51,4,2,18,8,4,0,3,1
+2016,N,980953,2,Royal Challengers Bangalore,Sunrisers Hyderabad,176,3,120,6,30,54,15,0,14,6,2,0,5,1
+2016,N,980955,1,Kings XI Punjab,Gujarat Lions,150,4,119,10,38,45,18,1,15,1,3,3,5,1
+2016,N,980955,2,Gujarat Lions,Kings XI Punjab,127,4,120,9,48,46,11,1,11,2,3,4,4,1
+2016,N,980957,1,Rising Pune Supergiant,Mumbai Indians,151,8,120,5,42,49,10,2,10,6,7,0,5,0
+2016,N,980957,2,Mumbai Indians,Rising Pune Supergiant,155,6,111,2,33,45,10,0,15,5,2,0,2,0
+2016,N,980959,1,Royal Challengers Bangalore,Kolkata Knight Riders,181,4,120,7,37,50,8,0,18,7,4,1,4,1
+2016,N,980959,2,Kolkata Knight Riders,Royal Challengers Bangalore,170,19,115,5,34,48,8,0,13,9,9,2,3,0
+2016,N,980961,1,Gujarat Lions,Delhi Capitals,143,6,120,7,43,42,15,1,14,2,3,3,2,1
+2016,N,980961,2,Delhi Capitals,Gujarat Lions,147,3,104,2,32,44,6,1,16,4,2,0,2,0
+2016,N,980963,1,Kolkata Knight Riders,Kings XI Punjab,159,5,120,3,29,65,6,0,13,5,3,0,0,3
+2016,N,980963,2,Kings XI Punjab,Kolkata Knight Riders,145,12,120,9,46,41,10,0,12,6,4,3,4,2
+2016,N,980965,1,Delhi Capitals,Rising Pune Supergiant,154,8,120,7,38,56,9,0,10,6,7,1,4,2
+2016,N,980965,2,Rising Pune Supergiant,Delhi Capitals,155,11,115,3,30,61,6,0,11,6,6,0,2,0
+2016,N,980967,1,Gujarat Lions,Sunrisers Hyderabad,121,5,120,6,49,49,11,0,8,3,5,0,5,0
+2016,N,980967,2,Sunrisers Hyderabad,Gujarat Lions,123,6,114,5,49,35,12,0,13,2,3,0,5,0
+2016,N,980969,1,Rising Pune Supergiant,Royal Challengers Bangalore,184,7,120,6,39,45,7,1,20,7,6,1,3,1
+2016,N,980969,2,Royal Challengers Bangalore,Rising Pune Supergiant,189,6,117,3,28,52,7,0,14,11,1,1,2,0
+2016,N,980971,1,Kings XI Punjab,Delhi Capitals,173,8,120,5,32,49,17,0,15,5,3,1,3,1
+2016,N,980971,2,Delhi Capitals,Kings XI Punjab,163,9,120,5,34,44,17,1,13,5,2,0,5,0
+2016,N,980973,1,Sunrisers Hyderabad,Mumbai Indians,172,5,120,3,37,47,9,1,20,4,3,0,2,0
+2016,N,980973,2,Mumbai Indians,Sunrisers Hyderabad,86,6,99,10,51,32,4,0,10,1,4,2,8,0
+2016,N,980975,1,Kolkata Knight Riders,Gujarat Lions,152,6,120,4,43,46,10,0,14,5,3,1,3,0
+2016,N,980975,2,Gujarat Lions,Kolkata Knight Riders,159,5,108,5,44,35,3,0,19,7,1,1,2,1
+2016,N,980977,1,Royal Challengers Bangalore,Kings XI Punjab,171,4,120,6,31,49,22,0,15,3,4,2,3,1
+2016,N,980977,2,Kings XI Punjab,Royal Challengers Bangalore,169,5,120,4,28,55,13,0,19,2,2,0,2,1
+2016,N,980979,1,Sunrisers Hyderabad,Rising Pune Supergiant,132,5,120,8,53,44,7,0,8,7,3,1,6,0
+2016,N,980979,2,Rising Pune Supergiant,Sunrisers Hyderabad,130,3,120,8,44,54,6,0,10,4,1,0,6,2
+2016,N,980981,1,Royal Challengers Bangalore,Mumbai Indians,144,7,120,4,46,47,4,1,8,9,2,0,3,1
+2016,N,980981,2,Mumbai Indians,Royal Challengers Bangalore,143,10,112,4,43,47,5,0,9,8,10,0,4,0
+2016,N,980983,1,Sunrisers Hyderabad,Delhi Capitals,135,11,120,8,41,56,5,0,13,2,5,3,3,1
+2016,N,980983,2,Delhi Capitals,Sunrisers Hyderabad,147,3,109,3,41,41,8,0,12,7,3,1,2,0
+2016,N,980985,1,Mumbai Indians,Kings XI Punjab,116,8,120,9,62,40,1,2,5,8,2,3,6,0
+2016,N,980985,2,Kings XI Punjab,Mumbai Indians,116,11,102,3,37,38,9,0,12,2,4,2,1,0
+2016,N,980987,1,Royal Challengers Bangalore,Gujarat Lions,244,4,120,3,34,40,8,0,16,20,2,1,2,0
+2016,N,980987,2,Gujarat Lions,Royal Challengers Bangalore,92,12,112,10,56,39,2,0,9,2,8,5,4,0
+2016,N,980989,1,Rising Pune Supergiant,Kolkata Knight Riders,97,6,106,6,48,37,7,2,7,2,2,1,3,1
+2016,N,980989,2,Kolkata Knight Riders,Rising Pune Supergiant,56,10,30,2,9,7,2,1,6,3,4,1,0,0
+2016,N,980991,1,Kings XI Punjab,Sunrisers Hyderabad,176,3,120,4,34,50,8,0,23,3,0,1,3,0
+2016,N,980991,2,Sunrisers Hyderabad,Kings XI Punjab,171,9,118,3,33,53,7,0,14,7,5,0,1,1
+2016,N,980993,1,Mumbai Indians,Delhi Capitals,199,7,120,4,39,42,6,3,13,14,1,1,3,0
+2016,N,980993,2,Delhi Capitals,Mumbai Indians,123,3,115,10,51,43,3,0,11,5,1,4,3,3
+2016,N,980995,1,Kolkata Knight Riders,Royal Challengers Bangalore,171,12,120,5,32,55,8,0,16,6,5,0,2,1
+2016,N,980995,2,Royal Challengers Bangalore,Kolkata Knight Riders,183,3,112,1,35,40,11,0,15,10,2,1,0,0
+2016,N,980997,1,Delhi Capitals,Rising Pune Supergiant,119,2,120,6,52,47,8,0,11,2,2,2,3,0
+2016,N,980997,2,Rising Pune Supergiant,Delhi Capitals,69,7,66,1,31,21,1,0,10,1,5,0,1,0
+2016,N,980999,1,Royal Challengers Bangalore,Kings XI Punjab,203,8,90,3,29,24,3,0,19,15,7,1,2,0
+2016,N,980999,2,Kings XI Punjab,Royal Challengers Bangalore,114,6,84,9,26,40,1,0,12,4,5,2,6,1
+2016,N,981001,1,Kolkata Knight Riders,Gujarat Lions,117,7,120,8,53,49,2,0,10,4,5,1,6,1
+2016,N,981001,2,Gujarat Lions,Kolkata Knight Riders,108,17,81,4,30,30,5,0,11,4,8,2,1,1
+2016,N,981003,1,Sunrisers Hyderabad,Delhi Capitals,155,3,120,7,38,47,15,0,15,3,1,1,3,3
+2016,N,981003,2,Delhi Capitals,Sunrisers Hyderabad,147,14,120,4,38,49,12,0,14,3,6,0,3,1
+2016,N,981005,1,Kings XI Punjab,Rising Pune Supergiant,168,4,120,7,38,52,8,0,13,8,3,2,5,0
+2016,N,981005,2,Rising Pune Supergiant,Kings XI Punjab,165,8,120,6,46,42,8,1,14,8,7,0,5,0
+2016,N,981007,1,Mumbai Indians,Gujarat Lions,164,8,120,8,45,44,5,0,16,7,5,0,7,0
+2016,N,981007,2,Gujarat Lions,Mumbai Indians,167,6,107,4,37,37,2,0,24,5,4,2,2,0
+2016,N,981009,1,Kolkata Knight Riders,Sunrisers Hyderabad,167,4,120,6,28,61,12,0,13,5,3,0,6,0
+2016,N,981009,2,Sunrisers Hyderabad,Kolkata Knight Riders,138,11,120,8,45,44,11,0,9,6,4,2,5,1
+2016,N,981011,1,Delhi Capitals,Royal Challengers Bangalore,132,6,120,8,39,59,9,0,9,3,5,0,7,1
+2016,N,981011,2,Royal Challengers Bangalore,Delhi Capitals,129,10,109,4,41,42,10,1,13,2,2,2,2,0
+2016,N,981013,1,Gujarat Lions,Royal Challengers Bangalore,147,11,120,10,47,49,1,0,12,8,5,3,6,1
+2016,N,981013,2,Royal Challengers Bangalore,Gujarat Lions,143,16,110,6,40,43,3,1,12,7,5,3,3,0
+2016,N,981015,1,Sunrisers Hyderabad,Kolkata Knight Riders,156,6,120,8,45,46,6,0,14,7,4,3,2,1
+2016,N,981015,2,Kolkata Knight Riders,Sunrisers Hyderabad,131,9,120,8,38,54,11,0,8,3,0,1,6,1
+2016,N,981017,1,Gujarat Lions,Sunrisers Hyderabad,157,5,120,7,49,42,3,1,22,3,5,3,3,1
+2016,N,981017,2,Sunrisers Hyderabad,Gujarat Lions,161,2,116,6,42,43,8,0,15,7,1,1,4,1
+2016,N,981019,1,Sunrisers Hyderabad,Royal Challengers Bangalore,194,14,120,7,36,48,3,0,20,10,6,0,6,1
+2016,N,981019,2,Royal Challengers Bangalore,Sunrisers Hyderabad,191,9,120,7,36,43,11,0,12,13,4,2,3,2
+2017,N,1082591,1,Sunrisers Hyderabad,Royal Challengers Bangalore,200,7,120,4,26,57,9,1,17,9,5,1,3,0
+2017,N,1082591,2,Royal Challengers Bangalore,Sunrisers Hyderabad,166,6,118,10,44,43,7,0,15,8,5,2,6,2
+2017,N,1082592,1,Mumbai Indians,Rising Pune Supergiant,176,8,120,8,41,49,4,0,12,11,5,3,3,1
+2017,N,1082592,2,Rising Pune Supergiant,Mumbai Indians,183,4,119,3,29,55,10,0,18,6,3,0,3,0
+2017,N,1082593,1,Gujarat Lions,Kolkata Knight Riders,179,4,120,4,35,51,6,0,20,6,2,1,3,0
+2017,N,1082593,2,Kolkata Knight Riders,Gujarat Lions,169,15,89,0,21,33,8,0,18,8,7,0,0,0
+2017,N,1082594,1,Rising Pune Supergiant,Kings XI Punjab,157,6,120,6,32,67,2,0,11,7,5,1,3,0
+2017,N,1082594,2,Kings XI Punjab,Rising Pune Supergiant,154,10,114,4,40,50,3,0,11,9,8,1,2,0
+2017,N,1082595,1,Royal Challengers Bangalore,Delhi Capitals,151,6,120,8,50,41,6,0,14,7,4,3,3,1
+2017,N,1082595,2,Delhi Capitals,Royal Challengers Bangalore,137,5,120,9,47,49,6,2,10,5,4,6,2,0
+2017,N,1082596,1,Gujarat Lions,Sunrisers Hyderabad,132,3,120,7,36,60,8,0,11,2,0,3,3,1
+2017,N,1082596,2,Sunrisers Hyderabad,Gujarat Lions,137,3,93,1,27,39,10,0,12,5,3,0,1,0
+2017,N,1082597,1,Kolkata Knight Riders,Mumbai Indians,169,9,120,7,35,55,10,0,13,6,8,2,5,0
+2017,N,1082597,2,Mumbai Indians,Kolkata Knight Riders,168,12,119,6,48,35,8,1,15,9,7,3,3,0
+2017,N,1082598,1,Royal Challengers Bangalore,Kings XI Punjab,144,4,120,4,53,44,5,0,6,11,3,2,2,0
+2017,N,1082598,2,Kings XI Punjab,Royal Challengers Bangalore,144,6,87,2,21,39,2,1,11,9,2,2,0,0
+2017,N,1082599,1,Delhi Capitals,Rising Pune Supergiant,197,8,120,4,32,47,11,0,17,10,5,2,1,1
+2017,N,1082599,2,Rising Pune Supergiant,Delhi Capitals,103,5,97,10,41,37,7,0,7,4,4,0,10,0
+2017,N,1082600,1,Sunrisers Hyderabad,Mumbai Indians,147,11,120,8,45,43,5,1,18,3,6,3,4,0
+2017,N,1082600,2,Mumbai Indians,Sunrisers Hyderabad,155,4,112,6,39,42,5,1,16,6,1,3,3,0
+2017,N,1082601,1,Kings XI Punjab,Kolkata Knight Riders,154,16,120,9,54,38,4,0,18,5,10,2,7,0
+2017,N,1082601,2,Kolkata Knight Riders,Kings XI Punjab,160,11,99,2,25,44,3,0,20,5,5,1,1,0
+2017,N,1082602,1,Royal Challengers Bangalore,Mumbai Indians,131,11,120,5,41,53,11,1,7,4,4,1,3,1
+2017,N,1082602,2,Mumbai Indians,Royal Challengers Bangalore,132,13,113,6,41,47,6,1,7,7,6,1,5,0
+2017,N,1082603,1,Rising Pune Supergiant,Gujarat Lions,166,5,120,8,37,52,9,0,15,6,4,3,5,0
+2017,N,1082603,2,Gujarat Lions,Rising Pune Supergiant,167,5,108,3,41,33,6,0,20,7,4,1,1,0
+2017,N,1082604,1,Kolkata Knight Riders,Sunrisers Hyderabad,161,11,120,6,40,52,6,1,13,7,6,3,3,0
+2017,N,1082604,2,Sunrisers Hyderabad,Kolkata Knight Riders,148,7,120,6,48,42,6,0,16,5,4,0,4,0
+2017,N,1082605,1,Delhi Capitals,Kings XI Punjab,178,10,120,6,41,43,6,0,23,5,7,0,6,0
+2017,N,1082605,2,Kings XI Punjab,Delhi Capitals,135,2,120,9,40,57,8,0,11,3,1,5,4,0
+2017,N,1082606,1,Gujarat Lions,Mumbai Indians,165,11,120,4,36,56,10,0,10,6,6,1,3,0
+2017,N,1082606,2,Mumbai Indians,Gujarat Lions,164,13,117,4,32,55,7,1,11,8,8,0,4,0
+2017,N,1082607,1,Rising Pune Supergiant,Royal Challengers Bangalore,148,13,120,8,43,50,3,0,17,4,6,4,3,1
+2017,N,1082607,2,Royal Challengers Bangalore,Rising Pune Supergiant,126,8,120,9,46,51,7,1,7,5,4,5,3,0
+2017,N,1082608,1,Delhi Capitals,Kolkata Knight Riders,165,3,120,7,35,57,4,0,19,4,2,2,4,1
+2017,N,1082608,2,Kolkata Knight Riders,Delhi Capitals,158,11,119,6,33,55,9,1,13,5,4,0,4,0
+2017,N,1082609,1,Sunrisers Hyderabad,Kings XI Punjab,148,11,120,6,38,47,12,3,11,4,5,0,4,0
+2017,N,1082609,2,Kings XI Punjab,Sunrisers Hyderabad,144,10,118,10,52,36,9,1,11,7,6,7,3,0
+2017,N,1082610,1,Royal Challengers Bangalore,Gujarat Lions,209,4,120,2,35,41,13,0,19,11,3,1,1,0
+2017,N,1082610,2,Gujarat Lions,Royal Challengers Bangalore,184,8,120,7,39,50,5,0,10,14,6,0,5,1
+2017,N,1082611,1,Sunrisers Hyderabad,Delhi Capitals,187,4,120,4,24,62,11,0,15,7,3,1,3,0
+2017,N,1082611,2,Delhi Capitals,Sunrisers Hyderabad,169,7,120,5,35,51,5,0,18,6,2,0,4,1
+2017,N,1082612,1,Kings XI Punjab,Mumbai Indians,186,12,120,4,35,48,7,0,16,9,7,2,2,0
+2017,N,1082612,2,Mumbai Indians,Kings XI Punjab,191,8,93,2,16,43,3,0,13,15,5,0,2,0
+2017,N,1082613,1,Kolkata Knight Riders,Gujarat Lions,184,3,120,5,30,54,7,0,23,4,1,1,3,1
+2017,N,1082613,2,Gujarat Lions,Kolkata Knight Riders,183,5,110,6,30,44,4,1,20,8,1,1,5,0
+2017,N,1082614,1,Mumbai Indians,Delhi Capitals,126,16,120,8,51,41,7,1,11,4,7,1,4,3
+2017,N,1082614,2,Delhi Capitals,Mumbai Indians,120,8,120,7,50,46,7,0,12,2,5,3,3,1
+2017,N,1082615,1,Sunrisers Hyderabad,Rising Pune Supergiant,168,8,120,3,34,52,9,0,17,4,4,2,1,0
+2017,N,1082615,2,Rising Pune Supergiant,Sunrisers Hyderabad,176,3,120,4,36,52,6,0,16,8,1,1,2,1
+2017,N,1082616,1,Kings XI Punjab,Gujarat Lions,183,5,120,7,35,49,6,0,17,9,1,1,4,1
+2017,N,1082616,2,Gujarat Lions,Kings XI Punjab,155,7,120,7,33,53,13,0,16,2,4,3,3,0
+2017,N,1082617,1,Kolkata Knight Riders,Royal Challengers Bangalore,123,8,117,10,53,41,7,0,14,2,4,2,7,0
+2017,N,1082617,2,Royal Challengers Bangalore,Kolkata Knight Riders,42,7,58,10,39,8,1,0,8,0,4,2,8,0
+2017,N,1082618,1,Rising Pune Supergiant,Mumbai Indians,156,4,120,6,41,45,11,1,17,3,2,4,1,0
+2017,N,1082618,2,Mumbai Indians,Rising Pune Supergiant,151,6,120,8,44,47,5,0,16,5,3,2,4,1
+2017,N,1082620,1,Rising Pune Supergiant,Kolkata Knight Riders,175,7,120,5,32,55,10,0,16,6,5,1,1,0
+2017,N,1082620,2,Kolkata Knight Riders,Rising Pune Supergiant,171,13,109,3,27,47,7,0,17,7,5,0,2,1
+2017,N,1082621,1,Royal Challengers Bangalore,Gujarat Lions,122,12,120,10,45,50,6,0,9,4,3,1,7,2
+2017,N,1082621,2,Gujarat Lions,Royal Challengers Bangalore,127,8,83,3,31,27,3,0,13,7,6,1,2,0
+2017,N,1082622,1,Delhi Capitals,Kolkata Knight Riders,153,7,120,6,36,57,8,0,14,4,2,4,1,1
+2017,N,1082622,2,Kolkata Knight Riders,Delhi Capitals,151,10,98,3,28,39,4,0,20,4,1,2,0,1
+2017,N,1082623,1,Sunrisers Hyderabad,Kings XI Punjab,204,3,120,3,23,54,16,0,19,7,2,1,2,0
+2017,N,1082623,2,Kings XI Punjab,Sunrisers Hyderabad,176,5,120,9,38,46,3,0,25,4,1,1,8,0
+2017,N,1082624,1,Rising Pune Supergiant,Royal Challengers Bangalore,153,4,120,3,40,50,10,1,14,4,3,0,3,0
+2017,N,1082624,2,Royal Challengers Bangalore,Rising Pune Supergiant,92,4,120,9,57,46,8,0,6,1,2,2,6,1
+2017,Y,1082625,1,Gujarat Lions,Mumbai Indians,142,11,120,9,53,41,6,0,13,6,9,3,3,1
+2017,Y,1082625,2,Mumbai Indians,Gujarat Lions,152,1,120,10,41,50,10,0,16,3,1,2,4,4
+2017,N,1082626,1,Delhi Capitals,Kings XI Punjab,62,5,103,10,64,30,4,0,3,2,5,3,4,0
+2017,N,1082626,2,Kings XI Punjab,Delhi Capitals,66,2,47,0,20,15,1,1,7,3,2,0,0,0
+2017,N,1082627,1,Sunrisers Hyderabad,Kolkata Knight Riders,201,8,120,3,32,43,15,2,17,9,5,0,1,2
+2017,N,1082627,2,Kolkata Knight Riders,Sunrisers Hyderabad,156,5,120,7,37,52,13,0,12,5,2,0,6,0
+2017,N,1082628,1,Royal Challengers Bangalore,Mumbai Indians,158,4,120,8,39,52,9,0,10,8,2,1,6,1
+2017,N,1082628,2,Mumbai Indians,Royal Challengers Bangalore,158,7,119,6,34,54,9,0,17,3,4,0,5,0
+2017,N,1082629,1,Gujarat Lions,Rising Pune Supergiant,154,7,119,10,40,44,10,0,15,5,2,2,5,2
+2017,N,1082629,2,Rising Pune Supergiant,Gujarat Lions,160,7,119,5,43,42,11,0,12,8,4,2,2,1
+2017,N,1082630,1,Sunrisers Hyderabad,Delhi Capitals,177,8,120,3,38,48,6,0,21,4,3,1,2,0
+2017,N,1082630,2,Delhi Capitals,Sunrisers Hyderabad,186,3,115,4,31,50,8,0,15,10,2,1,3,0
+2017,N,1082631,1,Kolkata Knight Riders,Rising Pune Supergiant,150,5,120,8,47,48,2,0,14,7,0,1,4,1
+2017,N,1082631,2,Rising Pune Supergiant,Kolkata Knight Riders,150,8,116,6,50,38,3,0,13,9,2,2,3,0
+2017,N,1082632,1,Gujarat Lions,Delhi Capitals,203,5,120,7,33,45,14,0,16,11,4,0,5,2
+2017,N,1082632,2,Delhi Capitals,Gujarat Lions,202,12,105,3,28,34,8,0,8,20,5,0,3,0
+2017,N,1082633,1,Kings XI Punjab,Royal Challengers Bangalore,126,12,120,7,50,42,11,0,11,3,3,1,6,0
+2017,N,1082633,2,Royal Challengers Bangalore,Kings XI Punjab,112,7,114,10,50,46,4,0,10,3,3,4,6,0
+2017,N,1082634,1,Rising Pune Supergiant,Sunrisers Hyderabad,141,7,120,8,36,55,15,0,5,6,4,1,5,2
+2017,N,1082634,2,Sunrisers Hyderabad,Rising Pune Supergiant,134,2,120,9,55,38,11,0,11,5,2,2,6,0
+2017,N,1082635,1,Mumbai Indians,Delhi Capitals,193,19,120,3,31,49,6,2,15,11,8,0,2,0
+2017,N,1082635,2,Delhi Capitals,Mumbai Indians,63,3,82,10,49,21,2,0,5,3,1,0,10,0
+2017,N,1082636,1,Royal Challengers Bangalore,Kolkata Knight Riders,155,3,120,6,37,55,10,0,11,6,2,2,4,0
+2017,N,1082636,2,Kolkata Knight Riders,Royal Challengers Bangalore,153,6,91,4,31,27,9,0,12,10,3,1,2,0
+2017,N,1082637,1,Kings XI Punjab,Gujarat Lions,186,3,120,3,25,60,14,0,14,7,3,1,2,0
+2017,N,1082637,2,Gujarat Lions,Kings XI Punjab,186,6,118,4,24,55,12,1,17,6,3,0,4,0
+2017,N,1082638,1,Mumbai Indians,Sunrisers Hyderabad,128,10,120,7,47,47,10,1,10,3,6,2,5,0
+2017,N,1082638,2,Sunrisers Hyderabad,Mumbai Indians,136,4,110,3,35,45,12,1,13,2,2,1,2,0
+2017,N,1082639,1,Kings XI Punjab,Kolkata Knight Riders,155,12,120,6,37,45,14,0,13,5,6,3,2,0
+2017,N,1082639,2,Kolkata Knight Riders,Kings XI Punjab,149,4,120,6,38,55,7,0,14,4,2,1,4,1
+2017,N,1082640,1,Gujarat Lions,Delhi Capitals,184,11,120,5,30,52,8,0,20,6,4,2,2,1
+2017,N,1082640,2,Delhi Capitals,Gujarat Lions,194,3,118,8,42,34,6,0,31,4,1,2,2,3
+2017,N,1082641,1,Kings XI Punjab,Mumbai Indians,220,10,120,3,26,56,10,0,17,10,9,1,2,0
+2017,N,1082641,2,Mumbai Indians,Kings XI Punjab,215,8,120,6,38,38,9,1,18,14,6,1,5,0
+2017,N,1082642,1,Delhi Capitals,Rising Pune Supergiant,161,7,120,8,42,43,10,2,14,6,4,1,5,1
+2017,N,1082642,2,Rising Pune Supergiant,Delhi Capitals,151,10,120,7,44,47,8,0,13,6,5,4,2,1
+2017,N,1082643,1,Gujarat Lions,Sunrisers Hyderabad,148,6,116,10,44,42,5,0,15,6,2,7,3,0
+2017,N,1082643,2,Sunrisers Hyderabad,Gujarat Lions,154,4,109,2,31,44,9,0,23,0,1,0,2,0
+2017,N,1082644,1,Mumbai Indians,Kolkata Knight Riders,156,17,120,5,46,40,5,0,19,5,5,1,2,1
+2017,N,1082644,2,Kolkata Knight Riders,Mumbai Indians,156,8,120,8,46,46,4,1,14,7,5,1,7,0
+2017,N,1082645,1,Kings XI Punjab,Rising Pune Supergiant,70,3,95,10,54,30,4,0,5,2,3,0,9,1
+2017,N,1082645,2,Rising Pune Supergiant,Kings XI Punjab,77,1,72,1,25,35,5,0,5,2,1,1,0,0
+2017,N,1082646,1,Royal Challengers Bangalore,Delhi Capitals,152,9,120,6,39,56,5,0,11,7,7,1,3,2
+2017,N,1082646,2,Delhi Capitals,Royal Challengers Bangalore,144,7,120,10,49,45,5,0,13,6,2,3,5,0
+2017,N,1082647,1,Rising Pune Supergiant,Mumbai Indians,155,7,120,4,41,51,10,0,8,8,5,2,1,1
+2017,N,1082647,2,Mumbai Indians,Rising Pune Supergiant,133,9,120,9,46,53,5,0,7,7,7,1,7,1
+2017,N,1082648,1,Sunrisers Hyderabad,Kolkata Knight Riders,121,7,120,7,51,49,3,0,9,5,2,1,5,0
+2017,N,1082648,2,Kolkata Knight Riders,Sunrisers Hyderabad,44,4,32,3,10,14,2,0,2,3,3,0,2,1
+2017,N,1082649,1,Kolkata Knight Riders,Mumbai Indians,100,7,113,10,55,39,4,1,8,3,3,3,6,0
+2017,N,1082649,2,Mumbai Indians,Kolkata Knight Riders,103,8,87,4,33,33,6,0,13,1,4,2,2,0
+2017,N,1082650,1,Mumbai Indians,Rising Pune Supergiant,121,8,120,8,52,47,6,0,8,5,5,1,4,2
+2017,N,1082650,2,Rising Pune Supergiant,Mumbai Indians,119,9,120,6,46,51,7,2,9,2,3,1,4,1
+2018,N,1136561,1,Mumbai Indians,Chennai Super Kings,161,4,120,4,47,37,11,0,18,5,2,1,3,0
+2018,N,1136561,2,Chennai Super Kings,Mumbai Indians,162,7,119,9,44,46,6,0,11,10,5,2,6,0
+2018,N,1136562,1,Delhi Capitals,Kings XI Punjab,160,6,120,7,26,67,8,1,11,5,4,3,3,1
+2018,N,1136562,2,Kings XI Punjab,Delhi Capitals,166,1,113,4,41,40,8,1,16,7,1,0,4,0
+2018,N,1136563,1,Royal Challengers Bangalore,Kolkata Knight Riders,170,6,120,7,45,46,4,0,14,10,1,2,5,0
+2018,N,1136563,2,Kolkata Knight Riders,Royal Challengers Bangalore,164,13,113,6,41,40,5,0,15,9,10,2,4,0
+2018,N,1136564,1,Rajasthan Royals,Sunrisers Hyderabad,117,8,120,9,45,52,7,1,12,0,5,1,6,2
+2018,N,1136564,2,Sunrisers Hyderabad,Rajasthan Royals,119,8,96,1,43,28,5,0,17,2,4,0,1,0
+2018,N,1136565,1,Kolkata Knight Riders,Chennai Super Kings,197,5,120,6,43,43,4,0,11,17,3,2,3,1
+2018,N,1136565,2,Chennai Super Kings,Kolkata Knight Riders,198,7,119,5,29,57,8,0,9,13,4,0,5,0
+2018,N,1136566,1,Rajasthan Royals,Delhi Capitals,150,3,107,5,33,44,10,2,11,6,2,2,2,1
+2018,N,1136566,2,Delhi Capitals,Rajasthan Royals,57,3,36,4,12,9,4,0,7,2,1,0,3,1
+2018,N,1136567,1,Mumbai Indians,Sunrisers Hyderabad,139,8,120,8,61,31,6,0,15,6,4,3,5,0
+2018,N,1136567,2,Sunrisers Hyderabad,Mumbai Indians,147,4,120,9,37,56,5,1,18,1,1,2,6,0
+2018,N,1136568,1,Kings XI Punjab,Royal Challengers Bangalore,149,6,116,10,39,48,7,1,12,6,3,4,4,0
+2018,N,1136568,2,Royal Challengers Bangalore,Kings XI Punjab,155,4,117,6,39,47,7,0,16,5,1,2,3,1
+2018,N,1136569,1,Mumbai Indians,Delhi Capitals,184,10,120,7,37,44,11,0,19,7,5,3,4,0
+2018,N,1136569,2,Delhi Capitals,Mumbai Indians,193,2,120,3,37,47,7,0,18,10,1,0,3,0
+2018,N,1136570,1,Kolkata Knight Riders,Sunrisers Hyderabad,131,7,120,8,52,42,8,0,12,4,3,0,7,0
+2018,N,1136570,2,Sunrisers Hyderabad,Kolkata Knight Riders,134,5,114,5,43,48,6,0,14,3,5,3,2,0
+2018,N,1136571,1,Rajasthan Royals,Royal Challengers Bangalore,203,14,120,4,34,48,7,0,14,14,8,1,3,0
+2018,N,1136571,2,Royal Challengers Bangalore,Rajasthan Royals,192,6,120,6,32,47,10,1,20,7,3,1,5,0
+2018,N,1136572,1,Kings XI Punjab,Chennai Super Kings,196,1,120,7,38,43,10,1,19,9,1,1,6,0
+2018,N,1136572,2,Chennai Super Kings,Kings XI Punjab,180,13,120,5,32,54,9,0,15,8,9,1,3,1
+2018,N,1136573,1,Kolkata Knight Riders,Delhi Capitals,194,6,120,9,47,38,5,0,14,15,2,1,7,0
+2018,N,1136573,2,Delhi Capitals,Kolkata Knight Riders,121,8,86,10,29,33,3,0,13,5,5,3,5,0
+2018,N,1136574,1,Mumbai Indians,Royal Challengers Bangalore,196,17,120,6,48,34,6,0,18,13,7,2,3,1
+2018,N,1136574,2,Royal Challengers Bangalore,Mumbai Indians,160,7,120,8,36,55,7,0,12,7,4,1,5,0
+2018,N,1136575,1,Rajasthan Royals,Kolkata Knight Riders,155,5,120,8,40,51,8,1,15,4,4,2,4,1
+2018,N,1136575,2,Kolkata Knight Riders,Rajasthan Royals,160,3,113,3,36,46,9,0,15,6,2,1,1,1
+2018,N,1136576,1,Kings XI Punjab,Sunrisers Hyderabad,185,8,120,3,38,51,5,0,10,14,3,1,2,0
+2018,N,1136576,2,Sunrisers Hyderabad,Kings XI Punjab,165,13,120,5,29,58,15,1,10,5,10,2,2,0
+2018,N,1136577,1,Chennai Super Kings,Rajasthan Royals,198,6,120,5,34,48,7,0,25,6,6,0,5,0
+2018,N,1136577,2,Rajasthan Royals,Chennai Super Kings,132,8,111,10,36,51,10,1,10,3,8,3,6,0
+2018,N,1136578,1,Kolkata Knight Riders,Kings XI Punjab,182,9,120,7,35,49,9,0,21,5,8,0,6,1
+2018,N,1136578,2,Kings XI Punjab,Kolkata Knight Riders,124,2,67,1,25,20,0,0,14,8,2,0,1,0
+2018,N,1136579,1,Delhi Capitals,Royal Challengers Bangalore,162,12,120,5,44,44,3,0,13,10,3,1,4,0
+2018,N,1136579,2,Royal Challengers Bangalore,Delhi Capitals,172,4,108,4,26,54,4,0,14,9,3,1,2,1
+2018,N,1136580,1,Chennai Super Kings,Sunrisers Hyderabad,178,4,120,3,39,52,3,0,18,8,4,0,1,1
+2018,N,1136580,2,Sunrisers Hyderabad,Chennai Super Kings,176,2,120,6,44,44,10,0,10,12,2,0,6,0
+2018,N,1136581,1,Mumbai Indians,Rajasthan Royals,162,5,120,7,43,44,12,0,13,7,4,3,3,1
+2018,N,1136581,2,Rajasthan Royals,Mumbai Indians,162,6,118,7,33,50,17,1,14,3,6,2,4,0
+2018,N,1136582,1,Kings XI Punjab,Delhi Capitals,129,14,120,8,42,47,11,0,12,2,4,2,6,0
+2018,N,1136582,2,Delhi Capitals,Kings XI Punjab,130,9,120,8,49,46,7,1,11,3,7,2,5,1
+2018,N,1136583,1,Sunrisers Hyderabad,Mumbai Indians,106,12,112,10,53,40,4,0,13,1,4,3,5,2
+2018,N,1136583,2,Mumbai Indians,Sunrisers Hyderabad,85,2,113,10,65,33,3,0,10,1,1,3,7,0
+2018,N,1136584,1,Royal Challengers Bangalore,Chennai Super Kings,197,8,120,8,42,39,13,0,9,16,4,0,5,2
+2018,N,1136584,2,Chennai Super Kings,Royal Challengers Bangalore,196,11,118,5,36,50,4,0,9,17,9,1,2,1
+2018,N,1136585,1,Sunrisers Hyderabad,Kings XI Punjab,124,8,120,6,51,40,14,0,11,2,3,1,5,0
+2018,N,1136585,2,Kings XI Punjab,Sunrisers Hyderabad,117,2,116,10,48,49,4,0,9,4,0,4,4,1
+2018,N,1136586,1,Delhi Capitals,Kolkata Knight Riders,215,4,120,4,38,42,8,0,15,16,3,2,1,1
+2018,N,1136586,2,Kolkata Knight Riders,Delhi Capitals,160,4,120,9,46,46,6,0,12,9,3,3,4,1
+2018,N,1136587,1,Chennai Super Kings,Mumbai Indians,162,7,120,5,42,48,6,0,12,9,4,0,5,0
+2018,N,1136587,2,Mumbai Indians,Chennai Super Kings,160,10,118,2,38,48,10,0,14,6,5,0,2,0
+2018,N,1136588,1,Sunrisers Hyderabad,Rajasthan Royals,150,1,120,7,37,52,13,0,15,2,0,2,5,0
+2018,N,1136588,2,Rajasthan Royals,Sunrisers Hyderabad,139,1,120,6,33,59,16,0,9,2,0,2,4,0
+2018,N,1136589,1,Royal Challengers Bangalore,Kolkata Knight Riders,165,10,120,4,40,45,9,0,12,9,4,1,3,0
+2018,N,1136589,2,Kolkata Knight Riders,Royal Challengers Bangalore,168,8,115,5,39,42,9,0,18,6,7,0,4,0
+2018,N,1136590,1,Chennai Super Kings,Delhi Capitals,204,7,120,4,32,51,6,0,14,14,4,1,2,1
+2018,N,1136590,2,Delhi Capitals,Chennai Super Kings,190,8,120,5,34,52,6,0,15,11,6,1,3,1
+2018,N,1136591,1,Royal Challengers Bangalore,Mumbai Indians,161,6,120,7,50,41,7,0,10,9,3,1,5,1
+2018,N,1136591,2,Mumbai Indians,Royal Challengers Bangalore,130,23,120,7,48,45,5,0,13,3,10,2,4,1
+2018,N,1136592,1,Delhi Capitals,Rajasthan Royals,189,7,103,6,36,31,4,1,16,13,6,1,4,0
+2018,N,1136592,2,Rajasthan Royals,Delhi Capitals,142,4,72,5,18,30,2,0,9,12,3,0,3,1
+2018,N,1136593,1,Chennai Super Kings,Kolkata Knight Riders,170,7,120,5,39,52,4,0,17,7,3,2,3,0
+2018,N,1136593,2,Kolkata Knight Riders,Chennai Super Kings,168,12,106,4,41,28,9,0,20,7,7,1,3,0
+2018,N,1136594,1,Kings XI Punjab,Mumbai Indians,164,10,120,6,41,54,2,0,10,11,5,0,5,1
+2018,N,1136594,2,Mumbai Indians,Kings XI Punjab,170,6,114,4,40,46,3,0,13,11,2,2,2,0
+2018,N,1136595,1,Royal Challengers Bangalore,Chennai Super Kings,123,4,120,9,51,46,5,0,11,3,1,1,3,2
+2018,N,1136595,2,Chennai Super Kings,Royal Challengers Bangalore,121,7,108,4,53,31,5,0,8,8,4,1,3,0
+2018,N,1136596,1,Delhi Capitals,Sunrisers Hyderabad,160,3,120,5,33,59,9,1,11,6,2,1,2,2
+2018,N,1136596,2,Sunrisers Hyderabad,Delhi Capitals,158,6,119,3,33,61,9,0,9,7,5,2,1,0
+2018,N,1136597,1,Mumbai Indians,Kolkata Knight Riders,175,6,120,4,41,45,8,0,18,7,5,0,4,0
+2018,N,1136597,2,Kolkata Knight Riders,Mumbai Indians,159,9,120,6,51,37,4,0,21,5,1,0,6,0
+2018,N,1136598,1,Rajasthan Royals,Kings XI Punjab,144,8,120,9,33,58,8,0,16,1,1,1,7,1
+2018,N,1136598,2,Kings XI Punjab,Rajasthan Royals,152,3,112,4,42,38,13,0,13,6,3,1,3,0
+2018,N,1136599,1,Sunrisers Hyderabad,Royal Challengers Bangalore,137,9,120,10,42,53,5,0,14,3,6,4,4,2
+2018,N,1136599,2,Royal Challengers Bangalore,Sunrisers Hyderabad,136,5,120,6,43,52,7,0,13,3,3,4,2,0
+2018,N,1136600,1,Rajasthan Royals,Kings XI Punjab,155,3,120,8,36,56,8,2,13,4,2,0,6,1
+2018,N,1136600,2,Kings XI Punjab,Rajasthan Royals,136,7,120,7,42,50,11,0,13,2,2,1,4,1
+2018,N,1136601,1,Mumbai Indians,Kolkata Knight Riders,203,7,120,6,41,40,7,0,16,14,5,0,6,0
+2018,N,1136601,2,Kolkata Knight Riders,Mumbai Indians,107,1,109,10,59,31,2,0,12,4,0,1,7,2
+2018,N,1136602,1,Delhi Capitals,Sunrisers Hyderabad,184,3,120,5,40,46,4,0,19,9,1,0,3,2
+2018,N,1136602,2,Sunrisers Hyderabad,Delhi Capitals,189,2,113,1,23,53,10,0,20,6,1,1,0,0
+2018,N,1136603,1,Chennai Super Kings,Rajasthan Royals,164,12,120,4,30,60,9,2,14,4,11,1,2,1
+2018,N,1136603,2,Rajasthan Royals,Chennai Super Kings,174,3,119,6,43,38,11,2,18,6,2,1,4,1
+2018,N,1136604,1,Kolkata Knight Riders,Kings XI Punjab,240,5,120,6,31,47,2,1,24,15,5,1,5,0
+2018,N,1136604,2,Kings XI Punjab,Kolkata Knight Riders,207,7,120,8,32,55,4,0,12,16,6,2,6,0
+2018,N,1136605,1,Delhi Capitals,Royal Challengers Bangalore,174,7,120,4,39,51,6,0,14,9,6,2,2,0
+2018,N,1136605,2,Royal Challengers Bangalore,Delhi Capitals,176,11,114,5,36,46,7,0,14,10,5,2,3,0
+2018,N,1136606,1,Sunrisers Hyderabad,Chennai Super Kings,166,13,120,4,38,50,6,0,17,6,10,0,4,0
+2018,N,1136606,2,Chennai Super Kings,Sunrisers Hyderabad,179,1,114,2,34,51,5,0,13,11,1,0,1,1
+2018,N,1136607,1,Mumbai Indians,Rajasthan Royals,159,9,120,6,46,44,5,1,15,7,7,0,6,0
+2018,N,1136607,2,Rajasthan Royals,Mumbai Indians,161,10,108,3,34,45,5,0,16,7,4,0,3,0
+2018,N,1136608,1,Kings XI Punjab,Royal Challengers Bangalore,83,5,91,10,47,31,1,0,5,5,3,1,6,3
+2018,N,1136608,2,Royal Challengers Bangalore,Kings XI Punjab,88,4,49,0,10,20,2,0,13,2,2,0,0,0
+2018,N,1136609,1,Rajasthan Royals,Kolkata Knight Riders,140,2,114,10,47,40,6,0,16,4,1,3,5,0
+2018,N,1136609,2,Kolkata Knight Riders,Rajasthan Royals,143,2,108,4,42,39,5,0,16,5,1,1,3,0
+2018,N,1136610,1,Mumbai Indians,Kings XI Punjab,175,11,120,8,38,48,6,0,12,11,6,1,7,0
+2018,N,1136610,2,Kings XI Punjab,Mumbai Indians,174,9,120,5,27,60,7,0,16,6,5,0,5,0
+2018,N,1136611,1,Royal Challengers Bangalore,Sunrisers Hyderabad,214,4,120,6,33,44,9,0,20,12,2,1,5,0
+2018,N,1136611,2,Sunrisers Hyderabad,Royal Challengers Bangalore,199,5,120,3,34,49,7,0,16,12,3,0,2,0
+2018,N,1136612,1,Delhi Capitals,Chennai Super Kings,153,9,120,5,47,45,7,0,10,9,6,2,3,0
+2018,N,1136612,2,Chennai Super Kings,Delhi Capitals,126,2,120,6,51,49,4,1,6,7,0,0,6,0
+2018,N,1136613,1,Rajasthan Royals,Royal Challengers Bangalore,159,5,120,5,37,51,14,0,11,6,4,1,3,1
+2018,N,1136613,2,Royal Challengers Bangalore,Rajasthan Royals,131,3,116,10,45,46,5,1,15,2,1,2,4,0
+2018,N,1136614,1,Sunrisers Hyderabad,Kolkata Knight Riders,161,11,120,9,40,48,9,1,14,6,6,1,7,1
+2018,N,1136614,2,Kolkata Knight Riders,Sunrisers Hyderabad,166,7,118,5,39,48,7,0,14,8,5,0,5,0
+2018,N,1136615,1,Delhi Capitals,Mumbai Indians,162,12,120,4,34,58,5,0,13,7,5,1,2,1
+2018,N,1136615,2,Mumbai Indians,Delhi Capitals,156,7,117,10,48,40,7,1,10,9,5,1,8,0
+2018,N,1136616,1,Kings XI Punjab,Chennai Super Kings,142,11,118,10,45,45,5,1,9,8,6,2,8,0
+2018,N,1136616,2,Chennai Super Kings,Kings XI Punjab,150,9,115,5,42,44,10,0,11,7,8,2,3,0
+2018,N,1136617,1,Sunrisers Hyderabad,Chennai Super Kings,130,9,120,7,54,43,6,1,12,4,9,1,2,1
+2018,N,1136617,2,Chennai Super Kings,Sunrisers Hyderabad,135,5,115,8,48,41,6,0,13,5,3,3,3,1
+2018,N,1136618,1,Kolkata Knight Riders,Rajasthan Royals,159,10,120,7,46,45,7,0,13,8,6,0,4,0
+2018,N,1136618,2,Rajasthan Royals,Kolkata Knight Riders,143,1,120,4,45,49,10,0,11,5,1,0,2,0
+2018,N,1136619,1,Sunrisers Hyderabad,Kolkata Knight Riders,169,5,120,7,38,53,5,0,16,7,4,1,3,2
+2018,N,1136619,2,Kolkata Knight Riders,Sunrisers Hyderabad,157,3,120,9,45,47,4,0,15,7,1,4,4,1
+2018,N,1136620,1,Sunrisers Hyderabad,Chennai Super Kings,170,8,120,6,38,55,4,0,13,9,7,1,3,1
+2018,N,1136620,2,Chennai Super Kings,Sunrisers Hyderabad,175,6,111,2,37,42,2,0,16,10,3,0,1,0
+2019,N,1175356,1,Royal Challengers Bangalore,Chennai Super Kings,66,4,103,10,57,31,7,1,3,1,1,1,7,1
+2019,N,1175356,2,Chennai Super Kings,Royal Challengers Bangalore,66,5,106,3,67,27,4,0,6,1,4,2,1,0
+2019,N,1175357,1,Sunrisers Hyderabad,Kolkata Knight Riders,173,8,120,3,30,52,11,1,15,6,3,2,1,0
+2019,N,1175357,2,Kolkata Knight Riders,Sunrisers Hyderabad,179,4,118,4,42,45,4,0,15,11,3,2,2,0
+2019,N,1175358,1,Delhi Capitals,Mumbai Indians,207,6,120,6,37,45,3,0,22,11,4,0,6,0
+2019,N,1175358,2,Mumbai Indians,Delhi Capitals,167,9,116,9,42,41,5,0,20,6,6,0,6,1
+2019,N,1175359,1,Kings XI Punjab,Rajasthan Royals,168,16,120,4,43,41,7,1,17,7,8,0,4,0
+2019,N,1175359,2,Rajasthan Royals,Kings XI Punjab,165,5,120,9,40,47,11,0,16,5,4,1,5,2
+2019,N,1175360,1,Delhi Capitals,Chennai Super Kings,140,7,120,6,44,48,8,0,16,2,5,2,4,0
+2019,N,1175360,2,Chennai Super Kings,Delhi Capitals,142,8,118,4,46,46,5,0,14,5,3,0,3,0
+2019,N,1175361,1,Kolkata Knight Riders,Kings XI Punjab,213,5,120,4,40,41,7,0,14,17,4,0,4,0
+2019,N,1175361,2,Kings XI Punjab,Kolkata Knight Riders,184,6,120,4,41,41,10,0,19,7,5,1,3,0
+2019,N,1175362,1,Mumbai Indians,Royal Challengers Bangalore,177,10,120,8,42,47,3,0,17,9,5,2,6,0
+2019,N,1175362,2,Royal Challengers Bangalore,Mumbai Indians,176,5,120,5,36,54,4,0,15,9,3,1,3,1
+2019,N,1175363,1,Rajasthan Royals,Sunrisers Hyderabad,193,5,120,2,31,50,14,0,18,7,4,1,1,0
+2019,N,1175363,2,Sunrisers Hyderabad,Rajasthan Royals,195,6,114,5,28,45,13,0,19,8,5,1,4,0
+2019,N,1175364,1,Mumbai Indians,Kings XI Punjab,169,7,120,7,34,50,9,1,20,3,4,3,4,0
+2019,N,1175364,2,Kings XI Punjab,Mumbai Indians,169,8,112,2,33,45,11,0,15,7,7,0,1,0
+2019,Y,1175365,1,Kolkata Knight Riders,Delhi Capitals,177,8,120,8,44,43,6,0,17,9,4,2,4,2
+2019,Y,1175365,2,Delhi Capitals,Kolkata Knight Riders,181,4,120,6,34,53,6,0,20,6,3,0,5,1
+2019,N,1175366,1,Sunrisers Hyderabad,Royal Challengers Bangalore,229,2,120,2,24,47,18,0,17,13,1,0,1,1
+2019,N,1175366,2,Royal Challengers Bangalore,Sunrisers Hyderabad,105,8,119,10,62,41,2,0,9,4,4,1,5,3
+2019,N,1175367,1,Chennai Super Kings,Rajasthan Royals,168,7,120,5,45,42,10,0,14,8,6,1,4,0
+2019,N,1175367,2,Rajasthan Royals,Chennai Super Kings,160,7,120,8,39,50,12,0,10,7,5,0,7,0
+2019,N,1175368,1,Kings XI Punjab,Delhi Capitals,157,9,120,9,42,51,4,0,17,5,4,3,4,2
+2019,N,1175368,2,Delhi Capitals,Kings XI Punjab,141,11,116,10,45,41,7,0,17,3,5,6,3,1
+2019,N,1175369,1,Royal Challengers Bangalore,Rajasthan Royals,153,5,120,4,42,46,8,0,18,3,2,1,2,0
+2019,N,1175369,2,Rajasthan Royals,Royal Challengers Bangalore,154,10,119,3,42,42,13,0,17,3,5,1,2,0
+2019,N,1175370,1,Mumbai Indians,Chennai Super Kings,164,6,120,5,45,47,4,1,16,6,5,0,5,0
+2019,N,1175370,2,Chennai Super Kings,Mumbai Indians,119,14,120,8,61,35,3,0,13,4,7,0,8,0
+2019,N,1175371,1,Delhi Capitals,Sunrisers Hyderabad,124,5,120,8,47,50,7,0,9,4,2,2,6,0
+2019,N,1175371,2,Sunrisers Hyderabad,Delhi Capitals,120,11,111,5,46,42,5,0,14,2,3,1,4,0
+2019,N,1175372,1,Royal Challengers Bangalore,Kolkata Knight Riders,200,5,120,3,31,44,17,0,20,7,4,1,1,0
+2019,N,1175372,2,Kolkata Knight Riders,Royal Challengers Bangalore,193,13,115,5,40,40,7,0,15,10,7,1,4,0
+2019,N,1178393,1,Chennai Super Kings,Kings XI Punjab,155,5,120,3,37,61,4,0,11,7,5,1,2,0
+2019,N,1178393,2,Kings XI Punjab,Chennai Super Kings,134,4,120,5,39,62,8,0,8,3,4,1,4,0
+2019,N,1178394,1,Mumbai Indians,Sunrisers Hyderabad,130,6,120,7,57,40,8,0,8,7,4,1,5,1
+2019,N,1178394,2,Sunrisers Hyderabad,Mumbai Indians,90,6,106,10,50,36,8,0,8,1,3,3,6,0
+2019,N,1178395,1,Royal Challengers Bangalore,Delhi Capitals,144,5,120,8,41,56,7,0,8,7,4,1,6,0
+2019,N,1178395,2,Delhi Capitals,Royal Challengers Bangalore,140,12,113,6,48,35,7,0,18,3,7,1,5,0
+2019,N,1178396,1,Rajasthan Royals,Kolkata Knight Riders,128,11,120,3,45,46,9,0,13,2,5,1,2,0
+2019,N,1178396,2,Kolkata Knight Riders,Rajasthan Royals,129,11,83,2,32,24,1,1,13,8,3,0,2,0
+2019,N,1178397,1,Sunrisers Hyderabad,Kings XI Punjab,142,8,120,4,41,45,17,1,12,2,3,0,3,1
+2019,N,1178397,2,Kings XI Punjab,Sunrisers Hyderabad,150,1,119,4,39,50,13,0,11,5,0,0,4,0
+2019,N,1178398,1,Kolkata Knight Riders,Chennai Super Kings,104,4,120,9,74,25,5,0,10,4,3,1,5,1
+2019,N,1178398,2,Chennai Super Kings,Kolkata Knight Riders,103,8,104,3,47,38,8,0,9,2,4,0,3,0
+2019,N,1178399,1,Kings XI Punjab,Mumbai Indians,190,7,120,4,41,44,8,0,13,13,5,0,4,0
+2019,N,1178399,2,Mumbai Indians,Kings XI Punjab,186,12,120,7,44,43,7,1,15,10,7,1,5,1
+2019,N,1178400,1,Rajasthan Royals,Chennai Super Kings,144,7,120,7,41,52,8,0,16,2,2,2,5,0
+2019,N,1178400,2,Chennai Super Kings,Rajasthan Royals,146,9,120,6,41,48,13,1,5,8,4,2,3,1
+2019,N,1178401,1,Kolkata Knight Riders,Delhi Capitals,173,5,120,7,42,47,5,1,16,8,4,2,5,0
+2019,N,1178401,2,Delhi Capitals,Kolkata Knight Riders,177,3,113,3,30,49,9,0,17,7,2,0,3,0
+2019,N,1178402,1,Mumbai Indians,Rajasthan Royals,183,4,120,5,34,51,11,0,14,9,3,1,4,0
+2019,N,1178402,2,Rajasthan Royals,Mumbai Indians,184,4,117,6,40,40,7,0,19,9,2,2,4,0
+2019,N,1178403,1,Kings XI Punjab,Royal Challengers Bangalore,166,7,120,4,43,48,5,0,15,8,5,2,1,0
+2019,N,1178403,2,Royal Challengers Bangalore,Kings XI Punjab,173,1,116,2,28,53,12,0,21,2,1,0,2,0
+2019,N,1178404,1,Kolkata Knight Riders,Chennai Super Kings,152,9,120,8,46,48,5,0,13,7,5,0,7,1
+2019,N,1178404,2,Chennai Super Kings,Kolkata Knight Riders,160,2,118,5,43,44,7,0,21,3,2,4,1,0
+2019,N,1178405,1,Delhi Capitals,Sunrisers Hyderabad,146,9,120,7,41,50,4,2,14,4,4,2,5,0
+2019,N,1178405,2,Sunrisers Hyderabad,Delhi Capitals,111,5,113,10,47,46,10,0,8,2,4,2,7,0
+2019,N,1178406,1,Royal Challengers Bangalore,Mumbai Indians,163,8,120,7,41,48,2,1,12,10,1,0,6,1
+2019,N,1178406,2,Mumbai Indians,Royal Challengers Bangalore,166,6,114,5,48,36,5,0,15,10,6,2,2,0
+2019,N,1178407,1,Kings XI Punjab,Rajasthan Royals,170,12,121,6,38,48,10,0,9,11,1,1,5,0
+2019,N,1178407,2,Rajasthan Royals,Kings XI Punjab,160,10,120,7,32,56,14,2,10,5,6,1,6,0
+2019,N,1178408,1,Chennai Super Kings,Sunrisers Hyderabad,125,7,120,5,48,47,8,0,11,3,3,3,2,0
+2019,N,1178408,2,Sunrisers Hyderabad,Chennai Super Kings,134,3,101,4,34,41,8,1,14,3,3,0,3,0
+2019,N,1178409,1,Mumbai Indians,Delhi Capitals,162,6,120,5,32,64,3,0,14,5,4,2,2,1
+2019,N,1178409,2,Delhi Capitals,Mumbai Indians,120,8,120,9,53,42,11,0,8,4,3,5,3,1
+2019,N,1178410,1,Royal Challengers Bangalore,Kolkata Knight Riders,207,6,120,4,33,49,7,0,18,12,5,0,4,0
+2019,N,1178410,2,Kolkata Knight Riders,Royal Challengers Bangalore,187,16,120,5,58,26,3,1,17,14,8,0,4,1
+2019,N,1178411,1,Mumbai Indians,Rajasthan Royals,152,9,120,5,42,46,13,0,11,6,4,2,2,0
+2019,N,1178411,2,Rajasthan Royals,Mumbai Indians,156,6,115,5,36,46,8,0,19,3,0,2,2,1
+2019,N,1178412,1,Kings XI Punjab,Delhi Capitals,158,5,120,7,42,52,3,0,13,8,2,0,4,0
+2019,N,1178412,2,Delhi Capitals,Kings XI Punjab,155,11,118,5,36,53,6,0,18,3,8,1,2,2
+2019,N,1178413,1,Kolkata Knight Riders,Sunrisers Hyderabad,154,5,120,8,44,50,6,0,11,8,4,1,6,1
+2019,N,1178413,2,Sunrisers Hyderabad,Kolkata Knight Riders,155,6,90,1,19,41,7,2,10,9,4,1,0,0
+2019,N,1178414,1,Royal Challengers Bangalore,Chennai Super Kings,157,4,120,7,44,45,9,0,13,7,2,0,7,0
+2019,N,1178414,2,Chennai Super Kings,Royal Challengers Bangalore,148,12,120,8,46,44,8,0,10,7,3,2,4,2
+2019,N,1178415,1,Rajasthan Royals,Delhi Capitals,186,5,120,6,34,43,15,1,23,3,4,2,3,1
+2019,N,1178415,2,Delhi Capitals,Rajasthan Royals,192,1,116,4,31,51,7,1,18,8,1,0,3,0
+2019,N,1178416,1,Sunrisers Hyderabad,Chennai Super Kings,171,4,120,3,33,50,17,1,12,6,3,0,2,0
+2019,N,1178416,2,Chennai Super Kings,Sunrisers Hyderabad,167,9,119,4,41,45,5,0,16,8,2,0,2,1
+2019,N,1178417,1,Royal Challengers Bangalore,Kings XI Punjab,191,11,120,4,35,46,5,1,15,12,5,1,3,0
+2019,N,1178417,2,Kings XI Punjab,Royal Challengers Bangalore,181,4,120,7,45,43,4,0,19,9,4,0,7,0
+2019,N,1178418,1,Kolkata Knight Riders,Rajasthan Royals,165,10,120,6,51,38,2,0,14,11,3,2,3,1
+2019,N,1178418,2,Rajasthan Royals,Kolkata Knight Riders,172,5,116,7,45,38,7,0,18,8,5,3,3,0
+2019,N,1178419,1,Mumbai Indians,Chennai Super Kings,151,4,120,4,47,45,6,2,13,6,3,0,4,0
+2019,N,1178419,2,Chennai Super Kings,Mumbai Indians,102,7,106,10,47,41,7,0,7,3,6,2,7,0
+2019,N,1178420,1,Sunrisers Hyderabad,Rajasthan Royals,151,9,120,8,29,61,11,3,12,1,3,1,6,0
+2019,N,1178420,2,Rajasthan Royals,Sunrisers Hyderabad,156,5,115,3,42,36,15,0,15,5,3,0,3,0
+2019,N,1178421,1,Delhi Capitals,Royal Challengers Bangalore,182,5,120,5,37,50,5,0,17,9,0,1,4,0
+2019,N,1178421,2,Royal Challengers Bangalore,Delhi Capitals,166,5,120,7,34,56,7,0,12,8,2,0,7,0
+2019,N,1178422,1,Kolkata Knight Riders,Mumbai Indians,225,7,120,2,36,45,1,1,21,15,6,0,2,0
+2019,N,1178422,2,Mumbai Indians,Kolkata Knight Riders,192,6,120,7,41,44,4,0,14,14,0,1,5,0
+2019,N,1178423,1,Sunrisers Hyderabad,Kings XI Punjab,192,20,120,6,22,57,15,1,15,7,10,2,4,0
+2019,N,1178423,2,Kings XI Punjab,Sunrisers Hyderabad,160,7,120,8,48,43,9,0,11,9,7,2,6,0
+2019,N,1178424,1,Royal Challengers Bangalore,Rajasthan Royals,59,3,30,7,8,5,6,0,6,3,1,0,7,0
+2019,N,1178424,2,Rajasthan Royals,Royal Challengers Bangalore,39,2,20,1,8,3,0,0,3,4,0,0,1,0
+2019,N,1178425,1,Chennai Super Kings,Delhi Capitals,172,7,120,4,43,48,4,0,17,7,5,0,3,0
+2019,N,1178425,2,Delhi Capitals,Chennai Super Kings,99,0,98,10,43,37,7,0,9,2,0,2,5,1
+2019,Y,1178426,1,Mumbai Indians,Sunrisers Hyderabad,154,8,120,5,43,46,6,0,15,6,2,0,5,0
+2019,Y,1178426,2,Sunrisers Hyderabad,Mumbai Indians,159,3,120,6,39,53,6,0,16,5,2,2,4,0
+2019,N,1178427,1,Kings XI Punjab,Kolkata Knight Riders,180,3,120,6,36,46,13,0,15,8,1,1,4,1
+2019,N,1178427,2,Kolkata Knight Riders,Kings XI Punjab,178,7,108,3,30,42,9,0,16,9,5,0,2,0
+2019,N,1178428,1,Rajasthan Royals,Delhi Capitals,106,9,120,9,56,50,3,0,8,3,6,1,6,1
+2019,N,1178428,2,Delhi Capitals,Rajasthan Royals,116,5,97,5,38,42,3,0,5,8,1,1,4,0
+2019,N,1178429,1,Sunrisers Hyderabad,Royal Challengers Bangalore,171,4,120,7,43,50,2,0,14,9,3,0,7,0
+2019,N,1178429,2,Royal Challengers Bangalore,Sunrisers Hyderabad,169,9,116,6,34,55,1,0,16,8,7,0,6,0
+2019,N,1178430,1,Chennai Super Kings,Kings XI Punjab,168,2,120,5,34,58,5,0,16,6,1,3,2,0
+2019,N,1178430,2,Kings XI Punjab,Chennai Super Kings,159,14,108,4,41,37,3,0,14,10,5,0,4,0
+2019,N,1178431,1,Kolkata Knight Riders,Mumbai Indians,123,10,120,7,58,45,3,0,2,10,8,1,6,0
+2019,N,1178431,2,Mumbai Indians,Kolkata Knight Riders,131,3,97,1,37,37,4,0,14,5,3,0,1,0
+2019,N,1181764,1,Chennai Super Kings,Mumbai Indians,126,5,120,4,49,50,6,0,10,4,4,0,2,0
+2019,N,1181764,2,Mumbai Indians,Chennai Super Kings,124,8,111,4,46,38,10,0,15,1,2,2,1,0
+2019,N,1181766,1,Sunrisers Hyderabad,Delhi Capitals,152,10,120,8,44,50,6,0,12,6,8,1,6,1
+2019,N,1181766,2,Delhi Capitals,Sunrisers Hyderabad,159,6,119,8,51,39,5,0,14,9,5,1,5,0
+2019,N,1181767,1,Delhi Capitals,Chennai Super Kings,139,8,120,9,45,50,6,0,13,4,3,3,6,0
+2019,N,1181767,2,Chennai Super Kings,Delhi Capitals,140,11,114,4,43,46,4,0,14,5,2,1,3,0
+2019,N,1181768,1,Mumbai Indians,Chennai Super Kings,146,3,120,8,51,46,5,0,9,9,3,2,4,1
+2019,N,1181768,2,Chennai Super Kings,Mumbai Indians,139,9,120,7,55,36,9,0,11,6,4,2,2,2
+2020,N,1216492,1,Mumbai Indians,Chennai Super Kings,157,5,120,9,39,49,12,0,15,4,4,1,8,0
+2020,N,1216492,2,Chennai Super Kings,Mumbai Indians,162,4,116,5,36,53,6,1,15,5,4,3,1,0
+2020,Y,1216493,1,Delhi Capitals,Kings XI Punjab,148,9,120,8,49,45,4,2,13,6,8,1,5,2
+2020,Y,1216493,2,Kings XI Punjab,Delhi Capitals,149,8,120,8,46,42,10,1,12,6,2,2,6,0
+2020,N,1216494,1,Kolkata Knight Riders,Royal Challengers Bangalore,81,3,120,8,70,35,5,0,6,2,1,2,5,1
+2020,N,1216494,2,Royal Challengers Bangalore,Kolkata Knight Riders,80,5,81,2,38,27,3,1,11,0,3,0,1,1
+2020,N,1216495,1,Mumbai Indians,Sunrisers Hyderabad,148,1,120,8,46,50,5,0,10,8,0,3,4,0
+2020,N,1216495,2,Sunrisers Hyderabad,Mumbai Indians,143,8,103,0,30,45,9,0,17,2,4,0,0,0
+2020,N,1216496,1,Rajasthan Royals,Chennai Super Kings,207,9,120,7,33,56,6,0,9,15,8,1,4,1
+2020,N,1216496,2,Chennai Super Kings,Rajasthan Royals,195,5,120,6,34,58,2,0,9,16,4,1,3,0
+2020,N,1216497,1,Kolkata Knight Riders,Delhi Capitals,187,7,120,6,42,39,8,0,24,6,5,1,5,0
+2020,N,1216497,2,Delhi Capitals,Kolkata Knight Riders,129,6,121,9,48,50,7,1,11,3,4,3,6,0
+2020,N,1216498,1,Kings XI Punjab,Sunrisers Hyderabad,119,7,120,7,46,48,14,1,7,2,5,1,4,1
+2020,N,1216498,2,Sunrisers Hyderabad,Kings XI Punjab,110,4,119,10,58,44,3,0,12,2,4,1,8,1
+2020,N,1216499,1,Royal Challengers Bangalore,Mumbai Indians,161,3,120,6,47,39,10,0,21,3,3,0,5,0
+2020,N,1216499,2,Mumbai Indians,Royal Challengers Bangalore,158,8,115,5,46,35,9,1,15,7,6,0,5,0
+2020,N,1216500,1,Delhi Capitals,Rajasthan Royals,170,14,121,8,42,48,6,0,10,11,6,0,5,2
+2020,N,1216500,2,Rajasthan Royals,Delhi Capitals,128,10,119,10,48,51,3,1,8,6,7,2,8,0
+2020,N,1216501,1,Kolkata Knight Riders,Chennai Super Kings,157,10,120,10,36,53,9,0,14,5,6,0,9,1
+2020,N,1216501,2,Chennai Super Kings,Kolkata Knight Riders,153,4,120,5,39,53,5,0,18,3,2,2,3,0
+2020,N,1216502,1,Royal Challengers Bangalore,Sunrisers Hyderabad,109,11,120,7,47,53,7,0,9,1,4,1,5,0
+2020,N,1216502,2,Sunrisers Hyderabad,Royal Challengers Bangalore,115,6,85,5,35,30,4,1,8,7,5,0,4,0
+2020,N,1216503,1,Mumbai Indians,Kings XI Punjab,185,6,120,4,40,47,5,0,17,10,5,1,2,1
+2020,N,1216503,2,Kings XI Punjab,Mumbai Indians,136,7,120,8,41,51,12,1,10,3,5,4,4,0
+2020,N,1216504,1,Kolkata Knight Riders,Rajasthan Royals,163,11,120,6,43,42,11,1,12,8,8,1,4,0
+2020,N,1216504,2,Rajasthan Royals,Kolkata Knight Riders,130,7,120,9,51,40,13,0,4,8,1,1,8,0
+2020,N,1216505,1,Royal Challengers Bangalore,Delhi Capitals,148,4,120,7,41,50,10,2,12,4,3,1,5,1
+2020,N,1216505,2,Delhi Capitals,Royal Challengers Bangalore,148,6,114,4,28,54,13,0,14,2,3,1,3,0
+2020,N,1216506,1,Kings XI Punjab,Chennai Super Kings,151,2,120,6,37,57,8,0,12,5,1,4,2,0
+2020,N,1216506,2,Chennai Super Kings,Kings XI Punjab,140,14,113,1,36,47,12,1,12,3,3,0,1,0
+2020,N,1216507,1,Sunrisers Hyderabad,Rajasthan Royals,155,3,120,4,42,50,13,0,6,9,3,1,2,1
+2020,N,1216507,2,Rajasthan Royals,Sunrisers Hyderabad,157,6,119,5,36,54,8,1,12,6,2,2,2,1
+2020,N,1216508,1,Mumbai Indians,Kolkata Knight Riders,181,14,120,5,34,50,11,1,13,9,11,0,3,1
+2020,N,1216508,2,Kolkata Knight Riders,Mumbai Indians,141,5,120,9,56,39,4,0,13,7,3,2,6,0
+2020,N,1216509,1,Chennai Super Kings,Delhi Capitals,175,4,120,4,42,47,8,0,13,10,4,1,3,0
+2020,N,1216509,2,Delhi Capitals,Chennai Super Kings,181,4,119,5,31,55,8,0,17,7,3,0,4,0
+2020,N,1216510,1,Kings XI Punjab,Royal Challengers Bangalore,195,11,121,3,31,51,9,0,21,7,4,1,2,0
+2020,N,1216510,2,Royal Challengers Bangalore,Kings XI Punjab,100,9,102,10,51,30,6,0,10,3,6,6,4,0
+2020,N,1216511,1,Mumbai Indians,Rajasthan Royals,179,14,121,4,41,43,7,0,18,8,6,0,4,0
+2020,N,1216511,2,Rajasthan Royals,Mumbai Indians,134,2,109,10,45,38,8,0,11,6,1,1,9,0
+2020,Y,1216512,1,Kolkata Knight Riders,Sunrisers Hyderabad,160,3,120,5,40,49,8,0,16,5,1,1,4,0
+2020,Y,1216512,2,Sunrisers Hyderabad,Kolkata Knight Riders,153,10,120,6,43,37,16,0,18,2,3,2,4,0
+2020,N,1216513,1,Kings XI Punjab,Chennai Super Kings,174,4,120,4,35,47,16,1,14,6,3,0,4,0
+2020,N,1216513,2,Chennai Super Kings,Kings XI Punjab,170,11,106,0,30,42,8,0,22,4,7,0,0,0
+2020,N,1216514,1,Rajasthan Royals,Royal Challengers Bangalore,151,3,120,6,40,57,5,0,9,8,2,1,4,0
+2020,N,1216514,2,Royal Challengers Bangalore,Rajasthan Royals,155,3,115,2,35,48,11,1,16,3,1,2,0,0
+2020,N,1216515,1,Delhi Capitals,Kolkata Knight Riders,226,2,120,4,23,60,5,0,18,14,2,0,4,0
+2020,N,1216515,2,Kolkata Knight Riders,Delhi Capitals,197,13,120,8,35,49,6,1,12,14,7,2,6,0
+2020,N,1216516,1,Sunrisers Hyderabad,Chennai Super Kings,156,8,120,5,43,47,9,1,18,2,8,1,3,1
+2020,N,1216516,2,Chennai Super Kings,Sunrisers Hyderabad,146,11,120,5,49,39,9,1,14,5,4,2,2,1
+2020,Y,1216517,1,Mumbai Indians,Kings XI Punjab,169,7,120,6,46,42,4,0,15,9,1,1,5,0
+2020,Y,1216517,2,Kings XI Punjab,Mumbai Indians,172,4,120,6,44,40,14,0,14,8,4,2,3,1
+2020,N,1216518,1,Rajasthan Royals,Sunrisers Hyderabad,151,3,120,6,41,47,16,0,12,4,3,2,3,1
+2020,N,1216518,2,Sunrisers Hyderabad,Rajasthan Royals,149,7,109,2,44,39,4,0,12,9,5,1,1,0
+2020,N,1216519,1,Delhi Capitals,Royal Challengers Bangalore,186,10,120,4,31,51,9,1,18,6,6,1,3,0
+2020,N,1216519,2,Royal Challengers Bangalore,Delhi Capitals,126,11,120,9,42,52,9,0,11,2,6,2,7,0
+2020,N,1216520,1,Kolkata Knight Riders,Kings XI Punjab,143,6,120,9,55,39,4,0,12,8,3,4,5,0
+2020,N,1216520,2,Kings XI Punjab,Kolkata Knight Riders,147,3,113,2,46,39,5,0,14,7,1,1,1,0
+2020,N,1216521,1,Chennai Super Kings,Mumbai Indians,102,12,120,9,65,34,7,0,9,3,5,2,6,0
+2020,N,1216521,2,Mumbai Indians,Chennai Super Kings,114,2,74,0,28,26,1,0,11,7,0,0,0,0
+2020,N,1216522,1,Rajasthan Royals,Royal Challengers Bangalore,167,10,120,6,40,49,10,0,15,5,9,1,5,0
+2020,N,1216522,2,Royal Challengers Bangalore,Rajasthan Royals,166,13,118,3,36,49,15,2,5,10,12,0,3,0
+2020,N,1216523,1,Kolkata Knight Riders,Kings XI Punjab,155,9,120,6,44,37,16,0,17,3,4,1,2,3
+2020,N,1216523,2,Kings XI Punjab,Kolkata Knight Riders,160,2,120,5,32,53,14,1,16,2,0,2,3,0
+2020,N,1216524,1,Sunrisers Hyderabad,Delhi Capitals,208,11,120,2,29,39,15,3,25,5,4,0,2,0
+2020,N,1216524,2,Delhi Capitals,Sunrisers Hyderabad,122,9,114,10,49,44,4,0,13,3,5,3,7,0
+2020,N,1216525,1,Royal Challengers Bangalore,Chennai Super Kings,157,12,120,4,37,53,14,0,8,7,11,1,3,0
+2020,N,1216525,2,Chennai Super Kings,Royal Challengers Bangalore,127,5,120,8,48,45,14,0,12,1,5,2,5,1
+2020,N,1216526,1,Kolkata Knight Riders,Mumbai Indians,141,7,120,5,52,37,11,0,13,5,5,1,4,0
+2020,N,1216526,2,Mumbai Indians,Kolkata Knight Riders,144,5,101,2,40,30,6,0,18,5,0,1,1,0
+2020,N,1216527,1,Kings XI Punjab,Rajasthan Royals,213,10,121,2,29,54,5,1,20,11,6,0,2,0
+2020,N,1216527,2,Rajasthan Royals,Kings XI Punjab,218,8,117,6,39,35,8,1,14,18,6,1,5,0
+2020,N,1216528,1,Chennai Super Kings,Sunrisers Hyderabad,162,5,120,6,44,44,8,0,12,9,2,2,4,0
+2020,N,1216528,2,Sunrisers Hyderabad,Chennai Super Kings,141,6,120,8,41,52,11,1,13,2,6,1,3,1
+2020,N,1216529,1,Delhi Capitals,Mumbai Indians,157,5,120,4,33,55,14,0,17,1,5,1,2,1
+2020,N,1216529,2,Mumbai Indians,Delhi Capitals,162,4,118,5,37,54,6,0,15,6,4,0,5,0
+2020,N,1216530,1,Kolkata Knight Riders,Rajasthan Royals,184,7,120,7,45,36,6,0,16,12,2,0,7,0
+2020,N,1216530,2,Rajasthan Royals,Kolkata Knight Riders,126,5,120,9,55,40,9,0,11,4,3,1,7,0
+2020,N,1216531,1,Royal Challengers Bangalore,Kings XI Punjab,159,12,120,6,30,63,8,0,8,8,5,1,5,0
+2020,N,1216531,2,Kings XI Punjab,Royal Challengers Bangalore,165,12,120,2,43,51,3,0,6,14,6,1,0,1
+2020,N,1216532,1,Sunrisers Hyderabad,Delhi Capitals,155,7,120,4,29,59,11,2,11,4,3,0,4,0
+2020,N,1216532,2,Delhi Capitals,Sunrisers Hyderabad,136,11,120,7,44,50,7,2,9,5,4,2,5,0
+2020,N,1216533,1,Chennai Super Kings,Rajasthan Royals,120,5,120,5,48,47,8,1,12,1,2,0,4,1
+2020,N,1216533,2,Rajasthan Royals,Chennai Super Kings,119,7,105,3,45,30,12,0,12,2,1,1,2,0
+2020,N,1216534,1,Royal Challengers Bangalore,Sunrisers Hyderabad,158,5,120,5,34,56,13,0,13,3,4,2,1,2
+2020,N,1216534,2,Sunrisers Hyderabad,Royal Challengers Bangalore,138,15,118,10,45,42,11,0,14,3,4,5,3,2
+2020,N,1216535,1,Delhi Capitals,Mumbai Indians,105,5,120,9,60,37,11,0,7,3,2,2,5,1
+2020,N,1216535,2,Mumbai Indians,Delhi Capitals,110,1,86,1,32,33,6,1,11,3,1,1,0,0
+2020,N,1216536,1,Kolkata Knight Riders,Chennai Super Kings,170,2,120,5,41,46,7,0,20,5,1,1,4,0
+2020,N,1216536,2,Chennai Super Kings,Kolkata Knight Riders,169,9,120,4,38,55,5,0,15,7,5,2,2,0
+2020,N,1216537,1,Kings XI Punjab,Rajasthan Royals,174,11,120,4,46,46,5,0,9,13,9,1,3,0
+2020,N,1216537,2,Rajasthan Royals,Kings XI Punjab,181,5,105,3,30,39,7,0,17,10,3,0,2,1
+2020,N,1216538,1,Mumbai Indians,Sunrisers Hyderabad,204,4,120,5,37,47,6,0,15,14,3,1,3,0
+2020,N,1216538,2,Sunrisers Hyderabad,Mumbai Indians,159,15,120,7,41,47,11,0,12,7,9,1,6,0
+2020,N,1216539,1,Delhi Capitals,Chennai Super Kings,167,8,120,3,34,49,13,0,20,2,3,1,1,0
+2020,N,1216539,2,Chennai Super Kings,Delhi Capitals,126,5,120,7,45,51,9,1,12,1,4,1,5,1
+2020,N,1216540,1,Royal Challengers Bangalore,Kolkata Knight Riders,185,9,120,2,33,47,17,0,13,8,5,2,0,0
+2020,N,1216540,2,Kolkata Knight Riders,Royal Challengers Bangalore,106,6,120,9,49,54,4,0,8,2,3,4,4,1
+2020,N,1216541,1,Mumbai Indians,Rajasthan Royals,186,9,120,5,39,50,4,0,14,12,5,2,3,0
+2020,N,1216541,2,Rajasthan Royals,Mumbai Indians,185,11,110,2,31,35,12,0,21,7,7,1,1,0
+2020,N,1216542,1,Sunrisers Hyderabad,Kings XI Punjab,190,11,120,6,38,42,12,3,15,9,5,1,4,0
+2020,N,1216542,2,Kings XI Punjab,Sunrisers Hyderabad,128,4,101,10,42,32,9,0,9,7,2,3,5,2
+2020,N,1216543,1,Delhi Capitals,Rajasthan Royals,151,10,120,7,37,56,8,1,11,5,8,1,6,0
+2020,N,1216543,2,Rajasthan Royals,Delhi Capitals,143,5,120,8,41,58,2,0,14,4,4,3,3,1
+2020,N,1216544,1,Royal Challengers Bangalore,Chennai Super Kings,136,9,120,6,36,64,5,1,11,2,7,1,5,0
+2020,N,1216544,2,Chennai Super Kings,Royal Challengers Bangalore,148,2,112,2,40,46,6,0,12,7,1,1,1,0
+2020,N,1216545,1,Sunrisers Hyderabad,Kolkata Knight Riders,135,7,120,4,36,57,11,0,8,4,3,1,0,1
+2020,N,1216545,2,Kolkata Knight Riders,Sunrisers Hyderabad,138,7,108,3,34,51,3,0,14,4,4,1,2,0
+2020,N,1216546,1,Delhi Capitals,Kings XI Punjab,160,4,120,5,34,58,8,0,14,5,3,1,4,0
+2020,N,1216546,2,Kings XI Punjab,Delhi Capitals,159,8,114,5,39,46,6,1,14,7,6,1,3,1
+2020,Y,1216547,1,Royal Challengers Bangalore,Mumbai Indians,191,10,120,3,36,44,8,1,17,10,3,0,3,0
+2020,Y,1216547,2,Mumbai Indians,Royal Challengers Bangalore,196,5,120,5,33,55,9,1,6,16,5,0,5,0
+2020,N,1237177,1,Mumbai Indians,Delhi Capitals,196,4,120,5,35,48,8,0,15,12,1,1,4,0
+2020,N,1237177,2,Delhi Capitals,Mumbai Indians,137,6,120,8,56,41,4,0,13,6,6,3,5,0
+2020,N,1237178,1,Royal Challengers Bangalore,Sunrisers Hyderabad,127,4,120,7,40,58,11,0,10,1,4,1,5,1
+2020,N,1237178,2,Sunrisers Hyderabad,Royal Challengers Bangalore,122,10,118,4,49,46,7,0,11,3,5,0,4,0
+2020,N,1237180,1,Delhi Capitals,Sunrisers Hyderabad,181,8,120,3,24,61,12,0,15,5,5,2,1,0
+2020,N,1237180,2,Sunrisers Hyderabad,Delhi Capitals,166,6,120,8,39,54,5,0,12,9,5,2,6,0
+2020,N,1237181,1,Delhi Capitals,Mumbai Indians,152,4,120,7,41,50,9,0,15,4,3,1,5,1
+2020,N,1237181,2,Mumbai Indians,Delhi Capitals,153,4,112,5,38,49,3,0,14,7,0,1,3,1
