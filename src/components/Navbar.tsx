@@ -40,12 +40,12 @@ const Navbar: React.FC = () => (
     </div>
 
     {/* Center: subtitle (hidden on small screens via CSS) */}
-    <span className="nav-center-title" style={{ alignItems: 'center', color: 'rgba(255,255,255,0.5)', fontSize: 13 }}>
+    <span className="nav-center-title" style={{ color: 'rgba(255,255,255,0.5)', fontSize: 13 }}>
       IPL Analytics Platform
     </span>
 
     {/* Right: bell + user avatar */}
-    {/* <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+    <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
       <Bell size={18} color="rgba(255,255,255,0.7)" style={{ cursor: 'default' }} />
       <div style={{
         width: 32, height: 32, borderRadius: '50%',
@@ -54,9 +54,9 @@ const Navbar: React.FC = () => (
         color: 'white', fontSize: 13, fontWeight: 600,
         cursor: 'default', flexShrink: 0,
       }}>
-        MK
+        CM
       </div>
-    </div> */}
+    </div>
   </nav>
 )
 

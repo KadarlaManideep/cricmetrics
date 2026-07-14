@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Sidebar from './Sidebar'
+import ChatBot from './ChatBot'
 
 type Props = { children: React.ReactNode }
 
@@ -18,6 +19,7 @@ const Layout: React.FC<Props> = ({ children }) => (
         {children}
       </div>
     </main>
+    <ChatBot />
   </>
 )
 

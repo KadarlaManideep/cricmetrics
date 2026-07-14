@@ -5,6 +5,13 @@ import { MapPin, User, Trophy } from 'lucide-react'
 import { usePagination } from '../hooks/usePagination'
 import Pagination from '../components/Pagination'
 
+const isPlayoffRow = (d: MatchSummaryCSV) => {
+  const v = d.playoff
+  if (v === null || v === undefined) return false
+  const s = String(v).trim()
+  return s !== '' && s !== '0'
+}
+
 const Matches: React.FC = () => {
   const { data, loading, error } = useCSV<MatchSummaryCSV>('ipl_match_summary.csv')
 
@@ -29,8 +36,8 @@ const Matches: React.FC = () => {
     return data.filter(d => {
       if (season && String(d.season) !== season) return false
       if (team && d.team1 !== team && d.team2 !== team) return false
-      if (stageFilter === 'league' && d.playoff && String(d.playoff).trim() !== '') return false
-      if (stageFilter === 'playoff' && (!d.playoff || String(d.playoff).trim() === '')) return false
+      if (stageFilter === 'league' && isPlayoffRow(d)) return false
+      if (stageFilter === 'playoff' && !isPlayoffRow(d)) return false
       return true
     })
   }, [data, season, team, stageFilter])
@@ -98,7 +105,7 @@ const Matches: React.FC = () => {
 
       <div style={{ display: 'grid', gap: 8 }}>
         {pageData.map((m, i) => {
-          const isPlayoff = m.playoff && String(m.playoff).trim() !== ''
+          const isPlayoff = isPlayoffRow(m)
           return (
             <div key={`${m.id}-${i}`} className="match-card">
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 8 }}>
