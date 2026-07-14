@@ -1,0 +1,6 @@
+@CricMetrics.MCP_HostAddress = http://localhost:5271
+
+GET {{CricMetrics.MCP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
